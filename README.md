@@ -26,3 +26,4 @@ List of useful links. Just using Chrome extension called "Like On Github" https:
 
 ### October 22, 2017 
 - [unix121/i3wm-themer: My collection of Themes for i3-wm](https://github.com/unix121/i3wm-themer) 
+- [sindresorhus/ama: What is your dev environment? · Issue #28 · sindresorhus/ama](https://github.com/sindresorhus/ama/issues/28) 
