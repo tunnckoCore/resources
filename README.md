@@ -12,3 +12,4 @@ List of useful links. Just using Chrome extension called "Like On Github" https:
 - [Lange - The First Rebirth - YouTube](https://www.youtube.com/watch?v=9-X_qjcU8YQ&list=LLds4r_hpAN59ECbzUm4ZODA&index=3) 
 - [ZEIT Day Berlin 2017 - Keynote - YouTube](https://www.youtube.com/watch?v=xL1O94FO6tY) 
 - [A minimalist Openbox desktop for Vim freaks](http://blog.johnnovak.net/2016/11/13/a-minimalist-openbox-desktop-for-vim-freaks/) 
+- [Full disk encryption with LUKS (including /boot) · Pavel Kogan](http://www.pavelkogan.com/2014/05/23/luks-full-disk-encryption/) 
