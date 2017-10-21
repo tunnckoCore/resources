@@ -19,3 +19,4 @@ List of useful links. Just using Chrome extension called "Like On Github" https:
 - [Diddy - Dirty Money - Coming Home ft. Skylar Grey - YouTube](https://www.youtube.com/watch?v=k-ImCpNqbJw&loop=10&start=00:00&end=04:10) 
 - [GHUB NOW - A micro-service that redirects to the repository page](https://ghub.now.sh/) 
 - [Code Sponsor | We find sponsorship funding for open source](https://codesponsor.io/) 
+- [What is free software? - GNU Project - Free Software Foundation](https://www.gnu.org/philosophy/free-sw.en.html) 
