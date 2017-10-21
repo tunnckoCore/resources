@@ -23,3 +23,6 @@ List of useful links. Just using Chrome extension called "Like On Github" https:
 - [What is Copyleft? - GNU Project - Free Software Foundation](https://www.gnu.org/copyleft/copyleft.html) 
 - [Why Open Source Misses the Point of Free Software - GNU Project - Free Software Foundation](https://www.gnu.org/philosophy/open-source-misses-the-point.html) 
 - [JavaScript Air PODCAST](https://javascriptair.com/index.html) 
+
+### October 22, 2017 
+- [unix121/i3wm-themer: My collection of Themes for i3-wm](https://github.com/unix121/i3wm-themer) 
