@@ -15,3 +15,4 @@ List of useful links. Just using Chrome extension called "Like On Github" https:
 - [Full disk encryption with LUKS (including /boot) · Pavel Kogan](http://www.pavelkogan.com/2014/05/23/luks-full-disk-encryption/) 
 - [7 Ways to Prevent Work Burnout | HuffPost](https://www.huffingtonpost.com/nicole-williams/7-ways-to-prevent-work-burnout_b_7342468.html) 
 - [Freelancer Time Management Systems | Toptal](https://www.toptal.com/software/time-management-secrets?utm_campaign=blog_post_time_management_secrets&utm_medium=email&utm_source=blog_subscribers) 
+- [Parallel vs Concurrent in Node.js](https://bytearcher.com/articles/parallel-vs-concurrent/) 
