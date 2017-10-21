@@ -7,3 +7,4 @@ List of useful links. Just using Chrome extension called "Like On Github" https:
 - [The State of the Web – Karolina Szczur – Medium](https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3) 
 - [ITT 2016 - Kevlin Henney - Seven Ineffective Coding Habits of Many Programmers - YouTube](https://www.youtube.com/watch?v=ZsHMHukIlJY) 
 - [An opinionated guide to writing developer resumes in 2017](https://medium.freecodecamp.org/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9) 
+- [Quick Tip: Getting Started with Headless Chrome in Node.js — SitePoint](https://www.sitepoint.com/headless-chrome-node-js/) 
