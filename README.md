@@ -11,3 +11,4 @@ List of useful links. Just using Chrome extension called "Like On Github" https:
 - [Open Source Licenses - YouTube](https://www.youtube.com/watch?v=FoCHY4tnERA&list=LLds4r_hpAN59ECbzUm4ZODA&index=8) 
 - [Lange - The First Rebirth - YouTube](https://www.youtube.com/watch?v=9-X_qjcU8YQ&list=LLds4r_hpAN59ECbzUm4ZODA&index=3) 
 - [ZEIT Day Berlin 2017 - Keynote - YouTube](https://www.youtube.com/watch?v=xL1O94FO6tY) 
+- [A minimalist Openbox desktop for Vim freaks](http://blog.johnnovak.net/2016/11/13/a-minimalist-openbox-desktop-for-vim-freaks/) 
