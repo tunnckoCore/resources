@@ -20,3 +20,4 @@ List of useful links. Just using Chrome extension called "Like On Github" https:
 - [GHUB NOW - A micro-service that redirects to the repository page](https://ghub.now.sh/) 
 - [Code Sponsor | We find sponsorship funding for open source](https://codesponsor.io/) 
 - [What is free software? - GNU Project - Free Software Foundation](https://www.gnu.org/philosophy/free-sw.en.html) 
+- [What is Copyleft? - GNU Project - Free Software Foundation](https://www.gnu.org/copyleft/copyleft.html) 
