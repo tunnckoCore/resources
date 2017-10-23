@@ -36,3 +36,4 @@ Collections of links from everyday surfing.
 - [Flycheck — Syntax checking for GNU Emacs — Flycheck 32-cvs documentation](http://www.flycheck.org/en/latest/) 
 - [Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs - YouTube](https://www.youtube.com/watch?v=JWD1Fpdd4Pc) 
 - [Emacs For Writers - YouTube](https://www.youtube.com/watch?v=FtieBc3KptU) 
+- [jsonreeder/vscode-org-mode: Emacs Org Mode for Visual Studio Code](https://github.com/jsonreeder/vscode-org-mode) 
