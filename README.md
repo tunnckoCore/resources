@@ -35,3 +35,4 @@ Collections of links from everyday surfing.
 - [olstenlarck/xfce4-terminal-snazzy: The `sindresorhus/hyper-snazzy` theme for the `xfce4-terminal`, yeah!](https://github.com/olstenlarck/xfce4-terminal-snazzy) 
 - [Flycheck — Syntax checking for GNU Emacs — Flycheck 32-cvs documentation](http://www.flycheck.org/en/latest/) 
 - [Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs - YouTube](https://www.youtube.com/watch?v=JWD1Fpdd4Pc) 
+- [Emacs For Writers - YouTube](https://www.youtube.com/watch?v=FtieBc3KptU) 
