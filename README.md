@@ -34,3 +34,4 @@ List of useful links. Just using Chrome extension called "Like On Github" https:
 - [i3wm: Jump Start (1/3) - YouTube](https://www.youtube.com/watch?v=j1I63wGcvU4) 
 - [olstenlarck/xfce4-terminal-snazzy: The `sindresorhus/hyper-snazzy` theme for the `xfce4-terminal`, yeah!](https://github.com/olstenlarck/xfce4-terminal-snazzy) 
 - [Flycheck — Syntax checking for GNU Emacs — Flycheck 32-cvs documentation](http://www.flycheck.org/en/latest/) 
+- [(2) Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs - YouTube](https://www.youtube.com/watch?v=JWD1Fpdd4Pc) 
