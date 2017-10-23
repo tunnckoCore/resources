@@ -39,3 +39,4 @@ Collections of links from everyday surfing.
 - [jsonreeder/vscode-org-mode: Emacs Org Mode for Visual Studio Code](https://github.com/jsonreeder/vscode-org-mode) 
 - [spirit/spirit: Spirit - The animation tool for the web](https://github.com/spirit/spirit) 
 - [olstenlarck/urxvt-xterm-snazzy: A port of `sindresorhus/hyper-snazzy` color scheme for the URxvt / XTerm (the ~/.Xresources and ~/.Xdefaults files)](https://github.com/olstenlarck/urxvt-xterm-snazzy) 
+- [olstenlarck/xfce4-terminal-snazzy: The `sindresorhus/hyper-snazzy` theme for the `xfce4-terminal`,](https://github.com/olstenlarck/xfce4-terminal-snazzy) 
