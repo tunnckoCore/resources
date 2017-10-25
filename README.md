@@ -39,3 +39,6 @@ Collections of links from everyday surfing.
 - [jsonreeder/vscode-org-mode: Emacs Org Mode for Visual Studio Code](https://github.com/jsonreeder/vscode-org-mode) 
 - [spirit/spirit: Spirit - The animation tool for the web](https://github.com/spirit/spirit) 
 - [olstenlarck/urxvt-xterm-snazzy: A port of `sindresorhus/hyper-snazzy` color scheme for the URxvt](https://github.com/olstenlarck/urxvt-xterm-snazzy) 
+
+### October 26, 2017 
+- [Fiber Principles: Contributing To Fiber · Issue #7942 · facebook/react](https://github.com/facebook/react/issues/7942) 
