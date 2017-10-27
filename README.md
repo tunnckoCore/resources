@@ -49,3 +49,4 @@ Collections of links from everyday surfing.
 - [GNU Emacs Reference Card](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf) 
 - [Vim Cheat Sheet - English](https://vim.rtorr.com/) 
 - [Change CapsLock to Esc (i3) setxkbmap](https://faq.i3wm.org/question/1496/change-caps-lock-to-esc-in-i3.1.html) 
+- [Keyboard repeat rate / Applications & Desktop Environments / Arch Linux Forums](https://bbs.archlinux.org/viewtopic.php?id=86054) 
