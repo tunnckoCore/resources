@@ -42,3 +42,6 @@ Collections of links from everyday surfing.
 
 ### October 26, 2017 
 - [Fiber Principles: Contributing To Fiber · Issue #7942 · facebook/react](https://github.com/facebook/react/issues/7942) 
+
+### October 27, 2017 
+- [JS IDE wars - A quick emacs guide | The Jinchuriki blog](http://prak5190.github.io/p/jsemacs/) 
