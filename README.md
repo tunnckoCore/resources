@@ -47,3 +47,4 @@ Collections of links from everyday surfing.
 - [JS IDE wars - A quick emacs guide | The Jinchuriki blog](http://prak5190.github.io/p/jsemacs/) 
 - [dot.Emacs #1 - Getting Started and Playing Games - YouTube](https://www.youtube.com/watch?v=MRYzPWnk2mE) 
 - [GNU Emacs Reference Card](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf) 
+- [Vim Cheat Sheet - English](https://vim.rtorr.com/) 
