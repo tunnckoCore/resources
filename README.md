@@ -50,3 +50,6 @@ Collections of links from everyday surfing.
 - [Vim Cheat Sheet - English](https://vim.rtorr.com/) 
 - [Change CapsLock to Esc (i3) setxkbmap](https://faq.i3wm.org/question/1496/change-caps-lock-to-esc-in-i3.1.html) 
 - [Keyboard repeat rate / Applications & Desktop Environments / Arch Linux Forums](https://bbs.archlinux.org/viewtopic.php?id=86054) 
+
+### October 28, 2017 
+- [William Byrd on "The Most Beautiful Program Ever Written" - YouTube](https://www.youtube.com/watch?v=OyfBQmvr2Hc&t=1s) 
