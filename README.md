@@ -48,3 +48,4 @@ Collections of links from everyday surfing.
 - [dot.Emacs #1 - Getting Started and Playing Games - YouTube](https://www.youtube.com/watch?v=MRYzPWnk2mE) 
 - [GNU Emacs Reference Card](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf) 
 - [Vim Cheat Sheet - English](https://vim.rtorr.com/) 
+- [Change CapsLock to Esc (i3) setxkbmap](https://faq.i3wm.org/question/1496/change-caps-lock-to-esc-in-i3.1.html) 
