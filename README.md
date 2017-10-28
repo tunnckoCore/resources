@@ -58,3 +58,4 @@ Collections of links from everyday surfing.
 - [Functional JS - Working with ADTs - 01 - YouTube](https://www.youtube.com/watch?v=fIb1IOVh6cY) 
 - [ReasonML 3 - another static typed language inspired by OCaml](https://reasonml.github.io/community/blog/#reason-3) 
 - [ocaml/merlin: Context sensitive completion for OCaml in Vim and Emacs](https://github.com/ocaml/merlin) 
+- [BuildSize GitHub App](https://buildsize.org/) 
