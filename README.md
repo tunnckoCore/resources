@@ -54,3 +54,4 @@ Collections of links from everyday surfing.
 ### October 28, 2017 
 - [William Byrd on "The Most Beautiful Program Ever Written" - YouTube](https://www.youtube.com/watch?v=OyfBQmvr2Hc&t=1s) 
 - [Sibilant: Javascript with a LISP](https://sibilant.org/) 
+- [RuhrJS 2017 - Anjana Vakil - Immutable data structures for functional JS - YouTube](https://www.youtube.com/watch?v=n5REbbvRYqQ) 
