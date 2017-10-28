@@ -56,4 +56,4 @@ Collections of links from everyday surfing.
 - [Sibilant: Javascript with a LISP](https://sibilant.org/) 
 - [RuhrJS 2017 - Anjana Vakil - Immutable data structures for functional JS - YouTube](https://www.youtube.com/watch?v=n5REbbvRYqQ) 
 - [Functional JS - Working with ADTs - 01 - YouTube](https://www.youtube.com/watch?v=fIb1IOVh6cY) 
-- [Reason 3 another static typed language inspired by OCaml](https://reasonml.github.io/community/blog/#reason-3) 
+- [ReasonML 3 - another static typed language inspired by OCaml](https://reasonml.github.io/community/blog/#reason-3) 
