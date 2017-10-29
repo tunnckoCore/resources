@@ -64,3 +64,4 @@ Collections of links from everyday surfing.
 - [Banking on Bitcoin (2016) Film](https://filmi2k.com/banking-on-bitcoin-2016/) 
 - [Making website building fun | GatsbyJS](https://www.gatsbyjs.org/blog/2017-10-16-making-website-building-fun/) 
 - [nodejs-certified-developer/certification: Public facing repository to document and update community on Node.js Certified Developer project development](https://github.com/nodejs-certified-developer/certification) 
+- [Effective Typed JavaScript - YouTube](https://www.youtube.com/watch?v=jr5UYW6N2j8&list=PLfMzBWSH11xa-iNnQG2555lgi4574nZOh&index=53) 
