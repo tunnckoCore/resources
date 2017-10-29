@@ -62,3 +62,4 @@ Collections of links from everyday surfing.
 
 ### October 29, 2017 
 - [Banking on Bitcoin (2016) Film](https://filmi2k.com/banking-on-bitcoin-2016/) 
+- [Making website building fun | GatsbyJS](https://www.gatsbyjs.org/blog/2017-10-16-making-website-building-fun/) 
