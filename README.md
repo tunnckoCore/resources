@@ -59,3 +59,6 @@ Collections of links from everyday surfing.
 - [ReasonML 3 - another static typed language inspired by OCaml](https://reasonml.github.io/community/blog/#reason-3) 
 - [ocaml/merlin: Context sensitive completion for OCaml in Vim and Emacs](https://github.com/ocaml/merlin) 
 - [BuildSize GitHub App](https://buildsize.org/) 
+
+### October 29, 2017 
+- [Banking on Bitcoin (2016) Film](https://filmi2k.com/banking-on-bitcoin-2016/) 
