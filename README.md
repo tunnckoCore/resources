@@ -68,3 +68,4 @@ Collections of links from everyday surfing.
 
 ### November 3, 2017 
 - [Lambda Calculus - Fundamentals of Lambda Calculus & Functional Programming in JavaScript - YouTube](https://www.youtube.com/watch?v=3VQ382QG-y4&app=desktop) 
+- [Top 8 developer habits: Perseverance - Fun Fun Function - YouTube](https://www.youtube.com/watch?v=DwQ7psiU23I&list=PL0zVEGEvSaeGY3RMjGo4CgMPN42_U9Glu) 
