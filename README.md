@@ -72,3 +72,6 @@ Collections of links from everyday surfing.
 
 ### November 6, 2017 
 - [Documenting the Web together - Microsoft Edge Dev BlogMicrosoft Edge Dev Blog](https://blogs.windows.com/msedgedev/2017/10/18/documenting-web-together-mdn-web-docs/) 
+
+### November 7, 2017 
+- [Professor Frisby Introduces Composable Functional JavaScript from @drboolean on @eggheadio](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) 
