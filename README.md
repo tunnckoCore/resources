@@ -78,3 +78,4 @@ Collections of links from everyday surfing.
 
 ### November 8, 2017 
 - [How To Multiply Your Time | Rory Vaden | TEDxDouglasville - YouTube](https://www.youtube.com/watch?v=y2X7c9TUQJ8) 
+- [How to: Work at Google — Example Coding/Engineering Interview - YouTube](https://www.youtube.com/watch?v=XKu_SEDAykw) 
