@@ -75,3 +75,6 @@ Collections of links from everyday surfing.
 
 ### November 7, 2017 
 - [Professor Frisby Introduces Composable Functional JavaScript from @drboolean on @eggheadio](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) 
+
+### November 8, 2017 
+- [How To Multiply Your Time | Rory Vaden | TEDxDouglasville - YouTube](https://www.youtube.com/watch?v=y2X7c9TUQJ8) 
