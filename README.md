@@ -84,3 +84,6 @@ Collections of links from everyday surfing.
 - [Armin van Buuren Live At Ultra Mexico 2017 - YouTube](https://www.youtube.com/watch?v=npi8D3X4aj0) 
 - [bcoin-org/bcoin: Javascript bitcoin library for node.js and browsers](https://github.com/bcoin-org/bcoin) 
 - [Noel | Event Emitter](https://lifenautjoe.github.io/noel/) 
+
+### November 10, 2017 
+- [The end of Globalization, the return of history](https://geopolitica.eu/aktualno/2692-zavrashtaneto-na-istoriyata) 
