@@ -83,3 +83,4 @@ Collections of links from everyday surfing.
 ### November 9, 2017 
 - [Armin van Buuren Live At Ultra Mexico 2017 - YouTube](https://www.youtube.com/watch?v=npi8D3X4aj0) 
 - [bcoin-org/bcoin: Javascript bitcoin library for node.js and browsers](https://github.com/bcoin-org/bcoin) 
+- [Noel | Event Emitter](https://lifenautjoe.github.io/noel/) 
