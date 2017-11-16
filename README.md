@@ -87,3 +87,6 @@ Collections of links from everyday surfing.
 
 ### November 10, 2017 
 - [The end of Globalization, the return of history](https://geopolitica.eu/aktualno/2692-zavrashtaneto-na-istoriyata) 
+
+### November 16, 2017 
+- [The Changelog #264: Automating GitHub with Probot featuring Brandon Keepers and Bex Warner | Changelog | News and podcasts for developers](https://changelog.com/podcast/264) 
