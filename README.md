@@ -90,3 +90,6 @@ Collections of links from everyday surfing.
 
 ### November 16, 2017 
 - [The Changelog #264: Automating GitHub with Probot featuring Brandon Keepers and Bex Warner | Changelog | News and podcasts for developers](https://changelog.com/podcast/264) 
+
+### November 19, 2017 
+- [The State of Open Source Security 2017](https://snyk.io/stateofossecurity/?utm_campaign=stateofOSSReport&utm_medium=email&utm_source=stateofOSSReport) 
