@@ -94,3 +94,6 @@ Collections of links from everyday surfing.
 ### November 19, 2017 
 - [The State of Open Source Security 2017](https://snyk.io/stateofossecurity/?utm_campaign=stateofOSSReport&utm_medium=email&utm_source=stateofOSSReport) 
 - [How to RESET Your Internal Programs to ATTRACT What You Want! - With Law of Attraction Exercises - YouTube](https://www.youtube.com/watch?v=ekMFYCgVotM) 
+
+### November 20, 2017 
+- [I Fooled the World Into Thinking I Was a Successful EDM DJ - VICE](https://www.vice.com/en_uk/article/mb39xx/i-fooled-the-world-into-thinking-i-was-a-successful-edm-dj) 
