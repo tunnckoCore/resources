@@ -100,3 +100,6 @@ Collections of links from everyday surfing.
 
 ### November 23, 2017 
 - [git-tips/tips: Most commonly used git tips and tricks.](https://github.com/git-tips/tips) 
+
+### November 24, 2017 
+- [The Modern Javascript Tutorial](https://javascript.info/) 
