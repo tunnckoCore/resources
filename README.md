@@ -97,3 +97,6 @@ Collections of links from everyday surfing.
 
 ### November 20, 2017 
 - [I Fooled the World Into Thinking I Was a Successful EDM DJ - VICE](https://www.vice.com/en_uk/article/mb39xx/i-fooled-the-world-into-thinking-i-was-a-successful-edm-dj) 
+
+### November 23, 2017 
+- [git-tips/tips: Most commonly used git tips and tricks.](https://github.com/git-tips/tips) 
