@@ -107,3 +107,4 @@ Collections of links from everyday surfing.
 ### November 25, 2017 
 - [Enron: The Smartest Guys in the Room (2005) | Watch Free Documentaries Online](http://watchdocumentaries.com/enron-the-smartest-guys-in-the-room/) 
 - [FLOORED The Complete Documentary Film on Vimeo](https://vimeo.com/71390558) 
+- [JavaScript vs Ruby vs Python. Who Wins? – codeburst](https://codeburst.io/javascript-vs-ruby-vs-python-which-is-the-best-language-for-your-startup-e072b14bebc7) 
