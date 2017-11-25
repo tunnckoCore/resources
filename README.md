@@ -103,3 +103,6 @@ Collections of links from everyday surfing.
 
 ### November 24, 2017 
 - [The Modern Javascript Tutorial](https://javascript.info/) 
+
+### November 25, 2017 
+- [Enron: The Smartest Guys in the Room (2005) | Watch Free Documentaries Online](http://watchdocumentaries.com/enron-the-smartest-guys-in-the-room/) 
