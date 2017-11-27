@@ -109,3 +109,6 @@ Collections of links from everyday surfing.
 - [FLOORED (2009) - Chicago Market Documentary Film](https://vimeo.com/71390558) 
 - [JavaScript vs Ruby vs Python. Who Wins? – codeburst](https://codeburst.io/javascript-vs-ruby-vs-python-which-is-the-best-language-for-your-startup-e072b14bebc7) 
 - [The RedMonk Programming Language Rankings: June 2017 – tecosystems](https://redmonk.com/sogrady/2017/06/08/language-rankings-6-17/) 
+
+### November 27, 2017 
+- [Setup Monero on Arch Linux - Logan Marchione](https://loganmarchione.com/2016/08/setup-monero-arch-linux/) 
