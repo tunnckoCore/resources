@@ -113,3 +113,6 @@ Collections of links from everyday surfing.
 ### November 27, 2017 
 - [Setup Monero on Arch Linux - Logan Marchione](https://loganmarchione.com/2016/08/setup-monero-arch-linux/) 
 - [How to mine Bitcoin with your CPU](https://jonathanmh.com/how-to-mine-bitcoin-with-your-cpu/) 
+
+### November 28, 2017 
+- [What is Ethereum Classic? Ethereum vs Ethereum Classic - Blockgeeks](https://blockgeeks.com/guides/what-is-ethereum-classic/) 
