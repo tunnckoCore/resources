@@ -116,3 +116,6 @@ Collections of links from everyday surfing.
 
 ### November 28, 2017 
 - [What is Ethereum Classic? Ethereum vs Ethereum Classic - Blockgeeks](https://blockgeeks.com/guides/what-is-ethereum-classic/) 
+
+### November 29, 2017 
+- [Creating a blockchain with Javascript (Blockchain, part 1) - YouTube](https://www.youtube.com/watch?v=zVqczFZr124) 
