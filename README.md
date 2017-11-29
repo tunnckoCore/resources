@@ -119,3 +119,4 @@ Collections of links from everyday surfing.
 
 ### November 29, 2017 
 - [Creating a blockchain with Javascript (Blockchain, part 1) - YouTube](https://www.youtube.com/watch?v=zVqczFZr124) 
+- [IOTA makes bright future for Internet of Things, it's not just a cryptocurrency based on blockchain](https://medium.com/@MartinRosulek/how-iota-makes-future-for-internet-of-things-af14fd77d2a3) 
