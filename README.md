@@ -120,3 +120,6 @@ Collections of links from everyday surfing.
 ### November 29, 2017 
 - [Creating a blockchain with Javascript (Blockchain, part 1) - YouTube](https://www.youtube.com/watch?v=zVqczFZr124) 
 - [IOTA makes bright future for Internet of Things, it's not just a cryptocurrency based on blockchain](https://medium.com/@MartinRosulek/how-iota-makes-future-for-internet-of-things-af14fd77d2a3) 
+
+### November 30, 2017 
+- [Bitcoin ‘Ought to Be Outlawed,’ Nobel Prize Winner Stiglitz Says - Bloomberg](https://www.bloomberg.com/news/articles/2017-11-29/bitcoin-ought-to-be-outlawed-nobel-prize-winner-stiglitz-says-jal10hxd) 
