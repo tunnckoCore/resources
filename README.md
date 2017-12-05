@@ -123,3 +123,6 @@ Collections of links from everyday surfing.
 
 ### November 30, 2017 
 - [Bitcoin ‘Ought to Be Outlawed,’ Nobel Prize Winner Stiglitz Says - Bloomberg](https://www.bloomberg.com/news/articles/2017-11-29/bitcoin-ought-to-be-outlawed-nobel-prize-winner-stiglitz-says-jal10hxd) 
+
+### December 5, 2017 
+- [Brother killed himself because of BTC : Bitcoin](https://www.reddit.com/r/Bitcoin/comments/7hmjdw/my_brother_killed_himself_because_of_btc/) 
