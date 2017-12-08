@@ -130,3 +130,6 @@ Collections of links from everyday surfing.
 
 ### December 7, 2017 
 - [Bitcoin Breaks $14,000 Hours After Hitting $13,000, Day after $12,000 | Inverse](https://www.inverse.com/article/39120-bitcoin-breaks-14-000-hours-after-hitting-13-000) 
+
+### December 8, 2017 
+- [Why Funding Open Source is Hard – Hacker Noon](https://hackernoon.com/why-funding-open-source-is-hard-652b7055569d) 
