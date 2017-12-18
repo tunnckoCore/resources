@@ -140,3 +140,4 @@ Collections of links from everyday surfing.
 - [Andreas Antonopoulos: Decentralized Truth - YouTube](https://www.youtube.com/watch?v=XCVaabu3J04) 
 - [Andreas Antonopoulos: Money as a System-of-Control - YouTube](https://www.youtube.com/watch?v=FyK4P7ZdOK8) 
 - ['Absolute power corrupts absolutely' - the meaning and origin of this phrase](https://www.phrases.org.uk/meanings/absolute-power-corrupts-absolutely.html) 
+- [Andreas M. Antonopoulos educates Senate of Canada about Bitcoin (Oct 8, 2014) - YouTube](https://www.youtube.com/watch?v=xUNGFZDO8mM) 
