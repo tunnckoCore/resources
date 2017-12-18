@@ -139,3 +139,4 @@ Collections of links from everyday surfing.
 - [How The Banks Bought Bitcoin | The Lightning Network - YouTube](https://www.youtube.com/watch?v=UYHFrf5ci_g) 
 - [Andreas Antonopoulos: Decentralized Truth - YouTube](https://www.youtube.com/watch?v=XCVaabu3J04) 
 - [Andreas Antonopoulos: Money as a System-of-Control - YouTube](https://www.youtube.com/watch?v=FyK4P7ZdOK8) 
+- ['Absolute power corrupts absolutely' - the meaning and origin of this phrase](https://www.phrases.org.uk/meanings/absolute-power-corrupts-absolutely.html) 
