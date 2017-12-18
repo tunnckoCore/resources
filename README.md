@@ -133,3 +133,6 @@ Collections of links from everyday surfing.
 
 ### December 8, 2017 
 - [Why Funding Open Source is Hard – Hacker Noon](https://hackernoon.com/why-funding-open-source-is-hard-652b7055569d) 
+
+### December 18, 2017 
+- [Trading BTFee™ - $300MM in Tether Will Pull Us to $25,000 | Yours.org](https://www.yours.org/content/trading-btfee-----300mm-in-tether-will-pull-us-to--25-000-536de8a4ce40) 
