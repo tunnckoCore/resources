@@ -138,3 +138,4 @@ Collections of links from everyday surfing.
 - [Trading BTFee™ - $300MM in Tether Will Pull Us to $25,000 | Yours.org](https://www.yours.org/content/trading-btfee-----300mm-in-tether-will-pull-us-to--25-000-536de8a4ce40) 
 - [How The Banks Bought Bitcoin | The Lightning Network - YouTube](https://www.youtube.com/watch?v=UYHFrf5ci_g) 
 - [Andreas Antonopoulos: Decentralized Truth - YouTube](https://www.youtube.com/watch?v=XCVaabu3J04) 
+- [Andreas Antonopoulos: Money as a System-of-Control - YouTube](https://www.youtube.com/watch?v=FyK4P7ZdOK8) 
