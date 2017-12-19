@@ -141,3 +141,6 @@ Collections of links from everyday surfing.
 - [Andreas Antonopoulos: Money as a System-of-Control - YouTube](https://www.youtube.com/watch?v=FyK4P7ZdOK8) 
 - ['Absolute power corrupts absolutely' - the meaning and origin of this phrase](https://www.phrases.org.uk/meanings/absolute-power-corrupts-absolutely.html) 
 - [Andreas M. Antonopoulos educates Senate of Canada about Bitcoin (Oct 8, 2014) - YouTube](https://www.youtube.com/watch?v=xUNGFZDO8mM) 
+
+### December 19, 2017 
+- [Behind the Scenes: Improving the Repository Infrastructure - React Blog](https://reactjs.org/blog/2017/12/15/improving-the-repository-infrastructure.html) 
