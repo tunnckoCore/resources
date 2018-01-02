@@ -148,3 +148,4 @@ Collections of links from everyday surfing.
 ### January 2, 2018 
 - [Cardano: Ethereum and NEO Killer or Overhyped and Overpriced?](https://hackernoon.com/cardano-ethereum-and-neo-killer-or-overhyped-and-overpriced-8fcd5f8abcdf) 
 - [NEO versus Ethereum: Why NEO might be 2018’s strongest cryptocurrency](https://hackernoon.com/neo-versus-ethereum-why-neo-might-be-2018s-strongest-cryptocurrency-79956138bea3) 
+- [30 seconds of code](https://30secondsofcode.org/) 
