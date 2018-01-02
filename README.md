@@ -144,3 +144,6 @@ Collections of links from everyday surfing.
 
 ### December 19, 2017 
 - [Behind the Scenes: Improving the Repository Infrastructure - React Blog](https://reactjs.org/blog/2017/12/15/improving-the-repository-infrastructure.html) 
+
+### January 2, 2018 
+- [Cardano: Ethereum and NEO Killer or Overhyped and Overpriced?](https://hackernoon.com/cardano-ethereum-and-neo-killer-or-overhyped-and-overpriced-8fcd5f8abcdf) 
