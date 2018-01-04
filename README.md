@@ -152,3 +152,4 @@ Collections of links from everyday surfing.
 
 ### January 4, 2018 
 - [sdras/object-explorer: 🔥 A resource to help figure out what JavaScript object method would be best to use at any given time](https://github.com/sdras/object-explorer) 
+- [JavaScript Array Explorer - sdras/array-explorer](https://sdras.github.io/array-explorer/) 
