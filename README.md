@@ -156,3 +156,6 @@ Collections of links from everyday surfing.
 
 ### January 9, 2018 
 - [Encrypt and decrypt AES-256 with Nodejs - lollyrock.com](http://lollyrock.com/articles/nodejs-encryption/) 
+
+### January 11, 2018 
+- [The World of Blockchain Consensus Protocols](https://btcmanager.com/welcome-to-the-world-of-blockchain-consensus-protocols/) 
