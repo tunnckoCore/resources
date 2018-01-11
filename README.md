@@ -159,3 +159,4 @@ Collections of links from everyday surfing.
 
 ### January 11, 2018 
 - [The World of Blockchain Consensus Protocols](https://btcmanager.com/welcome-to-the-world-of-blockchain-consensus-protocols/) 
+- [18 Disrupted industries by the blockchain technology - YouTube](https://www.youtube.com/watch?v=kvz16rszs7w) 
