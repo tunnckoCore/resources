@@ -163,3 +163,4 @@ Collections of links from everyday surfing.
 
 ### January 12, 2018 
 - [The Decrits Consensus Algo: Decentralized Agreement without Proof of Work](https://arxiv.org/pdf/1411.1101.pdf) 
+- [arxiv.org - Cornell University Library: Linear Consensus Algorithms Based on Balanced Asymmetric Chains](https://arxiv.org/abs/1204.6093) 
