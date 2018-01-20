@@ -168,3 +168,6 @@ Collections of links from everyday surfing.
 
 ### January 19, 2018 
 - [Browser as Botnet, or the Coming War on Your Web Browser](https://medium.com/@brannondorsey/browser-as-botnet-or-the-coming-war-on-your-web-browser-be920c4f718) 
+
+### January 20, 2018 
+- [Why Bitcoin is Perfect for Most First-Time Investors - YouTube](https://www.youtube.com/watch?v=VpOSuaEwXnA) 
