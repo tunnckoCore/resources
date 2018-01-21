@@ -176,3 +176,4 @@ Collections of links from everyday surfing.
 - [Graph Databases Will Change Your Freakin' Life (Best Intro Into Graph Databases) - YouTube](https://www.youtube.com/watch?v=GekQqFZm7mA) 
 - [Exploring The Parcel Application Bundler - YouTube](https://www.youtube.com/watch?v=DYZTFooDB24) 
 - [Functional Programming For People Who Hate Math - YouTube](https://www.youtube.com/watch?v=SlfipOW_ilU) 
+- [digitalbazaar/forge: A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps](https://github.com/digitalbazaar/forge) 
