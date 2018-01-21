@@ -174,3 +174,4 @@ Collections of links from everyday surfing.
 
 ### January 21, 2018 
 - [Graph Databases Will Change Your Freakin' Life (Best Intro Into Graph Databases) - YouTube](https://www.youtube.com/watch?v=GekQqFZm7mA) 
+- [Exploring The Parcel Application Bundler - YouTube](https://www.youtube.com/watch?v=DYZTFooDB24) 
