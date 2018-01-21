@@ -171,3 +171,6 @@ Collections of links from everyday surfing.
 
 ### January 20, 2018 
 - [Why Bitcoin is Perfect for Most First-Time Investors - YouTube](https://www.youtube.com/watch?v=VpOSuaEwXnA) 
+
+### January 21, 2018 
+- [Graph Databases Will Change Your Freakin' Life (Best Intro Into Graph Databases) - YouTube](https://www.youtube.com/watch?v=GekQqFZm7mA) 
