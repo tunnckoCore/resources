@@ -180,3 +180,4 @@ Collections of links from everyday surfing.
 - [Blockchain Expert Explains Blockchain in 5 Levels of Difficulty | WIRED - YouTube](https://www.youtube.com/watch?v=hYip_Vuv8J0) 
 - [David Schwartz - Developing Blockchain Software (C++) - YouTube](https://www.youtube.com/watch?v=RRP65VvIgGg) 
 - [What is Ripple - the XRP, the company, the protocol and the consensus (RCL)? - YouTube](https://www.youtube.com/watch?v=5RhZzZVuw0M) 
+- [JavaScript Of The Future (ES8 & Beyond) - YouTube](https://www.youtube.com/watch?v=FSrHGVT13NI) 
