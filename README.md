@@ -182,3 +182,4 @@ Collections of links from everyday surfing.
 - [What is Ripple - the XRP, the company, the protocol and the consensus (RCL)? - YouTube](https://www.youtube.com/watch?v=5RhZzZVuw0M) 
 - [JavaScript Of The Future (ES8 & Beyond) - YouTube](https://www.youtube.com/watch?v=FSrHGVT13NI) 
 - [emadehsan/thal: Getting started with Puppeteer and Chrome Headless for Web Scraping](https://github.com/emadehsan/thal) 
+- [Neil Fraser: Writing: Diff Strategies](https://neil.fraser.name/writing/diff/) 
