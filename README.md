@@ -183,3 +183,4 @@ Collections of links from everyday surfing.
 - [JavaScript Of The Future (ES8 & Beyond) - YouTube](https://www.youtube.com/watch?v=FSrHGVT13NI) 
 - [emadehsan/thal: Getting started with Puppeteer and Chrome Headless for Web Scraping](https://github.com/emadehsan/thal) 
 - [Neil Fraser: Writing: Diff Strategies](https://neil.fraser.name/writing/diff/) 
+- [The Myers diff algorithm: part 1 – The If Works](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/) 
