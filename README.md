@@ -177,3 +177,4 @@ Collections of links from everyday surfing.
 - [Exploring The Parcel Application Bundler - YouTube](https://www.youtube.com/watch?v=DYZTFooDB24) 
 - [Functional Programming For People Who Hate Math - YouTube](https://www.youtube.com/watch?v=SlfipOW_ilU) 
 - [digitalbazaar/forge: A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps](https://github.com/digitalbazaar/forge) 
+- [Blockchain Expert Explains Blockchain in 5 Levels of Difficulty | WIRED - YouTube](https://www.youtube.com/watch?v=hYip_Vuv8J0) 
