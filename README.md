@@ -187,3 +187,6 @@ Collections of links from everyday surfing.
 
 ### January 24, 2018 
 - [BTCUSD - Potential new low on 26th of January? by moderator Nico.Muselle — TradingView](https://www.tradingview.com/chart/BTCUSD/E25dvVua-BTCUSD-Potential-new-low-on-26th-of-January/) 
+
+### January 28, 2018 
+- [Oxford University gives women more time to pass exams - NZ Herald](http://www.nzherald.co.nz/education/news/article.cfm?c_id=35&objectid=11980247) 
