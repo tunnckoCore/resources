@@ -190,3 +190,4 @@ Collections of links from everyday surfing.
 
 ### January 28, 2018 
 - [Oxford University gives women more time to pass exams - NZ Herald](http://www.nzherald.co.nz/education/news/article.cfm?c_id=35&objectid=11980247) 
+- [Kate Hawkesby: Schools have no right to ban relationships - NZ Herald](http://www.nzherald.co.nz/education/news/article.cfm?c_id=35&objectid=11981577) 
