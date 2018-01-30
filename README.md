@@ -194,3 +194,6 @@ Collections of links from everyday surfing.
 
 ### January 29, 2018 
 - [Employing “Magnitsky”](http://www.europost.bg/article?id=21034) 
+
+### January 30, 2018 
+- [A concise and powerful state management library — iFlow](https://medium.com/@unadlib/a-concise-and-powerful-state-management-library-iflow-44de13953bfc) 
