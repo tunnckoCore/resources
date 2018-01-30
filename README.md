@@ -197,3 +197,6 @@ Collections of links from everyday surfing.
 
 ### January 30, 2018 
 - [A concise and powerful state management library — iFlow](https://medium.com/@unadlib/a-concise-and-powerful-state-management-library-iflow-44de13953bfc) 
+
+### January 31, 2018 
+- [Slush17 Panel: Farewell to Centralised Data - YouTube](https://www.youtube.com/watch?v=ul0aGzF-v5c) 
