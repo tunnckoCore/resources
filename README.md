@@ -204,3 +204,4 @@ Collections of links from everyday surfing.
 ### February 7, 2018 
 - [javascript - Implementing an algorithm that walks the DOM without recursion - Code Review Stack Exchange](https://codereview.stackexchange.com/questions/28307/implementing-an-algorithm-that-walks-the-dom-without-recursion) 
 - [Super Fast and Accurate string distance algorithm: Sift4 ~ Siderite's Blog](https://siderite.blogspot.com/2014/11/super-fast-and-accurate-string-distance.html#at568730738) 
+- [nyxtom/reconcile.js: Simple reconciliation, diff and merge for the DOM inspired by Facebook's React Reconcilation Algorithm](https://github.com/nyxtom/reconcile.js/) 
