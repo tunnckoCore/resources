@@ -200,3 +200,6 @@ Collections of links from everyday surfing.
 
 ### January 31, 2018 
 - [Slush17 Panel: Farewell to Centralised Data - YouTube](https://www.youtube.com/watch?v=ul0aGzF-v5c) 
+
+### February 7, 2018 
+- [javascript - Implementing an algorithm that walks the DOM without recursion - Code Review Stack Exchange](https://codereview.stackexchange.com/questions/28307/implementing-an-algorithm-that-walks-the-dom-without-recursion) 
