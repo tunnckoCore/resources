@@ -208,3 +208,4 @@ Collections of links from everyday surfing.
 
 ### February 8, 2018 
 - [Authoring and publishing JavaScript modules with Flow](https://javascriptplayground.com/npm-flowjs-javascript/) 
+- [Shipping Flowtype Definitions in NPM Packages – Netscape – Medium](https://medium.com/netscape/shipping-flowtype-definitions-in-npm-packages-c987917efb65) 
