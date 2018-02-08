@@ -209,3 +209,4 @@ Collections of links from everyday surfing.
 ### February 8, 2018 
 - [Authoring and publishing JavaScript modules with Flow](https://javascriptplayground.com/npm-flowjs-javascript/) 
 - [Shipping Flowtype Definitions in NPM Packages – Netscape – Medium](https://medium.com/netscape/shipping-flowtype-definitions-in-npm-packages-c987917efb65) 
+- [Key Concepts: Using Merkle trees to detect inconsistencies in data](https://distributeddatastore.blogspot.bg/2013/07/cassandra-using-merkle-trees-to-detect.html) 
