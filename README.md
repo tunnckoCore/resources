@@ -213,3 +213,6 @@ Collections of links from everyday surfing.
 
 ### February 9, 2018 
 - [brrd/Abricotine: Markdown editor with inline preview](https://github.com/brrd/Abricotine) 
+
+### February 13, 2018 
+- [Neehar Venugopal - A Beginner's Guide to Code Splitting Your React App - React Conf 2017 - YouTube](https://www.youtube.com/watch?v=bb6RCrDaxhw) 
