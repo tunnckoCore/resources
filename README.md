@@ -217,3 +217,6 @@ Collections of links from everyday surfing.
 ### February 13, 2018 
 - [Neehar Venugopal - A Beginner's Guide to Code Splitting Your React App - React Conf 2017 - YouTube](https://www.youtube.com/watch?v=bb6RCrDaxhw) 
 - [Fonts - ArchWiki - Noto Color Emoji](https://wiki.archlinux.org/index.php/fonts#Emoji_and_symbols) 
+
+### February 14, 2018 
+- [Преходът (1) -  Валентин Вацев: Голямата партия е като голямата ц...ца – радва окото, но пречи да тичаш бързо - YouTube](https://www.youtube.com/watch?v=sHg0rtFKECE) 
