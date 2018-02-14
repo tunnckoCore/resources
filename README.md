@@ -220,3 +220,4 @@ Collections of links from everyday surfing.
 
 ### February 14, 2018 
 - [Преходът (1) -  Валентин Вацев: Голямата партия е като голямата ц...ца – радва окото, но пречи да тичаш бързо - YouTube](https://www.youtube.com/watch?v=sHg0rtFKECE) 
+- [Преходът (2) - Валентин Вацев: Преходът на Райчев е завършил, а преходът на Вацев тепърва започва - YouTube](https://www.youtube.com/watch?v=lmDM-4F8728&t=4s) 
