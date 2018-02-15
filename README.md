@@ -229,3 +229,4 @@ Collections of links from everyday surfing.
 - [Jason Miller: Preact: Into the void 0 | JSConf EU 2017 - YouTube](https://www.youtube.com/watch?v=LY6y3HbDVmg&feature=youtu.be) 
 - [Hyperapp for Redux refugees – Hyperapp – Medium](https://medium.com/hyperapp/hyperapp-for-redux-refugees-2507c9dd1ddc) 
 - [Hyperapp + Parcel = 😎 – Daftcode Blog](https://blog.daftcode.pl/hyperapp-parcel-71823bd93f1c) 
+- [ContentLoad.com - Script position and page speed](http://contentloaded.com/dom-ready/) 
