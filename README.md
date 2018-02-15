@@ -228,3 +228,4 @@ Collections of links from everyday surfing.
 - [A beginner's guide to Progressive Web Apps | Codementor](https://www.codementor.io/flavio304/a-beginner-s-guide-to-progressive-web-apps-gjnefxg7k) 
 - [Jason Miller: Preact: Into the void 0 | JSConf EU 2017 - YouTube](https://www.youtube.com/watch?v=LY6y3HbDVmg&feature=youtu.be) 
 - [Hyperapp for Redux refugees – Hyperapp – Medium](https://medium.com/hyperapp/hyperapp-for-redux-refugees-2507c9dd1ddc) 
+- [Hyperapp + Parcel = 😎 – Daftcode Blog](https://blog.daftcode.pl/hyperapp-parcel-71823bd93f1c) 
