@@ -224,3 +224,4 @@ Collections of links from everyday surfing.
 
 ### February 15, 2018 
 - [Преходът на българското земеделие - В.Бояджиев](https://uard.bg/files/custom_files/files/documents/New%20knowledge/year2_n1/paper_boyadjiev_y2n1.pdf) 
+- [Here’s How You, as a Developer, Can Achieve 100% of Your Yearly Goals | Codementor](https://www.codementor.io/hackertronix/here-s-how-you-as-a-developer-can-achieve-100-of-your-yearly-goals-gnstx8y55) 
