@@ -230,3 +230,6 @@ Collections of links from everyday surfing.
 - [Hyperapp for Redux refugees – Hyperapp – Medium](https://medium.com/hyperapp/hyperapp-for-redux-refugees-2507c9dd1ddc) 
 - [Hyperapp + Parcel = 😎 – Daftcode Blog](https://blog.daftcode.pl/hyperapp-parcel-71823bd93f1c) 
 - [ContentLoad.com - Script position and page speed](http://contentloaded.com/dom-ready/) 
+
+### February 21, 2018 
+- [Жестокият път, от който Христо не се завърна](http://epicenter.bg/article/archive/41614/8/83) 
