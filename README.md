@@ -236,3 +236,4 @@ Collections of links from everyday surfing.
 
 ### February 22, 2018 
 - [Let's talk about usernames](https://www.b-list.org/weblog/2018/feb/11/usernames/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=103) 
+- [Nginx HTTP2 Server Push | OpsTips](https://ops.tips/blog/nginx-http2-server-push/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=103) 
