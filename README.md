@@ -233,3 +233,6 @@ Collections of links from everyday surfing.
 
 ### February 21, 2018 
 - [Жестокият път, от който Христо не се завърна](http://epicenter.bg/article/archive/41614/8/83) 
+
+### February 22, 2018 
+- [Let's talk about usernames](https://www.b-list.org/weblog/2018/feb/11/usernames/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=103) 
