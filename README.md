@@ -240,3 +240,6 @@ Collections of links from everyday surfing.
 
 ### February 23, 2018 
 - [11 Things You Need To Know Before Seeing Iron Man 3 - Page 1](https://www.cinemablend.com/new/11-Things-You-Need-Know-Seeing-Iron-Man-3-37311.html?story_page=1) 
+
+### March 1, 2018 
+- [Words To Avoid in Educational Writing | CSS-Tricks](https://css-tricks.com/words-avoid-educational-writing/) 
