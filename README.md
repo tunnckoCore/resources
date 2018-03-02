@@ -243,3 +243,6 @@ Collections of links from everyday surfing.
 
 ### March 1, 2018 
 - [Words To Avoid in Educational Writing | CSS-Tricks](https://css-tricks.com/words-avoid-educational-writing/) 
+
+### March 2, 2018 
+- [Responsive Website Design Tester | Media Genesis](http://responsivedesignchecker.com/) 
