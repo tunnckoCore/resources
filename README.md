@@ -246,3 +246,6 @@ Collections of links from everyday surfing.
 
 ### March 2, 2018 
 - [Responsive Website Design Tester | Media Genesis](http://responsivedesignchecker.com/) 
+
+### March 3, 2018 
+- [staticland - Static sites with free, automatic SSL and custom domains](https://static.land/) 
