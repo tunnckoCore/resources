@@ -257,3 +257,4 @@ Collections of links from everyday surfing.
 
 ### March 14, 2018 
 - [Huawei Is Building Tech That Can Stress Test Blockchains - CoinDesk](https://www.coindesk.com/huawei-building-tech-can-stress-test-blockchains/) 
+- [Huawei Seeks Patent for Blockchain Rights Management - CoinDesk](https://www.coindesk.com/huawei-seeks-blockchain-patent-to-protect-intellectual-property-rights/) 
