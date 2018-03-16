@@ -258,3 +258,6 @@ Collections of links from everyday surfing.
 ### March 14, 2018 
 - [Huawei Is Building Tech That Can Stress Test Blockchains - CoinDesk](https://www.coindesk.com/huawei-building-tech-can-stress-test-blockchains/) 
 - [Huawei Seeks Patent for Blockchain Rights Management - CoinDesk](https://www.coindesk.com/huawei-seeks-blockchain-patent-to-protect-intellectual-property-rights/) 
+
+### March 16, 2018 
+- [The Samsung 950 Pro 256G and Linux. Does it Work? | Delightly Linux](https://delightlylinux.wordpress.com/2016/04/20/the-samsung-950-pro-256g-and-linux-does-it-work/) 
