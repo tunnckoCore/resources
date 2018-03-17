@@ -272,3 +272,4 @@ Collections of links from everyday surfing.
 - [USB, USB Types and Thunderbolt - Explained - YouTube](https://www.youtube.com/watch?v=WDJWjqyjcwM) 
 - [USB 3.1 Gen 2, USB Type C and Thunderbolt 3 -- 2017 - YouTube](https://www.youtube.com/watch?v=CvlquDiQsf0) 
 - [ASRock > Thunderbolt 3 AIC - PCIe Card](http://www.asrock.com/mb/spec/product.asp?Model=Thunderbolt%203%20AIC) 
+- [Intel® Processor Numbers & Suffixes: Laptop, Desktop, and Mobile Device](https://www.intel.com/content/www/us/en/processors/processor-numbers.html) 
