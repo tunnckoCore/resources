@@ -266,3 +266,4 @@ Collections of links from everyday surfing.
 - [USB 3.1 vs 3.0 vs USB Type-C – What’s the difference? - AVADirect](https://www.avadirect.com/blog/usb-3-1-vs-3-0-vs-usb-type-c-thunderbolt-difference/) 
 - [HP ML110 G6 CPU & RAM Upgrades « befok!](http://www.befok.net/2016/01/22/hp-ml110-g6-cpu-ram-upgrades/) 
 - [Beautiful & Мinimalist Student Desk Setup Tour (2017) - YouTube](https://www.youtube.com/watch?v=qCPYRY8k-wM) 
+- [Exclusive: Intel's new smart glasses hands-on - YouTube](https://www.youtube.com/watch?v=bnfwClgheF0) 
