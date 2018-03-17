@@ -264,3 +264,4 @@ Collections of links from everyday surfing.
 
 ### March 17, 2018 
 - [USB 3.1 vs 3.0 vs USB Type-C – What’s the difference? - AVADirect](https://www.avadirect.com/blog/usb-3-1-vs-3-0-vs-usb-type-c-thunderbolt-difference/) 
+- [HP ML110 G6 CPU & RAM Upgrades « befok!](http://www.befok.net/2016/01/22/hp-ml110-g6-cpu-ram-upgrades/) 
