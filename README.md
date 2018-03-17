@@ -271,3 +271,4 @@ Collections of links from everyday surfing.
 - [How to change the i3 config settings if you have a dual screen - ERiK DuBoiS](https://erikdubois.be/how-to-change-the-i3-config-settings-if-you-have-a-dual-screen/) 
 - [USB, USB Types and Thunderbolt - Explained - YouTube](https://www.youtube.com/watch?v=WDJWjqyjcwM) 
 - [USB 3.1 Gen 2, USB Type C and Thunderbolt 3 -- 2017 - YouTube](https://www.youtube.com/watch?v=CvlquDiQsf0) 
+- [ASRock > Thunderbolt 3 AIC - PCIe Card](http://www.asrock.com/mb/spec/product.asp?Model=Thunderbolt%203%20AIC) 
