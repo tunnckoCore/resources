@@ -270,3 +270,4 @@ Collections of links from everyday surfing.
 - [Elephone S8 - The Super Smartphone You've Never Heard O - YouTube](https://www.youtube.com/watch?v=HkdoOyIRCj4) 
 - [How to change the i3 config settings if you have a dual screen - ERiK DuBoiS](https://erikdubois.be/how-to-change-the-i3-config-settings-if-you-have-a-dual-screen/) 
 - [USB, USB Types and Thunderbolt - Explained - YouTube](https://www.youtube.com/watch?v=WDJWjqyjcwM) 
+- [USB 3.1 Gen 2, USB Type C and Thunderbolt 3 -- 2017 - YouTube](https://www.youtube.com/watch?v=CvlquDiQsf0) 
