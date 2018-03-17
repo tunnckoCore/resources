@@ -269,3 +269,4 @@ Collections of links from everyday surfing.
 - [Exclusive: Intel's new smart glasses hands-on - YouTube](https://www.youtube.com/watch?v=bnfwClgheF0) 
 - [Elephone S8 - The Super Smartphone You've Never Heard O - YouTube](https://www.youtube.com/watch?v=HkdoOyIRCj4) 
 - [How to change the i3 config settings if you have a dual screen - ERiK DuBoiS](https://erikdubois.be/how-to-change-the-i3-config-settings-if-you-have-a-dual-screen/) 
+- [USB, USB Types and Thunderbolt - Explained - YouTube](https://www.youtube.com/watch?v=WDJWjqyjcwM) 
