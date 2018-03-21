@@ -279,3 +279,4 @@ Collections of links from everyday surfing.
 - [ECMAScript regular expressions are getting better! · Mathias Bynens](https://mathiasbynens.be/notes/es-regexp-proposals) 
 - [SPCR • View topic - DNK-H Silvery: my small, quiet and powerful build.](http://www.silentpcreview.com/forums/viewtopic.php?f=14&t=69605) 
 - [Using a Chromebook for Web Development - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/using-a-chromebook-for-web-development) 
+- [Coding on a Chromebook – headmelted](https://headmelted.com/coding-on-a-chromebook-84335cce96c8) 
