@@ -281,3 +281,4 @@ Collections of links from everyday surfing.
 - [Using a Chromebook for Web Development - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/using-a-chromebook-for-web-development) 
 - [Coding on a Chromebook – headmelted](https://headmelted.com/coding-on-a-chromebook-84335cce96c8) 
 - [TOP: My $169 development Chromebook](https://blog.lessonslearned.org/building-a-more-secure-development-chromebook/) 
+- [What are on page SEO factors – Techtrument – Medium](https://medium.com/techtrument/what-is-on-page-seo-factors-cc7b8957003a) 
