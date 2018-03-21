@@ -277,3 +277,4 @@ Collections of links from everyday surfing.
 ### March 21, 2018 
 - [Strawn.04: HowTo: Make Ubuntu GNOME Look Like Chrome OS](https://strawn-04.blogspot.bg/2017/02/howto-make-ubuntu-gnome-look-like.html) 
 - [ECMAScript regular expressions are getting better! · Mathias Bynens](https://mathiasbynens.be/notes/es-regexp-proposals) 
+- [SPCR • View topic - DNK-H Silvery: my small, quiet and powerful build.](http://www.silentpcreview.com/forums/viewtopic.php?f=14&t=69605) 
