@@ -285,3 +285,4 @@ Collections of links from everyday surfing.
 
 ### March 25, 2018 
 - [Cool fish @ word sea aluminum mini ITX white chassis HTPC host small chassis vertical computer small main box - ChinaglobalMall](http://www.chinaglobalmall.com/products/522846590007) 
+- [Thauner's Completed Build - Core i7-8700 3.2GHz 6-Core, F1CWS Evo HTPC - PCPartPicker](https://pcpartpicker.com/b/ZZXPxr) 
