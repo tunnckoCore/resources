@@ -287,3 +287,6 @@ Collections of links from everyday surfing.
 - [Cool fish @ word sea aluminum mini ITX white chassis HTPC host small chassis vertical computer small main box - ChinaglobalMall](http://www.chinaglobalmall.com/products/522846590007) 
 - [Thauner's Completed Build - Core i7-8700 3.2GHz 6-Core, F1CWS Evo HTPC - PCPartPicker](https://pcpartpicker.com/b/ZZXPxr) 
 - [Thauner's Completed Build - Core i7-8700 3.2GHz 6-Core, F1CWS Evo HTPC - PCPartPicker](https://pcpartpicker.com/b/ZZXPxr) 
+
+### March 26, 2018 
+- [Writing JS in Vim – Alex LaFroscia – Medium](https://medium.com/@alexlafroscia/writing-js-in-vim-4c971a95fd49) 
