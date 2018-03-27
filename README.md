@@ -291,3 +291,6 @@ Collections of links from everyday surfing.
 ### March 26, 2018 
 - [Writing JS in Vim – Alex LaFroscia – Medium](https://medium.com/@alexlafroscia/writing-js-in-vim-4c971a95fd49) 
 - [Sorry, Chrome killed the terminal](http://krasimirtsonev.com/blog/article/Sorry-Chrome-killed-the-terminal) 
+
+### March 27, 2018 
+- [Introducing code owners | The GitHub Blog](https://blog.github.com/2017-07-06-introducing-code-owners/) 
