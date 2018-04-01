@@ -294,3 +294,6 @@ Collections of links from everyday surfing.
 
 ### March 27, 2018 
 - [Introducing code owners | The GitHub Blog](https://blog.github.com/2017-07-06-introducing-code-owners/) 
+
+### April 1, 2018 
+- [Google publishes a JavaScript style guide. Here are some key lessons.](https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b) 
