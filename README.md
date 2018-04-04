@@ -297,3 +297,6 @@ Collections of links from everyday surfing.
 
 ### April 1, 2018 
 - [Google publishes a JavaScript style guide. Here are some key lessons.](https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b) 
+
+### April 4, 2018 
+- [Virtual Piano | The Original Best Piano App Online](https://virtualpiano.net/) 
