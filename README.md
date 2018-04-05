@@ -300,3 +300,6 @@ Collections of links from everyday surfing.
 
 ### April 4, 2018 
 - [Virtual Piano | The Original Best Piano App Online](https://virtualpiano.net/) 
+
+### April 5, 2018 
+- [MUST READ: Use class properties to clean up your classes and React components](https://codeburst.io/use-class-properties-to-clean-up-your-classes-and-react-components-93185879f688) 
