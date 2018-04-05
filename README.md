@@ -304,3 +304,4 @@ Collections of links from everyday surfing.
 ### April 5, 2018 
 - [MUST READ: Use class properties to clean up your classes and React components](https://codeburst.io/use-class-properties-to-clean-up-your-classes-and-react-components-93185879f688) 
 - [Preparing for ECMAScript 6: New Number Methods](https://www.sitepoint.com/es6-number-methods/) 
+- [MUST READ: The Economics of JS](https://dev.to/_gdelgado/the-economics-of-js-182d) 
