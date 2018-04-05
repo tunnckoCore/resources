@@ -306,3 +306,4 @@ Collections of links from everyday surfing.
 - [Preparing for ECMAScript 6: New Number Methods](https://www.sitepoint.com/es6-number-methods/) 
 - [MUST READ: The Economics of JS](https://dev.to/_gdelgado/the-economics-of-js-182d) 
 - [Going further – a PoC and PoS comparison – The Burstcoinist – Your #1 News Resource about Burst!](https://www.burstcoin.ist/2017/10/30/going-further-a-poc-and-pos-comparison/) 
+- [528.pdf - SpaceMint - Proof of Space/Capacity](https://eprint.iacr.org/2015/528.pdf) 
