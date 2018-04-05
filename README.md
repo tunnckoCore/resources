@@ -305,3 +305,4 @@ Collections of links from everyday surfing.
 - [MUST READ: Use class properties to clean up your classes and React components](https://codeburst.io/use-class-properties-to-clean-up-your-classes-and-react-components-93185879f688) 
 - [Preparing for ECMAScript 6: New Number Methods](https://www.sitepoint.com/es6-number-methods/) 
 - [MUST READ: The Economics of JS](https://dev.to/_gdelgado/the-economics-of-js-182d) 
+- [Going further – a PoC and PoS comparison – The Burstcoinist – Your #1 News Resource about Burst!](https://www.burstcoin.ist/2017/10/30/going-further-a-poc-and-pos-comparison/) 
