@@ -314,3 +314,4 @@ Collections of links from everyday surfing.
 ### April 7, 2018 
 - [The big list of Vi[m]-like software](https://xaizek.github.io/2016-08-13/big-list-of-vim-like-software/) 
 - [TitaniumFirefly's Completed Build - Ryzen 5 2400G 3.6GHz Quad-Core, F1CWS Evo HTPC - PCPartPicker](https://pcpartpicker.com/b/Y6NQzy) 
+- [For Apple, Quitting Intel Won't Come Easy | WIRED](https://www.wired.com/story/apple-quitting-intel-processors/) 
