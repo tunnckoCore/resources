@@ -310,3 +310,6 @@ Collections of links from everyday surfing.
 
 ### April 6, 2018 
 - [bluzi/jsonstore: Store your data for free by sending simple HTTP requests](https://github.com/bluzi/jsonstore) 
+
+### April 7, 2018 
+- [The big list of Vi[m]-like software](https://xaizek.github.io/2016-08-13/big-list-of-vim-like-software/) 
