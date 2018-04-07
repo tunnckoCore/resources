@@ -317,3 +317,4 @@ Collections of links from everyday surfing.
 - [For Apple, Quitting Intel Won't Come Easy | WIRED](https://www.wired.com/story/apple-quitting-intel-processors/) 
 - [You Got This! Zine - Making web apps with Node.js](https://glitch.com/you-got-this) 
 - [Need to Node - New Weekly Series by NodeSource Blog](https://nodesource.com/blog/need-to-node-vol-1) 
+- [STRUDEL - Infographic: npm badges](https://cmustrudel.github.io/announcement/badges) 
