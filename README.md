@@ -318,3 +318,4 @@ Collections of links from everyday surfing.
 - [You Got This! Zine - Making web apps with Node.js](https://glitch.com/you-got-this) 
 - [Need to Node - New Weekly Series by NodeSource Blog](https://nodesource.com/blog/need-to-node-vol-1) 
 - [STRUDEL - Infographic: npm badges](https://cmustrudel.github.io/announcement/badges) 
+- [Troy Hunt: Introducing 306 Million Freely Downloadable Pwned Passwords](https://www.troyhunt.com/introducing-306-million-freely-downloadable-pwned-passwords/) 
