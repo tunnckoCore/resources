@@ -319,3 +319,4 @@ Collections of links from everyday surfing.
 - [Need to Node - New Weekly Series by NodeSource Blog](https://nodesource.com/blog/need-to-node-vol-1) 
 - [STRUDEL - Infographic: npm badges](https://cmustrudel.github.io/announcement/badges) 
 - [Troy Hunt: Introducing 306 Million Freely Downloadable Pwned Passwords](https://www.troyhunt.com/introducing-306-million-freely-downloadable-pwned-passwords/) 
+- [Have I Been Pwned: Check if your email has been compromised in a data breach](https://haveibeenpwned.com/) 
