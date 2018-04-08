@@ -320,3 +320,6 @@ Collections of links from everyday surfing.
 - [STRUDEL - Infographic: npm badges](https://cmustrudel.github.io/announcement/badges) 
 - [Troy Hunt: Introducing 306 Million Freely Downloadable Pwned Passwords](https://www.troyhunt.com/introducing-306-million-freely-downloadable-pwned-passwords/) 
 - [Have I Been Pwned: Check if your email has been compromised in a data breach](https://haveibeenpwned.com/) 
+
+### April 8, 2018 
+- [Monero Just Hard Forked — and It Resulted in Four New Projects](https://bitcoinmagazine.com/articles/monero-just-hard-forked-and-it-resulted-four-new-projects/) 
