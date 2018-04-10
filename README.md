@@ -323,3 +323,6 @@ Collections of links from everyday surfing.
 
 ### April 8, 2018 
 - [Monero Just Hard Forked — and It Resulted in Four New Projects](https://bitcoinmagazine.com/articles/monero-just-hard-forked-and-it-resulted-four-new-projects/) 
+
+### April 11, 2018 
+- [With latest TypeScript, you may not need Webpack – Ville M. Vainio – Medium](https://medium.com/@vivainio/with-latest-typescript-you-may-not-need-webpack-417d2ef0e773) 
