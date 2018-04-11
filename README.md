@@ -328,3 +328,4 @@ Collections of links from everyday surfing.
 - [With latest TypeScript, you may not need Webpack – Ville M. Vainio – Medium](https://medium.com/@vivainio/with-latest-typescript-you-may-not-need-webpack-417d2ef0e773) 
 - [Introducing LearnStorybook.com – Chroma](https://blog.hichroma.com/introducing-learnstorybook-com-2a43cd33edf5) 
 - [A Brief History of JavaScript – Abhijeet Dhope – Medium](https://medium.com/@dhope21/a-brief-history-of-javascript-9067ac4dce40) 
+- [Mind your dependencies – Jorge Manrubia](https://www.jorgemanrubia.com/2018/03/15/mind-your-dependencies/) 
