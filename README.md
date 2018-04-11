@@ -326,3 +326,4 @@ Collections of links from everyday surfing.
 
 ### April 11, 2018 
 - [With latest TypeScript, you may not need Webpack – Ville M. Vainio – Medium](https://medium.com/@vivainio/with-latest-typescript-you-may-not-need-webpack-417d2ef0e773) 
+- [Introducing LearnStorybook.com – Chroma](https://blog.hichroma.com/introducing-learnstorybook-com-2a43cd33edf5) 
