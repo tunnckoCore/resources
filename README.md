@@ -332,3 +332,4 @@ Collections of links from everyday surfing.
 
 ### April 13, 2018 
 - [SSD SATA 3 ON SATA 2 Motherboard - [Solved] - Storage](http://www.tomshardware.co.uk/forum/273387-32-sata-sata-motherboard) 
+- [Results: Sequential Read And Write Performance - Is A SATA 3Gb/s Platform Still Worth Upgrading With An SSD?](http://www.tomshardware.com/reviews/ssd-upgrade-sata-3gbps,3469-4.html) 
