@@ -329,3 +329,6 @@ Collections of links from everyday surfing.
 - [Introducing LearnStorybook.com – Chroma](https://blog.hichroma.com/introducing-learnstorybook-com-2a43cd33edf5) 
 - [A Brief History of JavaScript – Abhijeet Dhope – Medium](https://medium.com/@dhope21/a-brief-history-of-javascript-9067ac4dce40) 
 - [Mind your dependencies – Jorge Manrubia](https://www.jorgemanrubia.com/2018/03/15/mind-your-dependencies/) 
+
+### April 13, 2018 
+- [SSD SATA 3 ON SATA 2 Motherboard - [Solved] - Storage](http://www.tomshardware.co.uk/forum/273387-32-sata-sata-motherboard) 
