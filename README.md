@@ -333,3 +333,6 @@ Collections of links from everyday surfing.
 ### April 13, 2018 
 - [SSD SATA 3 ON SATA 2 Motherboard - [Solved] - Storage](http://www.tomshardware.co.uk/forum/273387-32-sata-sata-motherboard) 
 - [Results: Sequential Read And Write Performance - Is A SATA 3Gb/s Platform Still Worth Upgrading With An SSD?](http://www.tomshardware.com/reviews/ssd-upgrade-sata-3gbps,3469-4.html) 
+
+### April 14, 2018 
+- [Building a 32-Thread Xeon Monster PC for Less Than the Price of a Flagship Core i7 - TechSpot](https://www.techspot.com/review/1155-affordable-dual-xeon-pc/) 
