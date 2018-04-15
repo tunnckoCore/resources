@@ -337,3 +337,6 @@ Collections of links from everyday surfing.
 ### April 14, 2018 
 - [Building a 32-Thread Xeon Monster PC for Less Than the Price of a Flagship Core i7 - TechSpot](https://www.techspot.com/review/1155-affordable-dual-xeon-pc/) 
 - [HP Proliant ML110 G6 Server Maximum Memory Configuration – 32GB | trainingrevolution](https://trainingrevolution.wordpress.com/2014/01/05/hp-proliant-ml110-g6-server-maximum-memory-configuration-32gb/) 
+
+### April 15, 2018 
+- [What is Scrumban? | Agile Alliance](https://www.agilealliance.org/what-is-scrumban/) 
