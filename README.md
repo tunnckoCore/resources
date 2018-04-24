@@ -344,3 +344,6 @@ Collections of links from everyday surfing.
 
 ### April 20, 2018 
 - [Certification for Professional Web Developers - CancanIT](https://cancanit.com/) 
+
+### April 25, 2018 
+- [Node.js Errors — Changes you need to know about – Node.js Collection – Medium](https://medium.com/the-node-js-collection/node-js-errors-changes-you-need-to-know-about-dc8c82417f65) 
