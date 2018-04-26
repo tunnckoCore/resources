@@ -351,3 +351,6 @@ Collections of links from everyday surfing.
 
 ### April 26, 2018 
 - [Why don't we have Wayland yet?!](https://joshondesign.com/2018/03/26/linux_graphics_state) 
+
+### April 27, 2018 
+- [Да слеем, да полуслеем или да разделим? (3) | Блогът на Павлина](https://pavlinav.wordpress.com/2010/09/07/%D0%B4%D0%B0-%D1%81%D0%BB%D0%B5%D0%B5%D0%BC-%D0%B4%D0%B0-%D0%BF%D0%BE%D0%BB%D1%83%D1%81%D0%BB%D0%B5%D0%B5%D0%BC-%D0%B8%D0%BB%D0%B8-%D0%B4%D0%B0-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B8%D0%BC-3/) 
