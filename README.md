@@ -348,3 +348,6 @@ Collections of links from everyday surfing.
 ### April 25, 2018 
 - [Node.js Errors — Changes you need to know about – Node.js Collection – Medium](https://medium.com/the-node-js-collection/node-js-errors-changes-you-need-to-know-about-dc8c82417f65) 
 - [Mastering Types In JavaScript – ITNEXT](https://itnext.io/mastering-types-in-javascript-66c43338a274) 
+
+### April 26, 2018 
+- [Why don't we have Wayland yet?!](https://joshondesign.com/2018/03/26/linux_graphics_state) 
