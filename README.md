@@ -357,3 +357,4 @@ Collections of links from everyday surfing.
 - [Hello wasm-pack! – Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2018/04/hello-wasm-pack/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=112) 
 - [Intro to the Rust programming language - YouTube](https://www.youtube.com/watch?v=agzf6ftEsLU) 
 - [Making a cross-platform mobile game in Reason/OCaml | Jared Forsyth.com](https://jaredforsyth.com/posts/making-a-cross-platform-mobile-game-in-reason-ocaml/) 
+- [Dr. Axel Rauschmayer book: Exploring ReasonML and functional programming](http://reasonmlhub.com/exploring-reasonml/) 
