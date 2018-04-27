@@ -358,3 +358,4 @@ Collections of links from everyday surfing.
 - [Intro to the Rust programming language - YouTube](https://www.youtube.com/watch?v=agzf6ftEsLU) 
 - [Making a cross-platform mobile game in Reason/OCaml | Jared Forsyth.com](https://jaredforsyth.com/posts/making-a-cross-platform-mobile-game-in-reason-ocaml/) 
 - [Dr. Axel Rauschmayer book: Exploring ReasonML and functional programming](http://reasonmlhub.com/exploring-reasonml/) 
+- [Jared Forsyth - Type Systems Will Make You a Better JavaScript Developer - React Conf 2017 - YouTube](https://www.youtube.com/watch?v=V1po0BT7kac) 
