@@ -361,3 +361,4 @@ Collections of links from everyday surfing.
 - [Jared Forsyth - Type Systems Will Make You a Better JavaScript Developer - React Conf 2017 - YouTube](https://www.youtube.com/watch?v=V1po0BT7kac) 
 - [Configure ESLint, Prettier, and Flow in VS Code for React Development](https://hackernoon.com/configure-eslint-prettier-and-flow-in-vs-code-for-react-development-c9d95db07213) 
 - [Setting up Flow when you’ve already got Babel in place](https://medium.freecodecamp.org/using-flow-with-babel-c04fdca8d14d) 
+- [You might not need to transpile your JavaScript – freeCodeCamp](https://medium.freecodecamp.org/you-might-not-need-to-transpile-your-javascript-4d5e0a438ca) 
