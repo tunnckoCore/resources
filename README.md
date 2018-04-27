@@ -356,3 +356,4 @@ Collections of links from everyday surfing.
 - [Да слеем, да полуслеем или да разделим? (3) | Блогът на Павлина](https://pavlinav.wordpress.com/2010/09/07/%D0%B4%D0%B0-%D1%81%D0%BB%D0%B5%D0%B5%D0%BC-%D0%B4%D0%B0-%D0%BF%D0%BE%D0%BB%D1%83%D1%81%D0%BB%D0%B5%D0%B5%D0%BC-%D0%B8%D0%BB%D0%B8-%D0%B4%D0%B0-%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B8%D0%BC-3/) 
 - [Hello wasm-pack! – Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/2018/04/hello-wasm-pack/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=112) 
 - [Intro to the Rust programming language - YouTube](https://www.youtube.com/watch?v=agzf6ftEsLU) 
+- [Making a cross-platform mobile game in Reason/OCaml | Jared Forsyth.com](https://jaredforsyth.com/posts/making-a-cross-platform-mobile-game-in-reason-ocaml/) 
