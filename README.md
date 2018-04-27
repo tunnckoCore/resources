@@ -359,3 +359,4 @@ Collections of links from everyday surfing.
 - [Making a cross-platform mobile game in Reason/OCaml | Jared Forsyth.com](https://jaredforsyth.com/posts/making-a-cross-platform-mobile-game-in-reason-ocaml/) 
 - [Dr. Axel Rauschmayer book: Exploring ReasonML and functional programming](http://reasonmlhub.com/exploring-reasonml/) 
 - [Jared Forsyth - Type Systems Will Make You a Better JavaScript Developer - React Conf 2017 - YouTube](https://www.youtube.com/watch?v=V1po0BT7kac) 
+- [Configure ESLint, Prettier, and Flow in VS Code for React Development](https://hackernoon.com/configure-eslint-prettier-and-flow-in-vs-code-for-react-development-c9d95db07213) 
