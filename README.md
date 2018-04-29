@@ -366,3 +366,4 @@ Collections of links from everyday surfing.
 ### April 29, 2018 
 - [How to compile plain *.js (JavaScript) files with the TypeScript Compiler - Developing on Staxmanade](https://staxmanade.com/2014/05/how-to-compile-plain-star-dot-js-javascript-files-with-the-typescript-compiler/) 
 - [Supporting type annotations and type checking in JavaScript files · Issue #7699 · Microsoft/TypeScript](https://github.com/Microsoft/TypeScript/issues/7699) 
+- [Фото четене или как да четем скоростно като роботи](http://coffebreak.info/ot-men/foto-chetene-ili-kak-da-chetem-skorostno-kato-roboti/) 
