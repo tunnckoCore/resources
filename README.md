@@ -373,3 +373,4 @@ Collections of links from everyday surfing.
 - [Keep VS Code from Becoming an IDE](https://dev.to/rpalo/keep-vs-code-from-becoming-an-ide-570l) 
 - [5 reasons why Git based resume is awesome](https://dev.to/acro5piano/5-reasons-why-git-based-resume-is-awesome-127) 
 - [How To Work With Developers - A Guide for Non-Developers](https://dev.to/kttravers/how-to-work-with-developers---a-guide-for-non-developers-35hk) 
+- [In JavaScript we trust: How we chose our gorgeous venue this year ✨ – Amsterdam JSNation – Medium](https://medium.com/@amsterdamjs/how-we-chose-our-gorgeous-venue-this-year-5e732163a981) 
