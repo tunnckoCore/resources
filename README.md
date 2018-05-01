@@ -372,3 +372,4 @@ Collections of links from everyday surfing.
 - [Why Everyone Missed the Most Mind-Blowing Feature of Cryptocurrency](https://hackernoon.com/why-everyone-missed-the-most-mind-blowing-feature-of-cryptocurrency-860c3f25f1fb) 
 - [Keep VS Code from Becoming an IDE](https://dev.to/rpalo/keep-vs-code-from-becoming-an-ide-570l) 
 - [5 reasons why Git based resume is awesome](https://dev.to/acro5piano/5-reasons-why-git-based-resume-is-awesome-127) 
+- [How To Work With Developers - A Guide for Non-Developers](https://dev.to/kttravers/how-to-work-with-developers---a-guide-for-non-developers-35hk) 
