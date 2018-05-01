@@ -370,3 +370,4 @@ Collections of links from everyday surfing.
 
 ### May 1, 2018 
 - [Why Everyone Missed the Most Mind-Blowing Feature of Cryptocurrency](https://hackernoon.com/why-everyone-missed-the-most-mind-blowing-feature-of-cryptocurrency-860c3f25f1fb) 
+- [Keep VS Code from Becoming an IDE](https://dev.to/rpalo/keep-vs-code-from-becoming-an-ide-570l) 
