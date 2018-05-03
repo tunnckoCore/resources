@@ -377,3 +377,6 @@ Collections of links from everyday surfing.
 
 ### May 3, 2018 
 - [calebporzio.com - Ultimate VS Code Setup](http://calebporzio.com/my-vs-code-setup-2/) 
+
+### May 4, 2018 
+- [How to Pick a Good Monitor for Software Development — Nick Janetakis](https://nickjanetakis.com/blog/how-to-pick-a-good-monitor-for-software-development) 
