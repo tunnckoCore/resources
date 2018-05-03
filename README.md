@@ -374,3 +374,6 @@ Collections of links from everyday surfing.
 - [5 reasons why Git based resume is awesome](https://dev.to/acro5piano/5-reasons-why-git-based-resume-is-awesome-127) 
 - [How To Work With Developers - A Guide for Non-Developers](https://dev.to/kttravers/how-to-work-with-developers---a-guide-for-non-developers-35hk) 
 - [In JavaScript we trust: How we chose our gorgeous venue this year ✨ – Amsterdam JSNation – Medium](https://medium.com/@amsterdamjs/how-we-chose-our-gorgeous-venue-this-year-5e732163a981) 
+
+### May 3, 2018 
+- [calebporzio.com - Ultimate VS Code Setup](http://calebporzio.com/my-vs-code-setup-2/) 
