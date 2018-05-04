@@ -380,3 +380,6 @@ Collections of links from everyday surfing.
 
 ### May 4, 2018 
 - [How to Pick a Good Monitor for Software Development — Nick Janetakis](https://nickjanetakis.com/blog/how-to-pick-a-good-monitor-for-software-development) 
+
+### May 5, 2018 
+- [VS Code Extensions for Happier JavaScript Coding – Hacker Noon](https://hackernoon.com/vs-code-extensions-for-happier-javascript-coding-e258f72dd9c1) 
