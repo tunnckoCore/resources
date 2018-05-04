@@ -384,3 +384,4 @@ Collections of links from everyday surfing.
 ### May 5, 2018 
 - [VS Code Extensions for Happier JavaScript Coding – Hacker Noon](https://hackernoon.com/vs-code-extensions-for-happier-javascript-coding-e258f72dd9c1) 
 - [Thunderbolt 3 just won | PCWorld](https://www.pcworld.com/article/3198249/computers/how-thunderbolt-3-won-the-port-wars.html) 
+- [OWC Envoy Pro EX Thunderbolt 3 - OWC Digital](https://www.owcdigital.com/products/envoy-pro-ex-thunderbolt-3) 
