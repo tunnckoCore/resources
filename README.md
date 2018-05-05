@@ -386,3 +386,6 @@ Collections of links from everyday surfing.
 - [Thunderbolt 3 just won | PCWorld](https://www.pcworld.com/article/3198249/computers/how-thunderbolt-3-won-the-port-wars.html) 
 - [OWC Envoy Pro EX Thunderbolt 3 - OWC Digital](https://www.owcdigital.com/products/envoy-pro-ex-thunderbolt-3) 
 - [Top telecom companies worldwide revenue 2016 | Statistic](https://www.statista.com/statistics/221382/revenue-of-top-30-global-telecommunication-operators/) 
+
+### May 6, 2018 
+- [MUST SEE 45min: How to make Hologram Technology | Latest Hologram Technology - YouTube](https://www.youtube.com/watch?v=QdnZy1GrfBg) 
