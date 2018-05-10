@@ -393,3 +393,4 @@ Collections of links from everyday surfing.
 ### May 8, 2018 
 - [The sun's final performance may be more spectacular than we thought | MNN - Mother Nature Network](https://www.mnn.com/earth-matters/space/stories/dying-sun-nebula) 
 - [The Front-End Tooling Survey 2018 - Results - AshleyNolan.co.uk - Blog and Portfolio for Ashley Nolan](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2018-results) 
+- [Selective Gmail Auto-Reply – PyGaze](https://www.pygaze.org/2015/06/selective-gmail-autoreply/) 
