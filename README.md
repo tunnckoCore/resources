@@ -397,3 +397,4 @@ Collections of links from everyday surfing.
 - [Crypto Youtuber (CryptoCrow) Launching Bitcoin Funded TV Series on CBS - Bitcoin News](https://news.bitcoin.com/crypto-youtuber-bitcoin-funded-tv-series-cbs/) 
 - [Xapo: The Wealthy Are Hoarding $10 Billion of Bitcoin in Bunkers - Bloomberg](https://www.bloomberg.com/news/articles/2018-05-09/bunkers-for-the-wealthy-are-said-to-hoard-10-billion-of-bitcoin) 
 - [ipstack - Free IP Geolocation API](https://ipstack.com/) 
+- [Git Integration in Visual Studio Code ― Scotch](https://scotch.io/tutorials/git-integration-in-visual-studio-code) 
