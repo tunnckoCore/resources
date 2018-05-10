@@ -389,3 +389,6 @@ Collections of links from everyday surfing.
 
 ### May 6, 2018 
 - [MUST SEE 45min: How to make Hologram Technology | Latest Hologram Technology - YouTube](https://www.youtube.com/watch?v=QdnZy1GrfBg) 
+
+### May 8, 2018 
+- [The sun's final performance may be more spectacular than we thought | MNN - Mother Nature Network](https://www.mnn.com/earth-matters/space/stories/dying-sun-nebula) 
