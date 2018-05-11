@@ -399,3 +399,6 @@ Collections of links from everyday surfing.
 - [ipstack - Free IP Geolocation API](https://ipstack.com/) 
 - [Git Integration in Visual Studio Code ― Scotch](https://scotch.io/tutorials/git-integration-in-visual-studio-code) 
 - [Top Visual Studio Code Extensions: 50 Tools, and Snippets](https://stackify.com/top-visual-studio-code-extensions/) 
+
+### May 11, 2018 
+- [Merging Two Git Repositories Into One Repository Without Losing File History – SaintGimp](https://saintgimp.org/2013/01/22/merging-two-git-repositories-into-one-repository-without-losing-file-history/) 
