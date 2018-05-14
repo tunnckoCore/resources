@@ -407,3 +407,6 @@ Collections of links from everyday surfing.
 
 ### May 12, 2018 
 - [unDraw - MIT licensed illustrations for every project you can imagine and create](https://undraw.co/) 
+
+### May 14, 2018 
+- [Write beautiful javascript with λ(FP) + ES6 – Deepak Gupta – Medium](https://medium.com/@ideepak.jsd/write-beautiful-javascript-with-%CE%BB-fp-es6-350cd64ab5bf) 
