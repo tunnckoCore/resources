@@ -414,3 +414,4 @@ Collections of links from everyday surfing.
 
 ### May 15, 2018 
 - [Great example of Contributing Guide: the Qubes OS Project](https://www.qubes-os.org/doc/contributing/) 
+- [How to use Semantic UI with a custom theme in your CRA app](https://jsramblings.com/2018/03/04/how-to-use-semantic-ui-with-a-custom-theme-in-your-CRA-app.html) 
