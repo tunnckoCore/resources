@@ -410,3 +410,4 @@ Collections of links from everyday surfing.
 
 ### May 14, 2018 
 - [Write beautiful javascript with λ(FP) + ES6 – Deepak Gupta – Medium](https://medium.com/@ideepak.jsd/write-beautiful-javascript-with-%CE%BB-fp-es6-350cd64ab5bf) 
+- [Frost: Finally. A crypto wallet that forces all users OFFLINE.](https://medium.com/@alamzach/finally-a-crypto-wallet-that-forces-all-users-offline-9a654746cd47) 
