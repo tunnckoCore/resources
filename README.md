@@ -418,3 +418,4 @@ Collections of links from everyday surfing.
 - [title.sh by Zeit: Capitalize Your Title according to the Chicago Manual of Style](https://title.sh/) 
 - [Why static types in Javascript? — Preethi Kasireddy - YouTube](https://www.youtube.com/watch?v=E5y2dozTkZU) 
 - [Static Websites + JAMstack = <3 | Julian Gaviria — Web Designer](https://julian.is/article/static-websites-and-jamstack/) 
+- [Rise of the JAMstack — Mathias Biillman - YouTube](https://www.youtube.com/watch?v=uWTMEDEPw8c) 
