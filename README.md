@@ -417,3 +417,4 @@ Collections of links from everyday surfing.
 - [How to use Semantic UI with a custom theme in your CRA app](https://jsramblings.com/2018/03/04/how-to-use-semantic-ui-with-a-custom-theme-in-your-CRA-app.html) 
 - [title.sh by Zeit: Capitalize Your Title according to the Chicago Manual of Style](https://title.sh/) 
 - [Why static types in Javascript? — Preethi Kasireddy - YouTube](https://www.youtube.com/watch?v=E5y2dozTkZU) 
+- [Static Websites + JAMstack = <3 | Julian Gaviria — Web Designer](https://julian.is/article/static-websites-and-jamstack/) 
