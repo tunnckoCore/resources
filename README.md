@@ -428,3 +428,6 @@ Collections of links from everyday surfing.
 - [A Strategy Guide To CSS Custom Properties — Smashing Magazine](https://www.smashingmagazine.com/2018/05/css-custom-properties-strategy-guide/) 
 - [Modern Frontend Developer in 2018 – tajawal – Medium](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c) 
 - [Modern Backend Developer in 2018 | Codementor](https://www.codementor.io/idnan/modern-backend-developer-in-2018-jkwndiuuc) 
+
+### May 17, 2018 
+- [Excellent answer for "addEventListener" vs "onclick" - Stack Overflow](https://stackoverflow.com/questions/6348494/addeventlistener-vs-onclick/35093997#35093997) 
