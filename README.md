@@ -420,3 +420,6 @@ Collections of links from everyday surfing.
 - [Static Websites + JAMstack = <3 | Julian Gaviria — Web Designer](https://julian.is/article/static-websites-and-jamstack/) 
 - [Rise of the JAMstack — Mathias Biillman - YouTube](https://www.youtube.com/watch?v=uWTMEDEPw8c) 
 - [George Carlin: You Have Owners - YouTube](https://www.youtube.com/watch?v=H-PSCqhkWhg) 
+
+### May 16, 2018 
+- [20 шантави факта за Австралия, които не знаете - Класации - Peika.bg](http://www.peika.bg/statia/20_shantavi_fakta_za_Avstraliya_l.a_i.88839.html) 
