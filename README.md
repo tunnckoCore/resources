@@ -425,3 +425,4 @@ Collections of links from everyday surfing.
 - [20 шантави факта за Австралия, които не знаете - Класации - Peika.bg](http://www.peika.bg/statia/20_shantavi_fakta_za_Avstraliya_l.a_i.88839.html) 
 - [How to use Bootstrap with React – LogRocket](https://blog.logrocket.com/how-to-use-bootstrap-with-react-a354715d1121) 
 - [10 Reasons to Meet New People - and How a Mobile App Can Help — SitePoint](https://www.sitepoint.com/10-reasons-meet-new-people-mobile-app-can-help/) 
+- [A Strategy Guide To CSS Custom Properties — Smashing Magazine](https://www.smashingmagazine.com/2018/05/css-custom-properties-strategy-guide/) 
