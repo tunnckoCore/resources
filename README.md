@@ -426,3 +426,4 @@ Collections of links from everyday surfing.
 - [How to use Bootstrap with React – LogRocket](https://blog.logrocket.com/how-to-use-bootstrap-with-react-a354715d1121) 
 - [10 Reasons to Meet New People - and How a Mobile App Can Help — SitePoint](https://www.sitepoint.com/10-reasons-meet-new-people-mobile-app-can-help/) 
 - [A Strategy Guide To CSS Custom Properties — Smashing Magazine](https://www.smashingmagazine.com/2018/05/css-custom-properties-strategy-guide/) 
+- [Modern Frontend Developer in 2018 – tajawal – Medium](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c) 
