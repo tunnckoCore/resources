@@ -433,3 +433,4 @@ Collections of links from everyday surfing.
 - [Excellent answer for "addEventListener" vs "onclick" - Stack Overflow](https://stackoverflow.com/questions/6348494/addeventlistener-vs-onclick/35093997#35093997) 
 - [The web: state of the union (Google I/O '18) - YouTube](https://www.youtube.com/watch?v=Ay-mdLMDtbs) 
 - [After 5 years and $3M, here's everything we've learned from building Ghost](https://blog.ghost.org/5/) 
+- [Testing JavaScript with Jest](https://flaviocopes.com/jest/) 
