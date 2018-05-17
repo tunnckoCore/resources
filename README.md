@@ -438,3 +438,4 @@ Collections of links from everyday surfing.
 
 ### May 18, 2018 
 - [A Better GitHub Issue Queue | SweepBoard](http://sweepboard.com/) 
+- [Reaching Ludicrous Speed with Fastify | nearForm](https://www.nearform.com/blog/reaching-ludicrous-speed-with-fastify/) 
