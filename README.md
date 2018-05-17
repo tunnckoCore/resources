@@ -435,3 +435,6 @@ Collections of links from everyday surfing.
 - [After 5 years and $3M, here's everything we've learned from building Ghost](https://blog.ghost.org/5/) 
 - [Testing JavaScript with Jest](https://flaviocopes.com/jest/) 
 - [The Front-End Tooling Survey 2018 - Results - AshleyNolan.co.uk - Blog and Portfolio for Ashley Nolan](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2018-results) 
+
+### May 18, 2018 
+- [A Better GitHub Issue Queue | SweepBoard](http://sweepboard.com/) 
