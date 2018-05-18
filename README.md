@@ -442,3 +442,4 @@ Collections of links from everyday surfing.
 - [JavaScript is Good, Actually - Ash Furrow](https://ashfurrow.com/blog/javascript-is-good-actually/) 
 - [Coinbase’s first investment, Compound, earns you interest on crypto | TechCrunch](https://techcrunch.com/2018/05/16/cryptocurrency-compound-interest/) 
 - [Twitter CEO wants bitcoin to be the internet's 'native currency'](https://www.cnbc.com/2018/05/16/twitter-ceo-wants-bitcoin-to-be-the-internets-native-currency.html) 
+- [Ivan Liljeqvist (Ivan On Tech / Stockholm Blockchain) - Co-Founder - Stockholm Blockchain | LinkedIn](https://www.linkedin.com/in/ivanliljeqvist/) 
