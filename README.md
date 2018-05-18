@@ -440,3 +440,4 @@ Collections of links from everyday surfing.
 - [A Better GitHub Issue Queue | SweepBoard](http://sweepboard.com/) 
 - [Reaching Ludicrous Speed with Fastify | nearForm](https://www.nearform.com/blog/reaching-ludicrous-speed-with-fastify/) 
 - [JavaScript is Good, Actually - Ash Furrow](https://ashfurrow.com/blog/javascript-is-good-actually/) 
+- [Coinbase’s first investment, Compound, earns you interest on crypto | TechCrunch](https://techcrunch.com/2018/05/16/cryptocurrency-compound-interest/) 
