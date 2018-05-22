@@ -446,3 +446,4 @@ Collections of links from everyday surfing.
 
 ### May 23, 2018 
 - [What would Paulo Coelho say (if he was a programmer?)](https://dev.to/brightdevs/what-would-paulo-coelho-say-if-he-was-a-programmer--135a) 
+- [When Understanding means Rewriting](https://blog.codinghorror.com/when-understanding-means-rewriting/) 
