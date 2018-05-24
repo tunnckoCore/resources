@@ -455,3 +455,4 @@ Collections of links from everyday surfing.
 ### May 25, 2018 
 - [GatsbyJS, the Open Source React-Based SSG, Creates Company to Evolve Cloud-Native Website Builds - The New Stack](https://thenewstack.io/gatsbyjs-the-open-source-react-based-ssg-creates-company-to-evolve-cloud-native-website-builds/) 
 - [Announcing new Gatsby Company | GatsbyJS](https://www.gatsbyjs.org/blog/2018-05-24-launching-new-gatsby-company/) 
+- [Op-ed | Blockchain and GDPR: Europe’s Moral Torc](https://www.ccn.com/op-ed-gdpr-and-blockchain-how-the-us-lack-of-preparation-could-swing-the-balance-of-power-to-europe/) 
