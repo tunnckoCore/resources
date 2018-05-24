@@ -450,3 +450,4 @@ Collections of links from everyday surfing.
 
 ### May 24, 2018 
 - [A Bitter Guide To Open Source – Ken Wheeler – Medium](https://medium.com/@ken_wheeler/a-bitter-guide-to-open-source-a8e3b6a3c1c4) 
+- [Awesome Talks | www.awesometalks.party](https://awesometalks.party/) 
