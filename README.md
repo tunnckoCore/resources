@@ -457,3 +457,4 @@ Collections of links from everyday surfing.
 - [Announcing new Gatsby Company | GatsbyJS](https://www.gatsbyjs.org/blog/2018-05-24-launching-new-gatsby-company/) 
 - [Op-ed | Blockchain and GDPR: Europe’s Moral Torc](https://www.ccn.com/op-ed-gdpr-and-blockchain-how-the-us-lack-of-preparation-could-swing-the-balance-of-power-to-europe/) 
 - [What sets Dank Mono apart? – Phil Plückthun – Medium](https://medium.com/@philpl/what-sets-dank-mono-apart-1bbdc1cc3cbd) 
+- [Amazon Working on a Fix for Alexa Devices Scaring Users With Creepy Laughter - Mac Rumors](https://www.macrumors.com/2018/03/07/alexa-devices-creepy-laugh-fix-coming/) 
