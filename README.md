@@ -460,3 +460,4 @@ Collections of links from everyday surfing.
 - [Amazon Working on a Fix for Alexa Devices Scaring Users With Creepy Laughter - Mac Rumors](https://www.macrumors.com/2018/03/07/alexa-devices-creepy-laugh-fix-coming/) 
 - [Alexa, are you connected to the CIA? Can the CIA hear me now? - YouTube](https://www.youtube.com/watch?v=DUK7YsIohh4) 
 - [Alexa randomly laughing compilation - YouTube](https://www.youtube.com/watch?v=p8phGxzUC_Y) 
+- [Never ASK ALEXA These Questions or You Will Regret It - STOP - YouTube](https://www.youtube.com/watch?v=tBd7LTmWaqU) 
