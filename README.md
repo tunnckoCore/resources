@@ -1,6 +1,9 @@
 # lists
 Collections of links from everyday surfing.
 
+
+### June 4, 2018 
+- [Opher Vishnia: Wait, you can do that with JavaScript…!? | JSConf Iceland 2018 - YouTube](https://www.youtube.com/watch?v=JCATu2WkOq8) 
 ### October 21, 2017 
 - [Creating a killer customised Linux distro with Arch & i3: Part I - <vexation />](https://vexation.eu/creating-a-customised-linux-distro-with-arch-i3/) 
 - [Using ES modules natively in Node.js](http://2ality.com/2017/09/native-esm-node.html) 
