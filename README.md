@@ -6,6 +6,7 @@ Collections of links from everyday surfing.
 - [Opher Vishnia: Wait, you can do that with JavaScript…!? | JSConf Iceland 2018 - YouTube](https://www.youtube.com/watch?v=JCATu2WkOq8) 
 - [Reach Router - Overview](https://reach.tech/router) 
 - [Microsoft Is Said to Have Agreed to Acquire Coding Site GitHub - Bloomberg](https://www.bloomberg.com/news/articles/2018-06-03/microsoft-is-said-to-have-agreed-to-acquire-coding-site-github) 
+- [Microsoft Is Said to Have Agreed to Acquire GitHub | Hacker News](https://news.ycombinator.com/item?id=17221527) 
 ### October 21, 2017 
 - [Creating a killer customised Linux distro with Arch & i3: Part I - <vexation />](https://vexation.eu/creating-a-customised-linux-distro-with-arch-i3/) 
 - [Using ES modules natively in Node.js](http://2ality.com/2017/09/native-esm-node.html) 
