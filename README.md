@@ -9,6 +9,7 @@ Collections of links from everyday surfing.
 - [Microsoft Is Said to Have Agreed to Acquire GitHub | Hacker News](https://news.ycombinator.com/item?id=17221527) 
 - [Congratulations GitHub on the acquisition by Microsoft | GitLab](https://about.gitlab.com/2018/06/03/microsoft-acquires-github/) 
 - [18 most popular JavaScript open source repositories on GitHub. May 2018](https://itnext.io/18-most-popular-javascript-open-source-repositories-on-github-may-2018-cdbed25c58c7) 
+- [A 1.3-Tbs DDoS Hit GitHub, the Largest Yet Recorded | WIRED](https://www.wired.com/story/github-ddos-memcached/) 
 ### October 21, 2017 
 - [Creating a killer customised Linux distro with Arch & i3: Part I - <vexation />](https://vexation.eu/creating-a-customised-linux-distro-with-arch-i3/) 
 - [Using ES modules natively in Node.js](http://2ality.com/2017/09/native-esm-node.html) 
