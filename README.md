@@ -13,6 +13,7 @@ Collections of links from everyday surfing.
 - [Microsoft delivers 'the Facts' about Linux • The Register](https://www.theregister.co.uk/2004/06/11/ms_roadshow/) 
 - [A bright future for GitHub | The GitHub Blog](https://blog.github.com/2018-06-04-github-microsoft/) 
 - [Microsoft buying GitHub doesn't scare me](https://thenextweb.com/dd/2018/06/04/microsoft-buying-github-doesnt-scare-me/) 
+- [Ballmer: “Linux is a cancer” • The Register](https://www.theregister.co.uk/2001/06/02/ballmer_linux_is_a_cancer/) 
 ### October 21, 2017 
 - [Creating a killer customised Linux distro with Arch & i3: Part I - <vexation />](https://vexation.eu/creating-a-customised-linux-distro-with-arch-i3/) 
 - [Using ES modules natively in Node.js](http://2ality.com/2017/09/native-esm-node.html) 
