@@ -8,6 +8,7 @@ _Since [October 21, 2017](#october-21-2017)_
 ### June 5, 2018 
 - [Useful Javascript Array and Object Methods – codeburst](https://codeburst.io/useful-javascript-array-and-object-methods-6c7971d93230) 
 - [(HUGE PAGE!!) Web Survey Report 2018 | Node.js](https://nodejs.org/en/user-survey-report/?utm_source=node-social&utm_medium=Twitter&utm_campaign=node2018survey&utm_content=launch) 
+- [On a computer, which color scheme is easier on your eyes? Discussion | Quora](https://www.quora.com/On-a-computer-which-color-scheme-is-easier-on-your-eyes-light-text-dark-background-or-dark-text-light-background) 
 ### June 4, 2018
 
 - [Microsoft Is Said to Have Agreed to Acquire Coding Site GitHub - Bloomberg](https://www.bloomberg.com/news/articles/2018-06-03/microsoft-is-said-to-have-agreed-to-acquire-coding-site-github)
