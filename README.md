@@ -6,6 +6,9 @@ _Since [October 21, 2017](#october-21-2017)_
 
 
 
+
+### June 7, 2018 
+- [Mango: Git completely decentralised – Alex Beregszaszi – Medium](https://medium.com/@alexberegszaszi/mango-git-completely-decentralised-7aef8bcbcfe6) 
 ### June 6, 2018 
 - [What Atheism Is & What It's Not - YouTube](https://www.youtube.com/watch?v=H_a7izq0tao) 
 ### June 5, 2018 
