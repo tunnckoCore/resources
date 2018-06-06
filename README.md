@@ -5,6 +5,9 @@ Collection of links of Tech, Science, Conferences, Videos and much more resource
 _Since [October 21, 2017](#october-21-2017)_
 
 
+
+### June 6, 2018 
+- [What Atheism Is & What It's Not - YouTube](https://www.youtube.com/watch?v=H_a7izq0tao) 
 ### June 5, 2018 
 - [Useful Javascript Array and Object Methods – codeburst](https://codeburst.io/useful-javascript-array-and-object-methods-6c7971d93230) 
 - [(HUGE PAGE!!) Web Survey Report 2018 | Node.js](https://nodejs.org/en/user-survey-report/?utm_source=node-social&utm_medium=Twitter&utm_campaign=node2018survey&utm_content=launch) 
