@@ -10,6 +10,7 @@ _Since [October 21, 2017](#october-21-2017)_
 
 ### June 8, 2018 
 - [MUST WATCH: The Future Of Bitcoin - Interview With Andreas M. Antonopoulos - Polish Bitcoin Congress 12/05/2018 - YouTube](https://www.youtube.com/watch?v=wILsMcrnDfU) 
+- [The highs and lows of using Lerna to manage your JavaScript projects](https://hackernoon.com/the-highs-and-lows-of-using-lerna-to-manage-your-javascript-projects-ff5c5cd82a99) 
 ### June 7, 2018 
 - [Mango: Git completely decentralised – Alex Beregszaszi – Medium](https://medium.com/@alexberegszaszi/mango-git-completely-decentralised-7aef8bcbcfe6) 
 ### June 6, 2018 
