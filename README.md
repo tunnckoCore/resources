@@ -12,6 +12,7 @@ _Since [October 21, 2017](#october-21-2017)_
 - [MUST WATCH: The Future Of Bitcoin - Interview With Andreas M. Antonopoulos - Polish Bitcoin Congress 12/05/2018 - YouTube](https://www.youtube.com/watch?v=wILsMcrnDfU) 
 - [The highs and lows of using Lerna to manage your JavaScript projects](https://hackernoon.com/the-highs-and-lows-of-using-lerna-to-manage-your-javascript-projects-ff5c5cd82a99) 
 - [One vs. many — Why we moved from multiple git repos to a monorepo and how we set it up](https://hackernoon.com/one-vs-many-why-we-moved-from-multiple-git-repos-to-a-monorepo-and-how-we-set-it-up-f4abb0cfe469) 
+- [A monorepo, GitHub Flow and automation FTW – Hacker Noon](https://hackernoon.com/a-monorepo-github-flow-and-automation-ftw-c41a2d9c48bb) 
 ### June 7, 2018 
 - [Mango: Git completely decentralised – Alex Beregszaszi – Medium](https://medium.com/@alexberegszaszi/mango-git-completely-decentralised-7aef8bcbcfe6) 
 ### June 6, 2018 
