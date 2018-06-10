@@ -12,6 +12,7 @@ _Since [October 21, 2017](#october-21-2017)_
 
 ### June 10, 2018 
 - [From programmer to engineer – Stupid Gopher – Medium](https://medium.com/@boltmick1/from-programmer-to-engineer-90b53727fe3d) 
+- [You don’t understand your software engineers – Amando Abreu – Medium](https://medium.com/@amandoabreu/you-dont-understand-your-software-engineers-53442ca0805a) 
 ### June 9, 2018 
 - [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU - YouTube](https://www.youtube.com/watch?v=5MgBikgcWnY) 
 ### June 8, 2018 
