@@ -9,6 +9,9 @@ _Since [October 21, 2017](#october-21-2017)_
 
 
 
+
+### June 10, 2018 
+- [From programmer to engineer – Stupid Gopher – Medium](https://medium.com/@boltmick1/from-programmer-to-engineer-90b53727fe3d) 
 ### June 9, 2018 
 - [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU - YouTube](https://www.youtube.com/watch?v=5MgBikgcWnY) 
 ### June 8, 2018 
