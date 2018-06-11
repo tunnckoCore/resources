@@ -15,6 +15,7 @@ _Since [October 21, 2017](#october-21-2017)_
 - [Reflection In JavaScript](http://coursegalaxy.com/javascript/reflection.htm) 
 - [Pros and cons of functional programming – ITNEXT](https://itnext.io/pros-and-cons-of-functional-programming-32cdf527e1c2) 
 - [Fullstack GraphQL](https://www.graphql.college/fullstack-graphql/) 
+- [Linus Tech Tips: All-screen Notebook Concept - My Thoughts... - YouTube](https://www.youtube.com/watch?v=HxVeBqvbGWY) 
 ### June 10, 2018 
 - [From programmer to engineer – Stupid Gopher – Medium](https://medium.com/@boltmick1/from-programmer-to-engineer-90b53727fe3d) 
 - [You don’t understand your software engineers – Amando Abreu – Medium](https://medium.com/@amandoabreu/you-dont-understand-your-software-engineers-53442ca0805a) 
