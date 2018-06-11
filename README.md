@@ -11,6 +11,9 @@ _Since [October 21, 2017](#october-21-2017)_
 
 
 
+
+### June 12, 2018 
+- [You Might Not Need TypeScript (or Static Types) – JavaScript Scene – Medium](https://medium.com/javascript-scene/you-might-not-need-typescript-or-static-types-aa7cb670a77b) 
 ### June 11, 2018 
 - [Reflection In JavaScript](http://coursegalaxy.com/javascript/reflection.htm) 
 - [Pros and cons of functional programming – ITNEXT](https://itnext.io/pros-and-cons-of-functional-programming-32cdf527e1c2) 
