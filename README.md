@@ -19,6 +19,7 @@ _Since [October 21, 2017](#october-21-2017)_
 - [Desktop apps using Electron, Preact and Material Design](https://medium.com/@cjus/desktop-apps-using-electron-preact-and-material-design-8161938624c6) 
 - [Deep Learning in JS - Ashi Krishnan - JSConf EU 2018 - YouTube](https://www.youtube.com/watch?v=SV-cgdobtTA&list=PL37ZVnwpeshG2YXJkun_lyNTtM-Qb3MKa) 
 - [The Free Beginner's Guide to React from @kentcdodds on @eggheadio](https://egghead.io/courses/the-beginner-s-guide-to-react) 
+- [Zero to Flow in 30 Minutes – Steven Luscher - YouTube](https://www.youtube.com/watch?v=M1CR0l5xSHg) 
 ### June 10, 2018 
 - [From programmer to engineer – Stupid Gopher – Medium](https://medium.com/@boltmick1/from-programmer-to-engineer-90b53727fe3d) 
 - [You don’t understand your software engineers – Amando Abreu – Medium](https://medium.com/@amandoabreu/you-dont-understand-your-software-engineers-53442ca0805a) 
