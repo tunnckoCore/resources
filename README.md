@@ -15,6 +15,7 @@ _Since [October 21, 2017](#october-21-2017)._ Please click the `Watch` button to
 ### June 12, 2018 
 - [You Might Not Need TypeScript (or Static Types) – JavaScript Scene – Medium](https://medium.com/javascript-scene/you-might-not-need-typescript-or-static-types-aa7cb670a77b) 
 - [Safer JavaScript with the Maybe Type from @avanslaars on @eggheadio](https://egghead.io/courses/safer-javascript-with-the-maybe-type) 
+- [Calm Piano Music 24/7: study music, focus, think, meditation, relaxing music - YouTube](https://www.youtube.com/watch?v=rLMHGjoxJdQ) 
 ### June 11, 2018 
 - [Reflection In JavaScript](http://coursegalaxy.com/javascript/reflection.htm) 
 - [Pros and cons of functional programming – ITNEXT](https://itnext.io/pros-and-cons-of-functional-programming-32cdf527e1c2) 
