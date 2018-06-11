@@ -2,7 +2,7 @@
 
 Collection of links of Tech, Science, Conferences, Videos and much more resources from everyday surfing.
 
-_Since [October 21, 2017](#october-21-2017)_
+_Since [October 21, 2017](#october-21-2017)_ Please click the `Watch` button to stay tuned and up-to-date. :heart:
 
 
 
