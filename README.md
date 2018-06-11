@@ -17,6 +17,7 @@ _Since [October 21, 2017](#october-21-2017)._ Please click the `Watch` button to
 - [Safer JavaScript with the Maybe Type from @avanslaars on @eggheadio](https://egghead.io/courses/safer-javascript-with-the-maybe-type) 
 - [Calm Piano Music 24/7: study music, focus, think, meditation, relaxing music - YouTube](https://www.youtube.com/watch?v=rLMHGjoxJdQ) 
 - [Polite Technology Book - Tom MacWright](https://polite.technology/preview) 
+- [State of documentation.js as of mid 2017 - macwright.org](https://macwright.org/2017/06/06/documentation-js.html) 
 ### June 11, 2018 
 - [Reflection In JavaScript](http://coursegalaxy.com/javascript/reflection.htm) 
 - [Pros and cons of functional programming – ITNEXT](https://itnext.io/pros-and-cons-of-functional-programming-32cdf527e1c2) 
