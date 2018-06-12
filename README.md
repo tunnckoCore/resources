@@ -20,6 +20,7 @@ _Since [October 21, 2017](#october-21-2017)._ Please click the `Watch` button to
 - [State of documentation.js as of mid 2017 - macwright.org](https://macwright.org/2017/06/06/documentation-js.html) 
 - [Comma Operator: Little Trick to make Sweet One Liner Code](https://medium.com/@zwacky/make-that-sweet-one-liner-with-the-comma-operator-78e61831fc98) 
 - [Fix code quality issues before they exist | SonarLint](https://www.sonarlint.org/) 
+- [Zero to Deploy: A Practical Guide to Static Sites with Gatsby.js ― Scotch](https://scotch.io/tutorials/zero-to-deploy-a-practical-guide-to-static-sites-with-gatsbyjs) 
 ### June 11, 2018 
 - [Reflection In JavaScript](http://coursegalaxy.com/javascript/reflection.htm) 
 - [Pros and cons of functional programming – ITNEXT](https://itnext.io/pros-and-cons-of-functional-programming-32cdf527e1c2) 
