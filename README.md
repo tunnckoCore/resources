@@ -18,6 +18,7 @@ _Since [October 21, 2017](#october-21-2017)._ Please click the `Watch` button to
 - [Calm Piano Music 24/7: study music, focus, think, meditation, relaxing music - YouTube](https://www.youtube.com/watch?v=rLMHGjoxJdQ) 
 - [Polite Technology Book - Tom MacWright](https://polite.technology/preview) 
 - [State of documentation.js as of mid 2017 - macwright.org](https://macwright.org/2017/06/06/documentation-js.html) 
+- [Comma Operator: Little Trick to make Sweet One Liner Code](https://medium.com/@zwacky/make-that-sweet-one-liner-with-the-comma-operator-78e61831fc98) 
 ### June 11, 2018 
 - [Reflection In JavaScript](http://coursegalaxy.com/javascript/reflection.htm) 
 - [Pros and cons of functional programming – ITNEXT](https://itnext.io/pros-and-cons-of-functional-programming-32cdf527e1c2) 
