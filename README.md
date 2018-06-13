@@ -18,6 +18,7 @@ _Since [October 21, 2017](#october-21-2017)._ Please click the `Watch` button to
 - [cjus/umf: Universal Messaging Format (UMF) Specification](https://github.com/cjus/umf) 
 - [Introducing Vue Native – GeekyAnts Blog](https://blog.geekyants.com/introducing-vue-native-b66f71d50438) 
 - [Interledger/rfcs #0028 – Web Monetization Browser API - webmonetization.org](https://github.com/interledger/rfcs/blob/master/0028-web-monetization/0028-web-monetization.md#web-monetization) 
+- [Coil: Building a New Business Model for the Web – Coil – Medium](https://medium.com/coil/coil-building-a-new-business-model-for-the-web-d33124358b6) 
 ### June 13, 2018 
 - [How we built the Story Licensing app using Next.js, Algolia and Cosmic JS | Codementor](https://www.codementor.io/tonyspiro/how-we-built-the-story-licensing-app-using-next-js-algolia-and-cosmic-js-kfft6c84p) 
 - [Flow Control in Modern JS: Callbacks to Promises to Async/Await — SitePoint](https://www.sitepoint.com/flow-control-callbacks-promises-async-await/) 
