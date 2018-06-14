@@ -21,6 +21,7 @@ _Since [October 21, 2017](#october-21-2017)._ Please click the `Watch` button to
 - [Coil: Building a New Business Model for the Web – Coil – Medium](https://medium.com/coil/coil-building-a-new-business-model-for-the-web-d33124358b6) 
 - [10 Lessons from 4 Years Working Remotely at Automattic – When I Have Time by Sara Rosso](https://whenihavetime.com/2014/07/08/10-lessons-from-4-years-working-remotely/) 
 - [X-Team Blog | 10 Secrets to Becoming a Great Remote Developer](https://x-team.com/blog/10-secrets-to-becoming-a-great-remote-developer/) 
+- [4 LIttle-Known Hacks That Will Help You Find Remote Jobs](https://blog.hubstaff.com/hacks-find-remote-jobs/) 
 ### June 13, 2018 
 - [How we built the Story Licensing app using Next.js, Algolia and Cosmic JS | Codementor](https://www.codementor.io/tonyspiro/how-we-built-the-story-licensing-app-using-next-js-algolia-and-cosmic-js-kfft6c84p) 
 - [Flow Control in Modern JS: Callbacks to Promises to Async/Await — SitePoint](https://www.sitepoint.com/flow-control-callbacks-promises-async-await/) 
