@@ -2,7 +2,10 @@
 
 Collection of links of Tech, Science, Conferences, Videos and much more resources from everyday surfing.
 
-_Since [October 21, 2017](#october-21-2017)._ Please click the `Watch` button to stay tuned and up-to-date. :heart:
+If you have **any suggestions** for what to _**read**_ and what to _**watch**_, please feel free to [open new discussion](https://github.com/olstenlarck/resources/issues/new) or ping me on Twitter [@tunnckoCore](https://twitter.com/tunnckoCore) with some links.
+I'll will add them to the list once i finish them.
+
+_Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing support and :hearts: or hit :eyes: _(watch)_ for staying tuned. Thanks!
 
 
 
