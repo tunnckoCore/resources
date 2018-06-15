@@ -21,6 +21,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### June 15, 2018 
 - [JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer - JSConf EU 2018 - YouTube](https://www.youtube.com/watch?v=5nmpokoRaZI) 
 - [TC39 Panel - JSConf EU 2018 - YouTube](https://www.youtube.com/watch?v=Hj5q8uyqGYc) 
+- [How to Choose the Best Static Site Generator in 2018 - Snipcart](https://snipcart.com/blog/choose-best-static-site-generator?utm_source=JSK-35013&utm_medium=JSK-35013&utm_content=JSK-35013&utm_campaign=JSK-35013) 
 ### June 14, 2018 
 - [cjus/umf: Universal Messaging Format (UMF) Specification](https://github.com/cjus/umf) 
 - [Introducing Vue Native – GeekyAnts Blog](https://blog.geekyants.com/introducing-vue-native-b66f71d50438) 
