@@ -18,6 +18,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### June 16, 2018 
+- [Andreas Antonopoulos: Decentralized Globalisation - YouTube](https://www.youtube.com/watch?v=QoiR4aNbTOw) 
 ### June 15, 2018 
 - [JavaScript Engines: The Good Parts™ - Mathias Bynens & Benedikt Meurer - JSConf EU 2018 - YouTube](https://www.youtube.com/watch?v=5nmpokoRaZI) 
 - [TC39 Panel - JSConf EU 2018 - YouTube](https://www.youtube.com/watch?v=Hj5q8uyqGYc) 
