@@ -23,6 +23,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### June 20, 2018 
 - [Sunsetting React Native – Airbnb Engineering & Data Science – Medium](https://medium.com/airbnb-engineering/sunsetting-react-native-1868ba28e30a) 
+- [When (and why) you should use ES6 arrow functions — and when you shouldn’t](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26) 
 ### June 19, 2018 
 - [Interactive currency-comparison tool: The Big Mac index | The Economist](https://www.economist.com/content/big-mac-index) 
 ### June 16, 2018 
