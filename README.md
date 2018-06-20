@@ -20,6 +20,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### June 20, 2018 
+- [Sunsetting React Native – Airbnb Engineering & Data Science – Medium](https://medium.com/airbnb-engineering/sunsetting-react-native-1868ba28e30a) 
 ### June 19, 2018 
 - [Interactive currency-comparison tool: The Big Mac index | The Economist](https://www.economist.com/content/big-mac-index) 
 ### June 16, 2018 
