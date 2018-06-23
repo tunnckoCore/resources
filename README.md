@@ -25,6 +25,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### June 23, 2018 
 - [@mjackson on Twitter: "Every day is a battle..."](https://mobile.twitter.com/mjackson/status/1010586160693825537) 
+- [JavaScript in 14 minutes by Jeremy Thomas](https://jgthms.com/javascript-in-14-minutes/) 
 ### June 22, 2018 
 - [Firefox Is Back. It’s Time to Give It a Try. - The New York Times](https://www.nytimes.com/2018/06/20/technology/personaltech/firefox-chrome-browser-privacy.html) 
 ### June 20, 2018 
