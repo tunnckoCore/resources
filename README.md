@@ -26,6 +26,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### June 24, 2018 
 - [How to Actually Improve Type Safety with the TypeScript Strict Flags - Lucidchart](https://www.lucidchart.com/techblog/2018/06/20/how-to-actually-improve-type-safety-with-the-typescript-strict-flags/) 
+- [Fullstack Academy | Learn JavaScript for Free: 11 Online Resources For](https://www.fullstackacademy.com/blog/learn-javascript-for-free-11-online-tutorials-resources) 
 ### June 23, 2018 
 - [@mjackson on Twitter: "Every day is a battle..."](https://mobile.twitter.com/mjackson/status/1010586160693825537) 
 - [JavaScript in 14 minutes by Jeremy Thomas](https://jgthms.com/javascript-in-14-minutes/) 
