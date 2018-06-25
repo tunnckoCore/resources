@@ -24,6 +24,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### June 25, 2018 
+- [A tale of Webpack 4 and how to finally configure it in the right way](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1) 
 ### June 24, 2018 
 - [How to Actually Improve Type Safety with the TypeScript Strict Flags - Lucidchart](https://www.lucidchart.com/techblog/2018/06/20/how-to-actually-improve-type-safety-with-the-typescript-strict-flags/) 
 - [Fullstack Academy | Learn JavaScript for Free: 11 Online Resources For](https://www.fullstackacademy.com/blog/learn-javascript-for-free-11-online-tutorials-resources) 
