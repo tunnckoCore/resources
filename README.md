@@ -26,6 +26,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### June 27, 2018 
+- [INCEPTION (Hans Zimmer) - Time | Improvisation #2 (Grand Piano Cover) + Sheets - YouTube](https://www.youtube.com/watch?v=b19XyV0rZYw) 
 ### June 26, 2018 
 - [Threads in Node 10.5.0: a practical intro – DailyJS – Medium](https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953) 
 ### June 25, 2018 
