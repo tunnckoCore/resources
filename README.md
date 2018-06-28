@@ -27,6 +27,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### June 28, 2018 
+- [The status of JavaScript outside of the browser: 2018 & beyond.](https://medium.com/@alberto.park/the-status-of-javascript-outside-of-the-browser-2018-beyond-ee0b79ee059f) 
 ### June 27, 2018 
 - [INCEPTION (Hans Zimmer) - Time | Improvisation #2 (Grand Piano Cover) + Sheets - YouTube](https://www.youtube.com/watch?v=b19XyV0rZYw) 
 ### June 26, 2018 
