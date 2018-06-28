@@ -31,6 +31,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### June 28, 2018 
 - [The status of JavaScript outside of the browser: 2018 & beyond.](https://medium.com/@alberto.park/the-status-of-javascript-outside-of-the-browser-2018-beyond-ee0b79ee059f) 
 - [It's time to build our own Internet | André Staltz | TEDxGeneva - YouTube](https://www.youtube.com/watch?v=UjfWAbGfPh0&feature=youtu.be) 
+- [What Would Happen To Bitcoin If Satoshi Nakamoto's 1 Million Coins Moved](https://bitcoinexchangeguide.com/what-would-happen-to-bitcoin-if-satoshi-nakamotos-1-million-coins-moved/) 
 ### June 27, 2018 
 - [INCEPTION (Hans Zimmer) - Time | Improvisation #2 (Grand Piano Cover) + Sheets - YouTube](https://www.youtube.com/watch?v=b19XyV0rZYw) 
 ### June 26, 2018 
