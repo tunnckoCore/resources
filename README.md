@@ -34,6 +34,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Successful, Accomplished, Depressed – A Talk About Performance, Perfectionism, and Burnout in IT - YouTube](https://www.youtube.com/watch?v=C84h5e9cOZY) 
 - [Empowering Developer-Driven Entrepreneurship - @WeAreDevs - YouTube](https://www.youtube.com/watch?v=rVJJcMzK-UA) 
 - [A better javascript ecosystem - Coding](http://gelatindesign.co.uk/coding/javascript-ecosystem) 
+- [JavaScript Fundamentals for Absolute Beginners 2018 - YouTube](https://www.youtube.com/watch?v=YMvzfQSI6pQ) 
 ### June 29, 2018 
 - [Brave advances browser privacy with Tor-powered tabs - CNET](https://www.cnet.com/news/brave-advances-browser-privacy-with-tor-powered-tabs/?utm_source=reddit.com) 
 ### June 28, 2018 
