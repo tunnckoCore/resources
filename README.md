@@ -34,6 +34,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### July 2, 2018 
 - [Digital Nomad: Everything you need to know – NODESK.co](https://nodesk.co/digital-nomad/) 
 - [DOM handleEvent: a cross-platform standard since year 2000](https://medium.com/@WebReflection/dom-handleevent-a-cross-platform-standard-since-year-2000-5bf17287fd38) 
+- [ESDiscuss.org | ES8+ Proposal: Optional Static Typing](https://esdiscuss.org/topic/es8-proposal-optional-static-typing) 
 ### July 1, 2018 
 - [Successful, Accomplished, Depressed – A Talk About Performance, Perfectionism, and Burnout in IT - YouTube](https://www.youtube.com/watch?v=C84h5e9cOZY) 
 - [Empowering Developer-Driven Entrepreneurship - @WeAreDevs - YouTube](https://www.youtube.com/watch?v=rVJJcMzK-UA) 
