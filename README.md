@@ -39,6 +39,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Millennials (Generation Y) - Wikipedia](https://en.m.wikipedia.org/wiki/Millennials) 
 - [Millennials: The Me Me Me Generation | Time.com](http://time.com/247/millennials-the-me-me-me-generation/?#) 
 - [Intro to ReasonML Syntax from a JavaScript perspective - YouTube](https://www.youtube.com/watch?v=sOgJTcB4Tb8) 
+- [Course: Get started with ReasonML from @nikgraf on @eggheadio](https://egghead.io/lessons/reason-course-overview-get-started-with-reason) 
 ### July 2, 2018 
 - [Digital Nomad: Everything you need to know – NODESK.co](https://nodesk.co/digital-nomad/) 
 - [DOM handleEvent: a cross-platform standard since year 2000](https://medium.com/@WebReflection/dom-handleevent-a-cross-platform-standard-since-year-2000-5bf17287fd38) 
