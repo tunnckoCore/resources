@@ -35,6 +35,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### July 3, 2018 
 - [Write Perfect Code with Standard and ESLint - YouTube](https://www.youtube.com/watch?v=arNtoWxBuXc&feature=youtu.be) 
 - [On Consuming (and Publishing) ES2015+ Packages · Babel](https://babeljs.io/blog/2018/06/26/on-consuming-and-publishing-es2015+-packages) 
+- [Practical Functional Programming: Prelude – RTFM / Daniel Gasienica](http://www.gasi.ch/blog/practical-functional-programming) 
 ### July 2, 2018 
 - [Digital Nomad: Everything you need to know – NODESK.co](https://nodesk.co/digital-nomad/) 
 - [DOM handleEvent: a cross-platform standard since year 2000](https://medium.com/@WebReflection/dom-handleevent-a-cross-platform-standard-since-year-2000-5bf17287fd38) 
