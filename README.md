@@ -31,6 +31,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### July 3, 2018 
+- [Write Perfect Code with Standard and ESLint - YouTube](https://www.youtube.com/watch?v=arNtoWxBuXc&feature=youtu.be) 
 ### July 2, 2018 
 - [Digital Nomad: Everything you need to know – NODESK.co](https://nodesk.co/digital-nomad/) 
 - [DOM handleEvent: a cross-platform standard since year 2000](https://medium.com/@WebReflection/dom-handleevent-a-cross-platform-standard-since-year-2000-5bf17287fd38) 
