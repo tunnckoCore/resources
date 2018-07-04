@@ -37,6 +37,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Build your first dApp in 5 minutes: Part II – The Dharma Protocol Blog](https://blog.dharma.io/build-your-first-dapp-in-5-minutes-part-ii-d413f44facf1) 
 - [ageitgey/node-unfluff: Automatically extract body content (and other cool stuff) from an html document](https://github.com/ageitgey/node-unfluff) 
 - [Reduce JavaScript Payloads with Tree Shaking  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/) 
+- [@mikeal on Twitter Thread: "It's been about 8 years since I wrote the original proof-of-concept for PouchDB..."](https://mobile.twitter.com/mikeal/status/1013799719263322112) 
 ### July 3, 2018 
 - [Write Perfect Code with Standard and ESLint - YouTube](https://www.youtube.com/watch?v=arNtoWxBuXc&feature=youtu.be) 
 - [On Consuming (and Publishing) ES2015+ Packages · Babel](https://babeljs.io/blog/2018/06/26/on-consuming-and-publishing-es2015+-packages) 
