@@ -39,6 +39,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Reduce JavaScript Payloads with Tree Shaking  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/) 
 - [@mikeal on Twitter Thread: "It's been about 8 years since I wrote the original proof-of-concept for PouchDB..."](https://mobile.twitter.com/mikeal/status/1013799719263322112) 
 - [Design Patterns in Javascript By Examples – ITNEXT.io](https://itnext.io/design-patterns-in-javascript-f533632556c1) 
+- [Design Patterns in Javascript — Part 2: Structural – ITNEXT](https://itnext.io/design-patterns-in-javascript-part-2-bca0ffbe6f25) 
 ### July 3, 2018 
 - [Write Perfect Code with Standard and ESLint - YouTube](https://www.youtube.com/watch?v=arNtoWxBuXc&feature=youtu.be) 
 - [On Consuming (and Publishing) ES2015+ Packages · Babel](https://babeljs.io/blog/2018/06/26/on-consuming-and-publishing-es2015+-packages) 
