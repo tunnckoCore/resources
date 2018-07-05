@@ -33,6 +33,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### July 5, 2018 
+- [7 Steps to Learn How to Play Piano](http://www.instructables.com/id/7-Steps-to-Learn-How-to-Play-Piano/) 
 ### July 4, 2018 
 - [Build your first dApp in 5 minutes: Part II – The Dharma Protocol Blog](https://blog.dharma.io/build-your-first-dapp-in-5-minutes-part-ii-d413f44facf1) 
 - [ageitgey/node-unfluff: Automatically extract body content (and other cool stuff) from an html document](https://github.com/ageitgey/node-unfluff) 
