@@ -34,6 +34,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### July 6, 2018 
+- [The case for Array#replace() – Gajus Kuizinas – Medium](https://medium.com/@gajus/the-case-for-array-replace-cd9330707243) 
 ### July 5, 2018 
 - [7 Steps to Learn How to Play Piano](http://www.instructables.com/id/7-Steps-to-Learn-How-to-Play-Piano/) 
 ### July 4, 2018 
