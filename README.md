@@ -35,6 +35,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### July 7, 2018 
+- [Into the Great Unknown — Migrating from Mocha to Jest](https://ebaytech.berlin/into-the-great-unknown-migrating-from-mocha-to-jest-3baced083c7e) 
 ### July 6, 2018 
 - [The case for Array#replace() – Gajus Kuizinas – Medium](https://medium.com/@gajus/the-case-for-array-replace-cd9330707243) 
 ### July 5, 2018 
