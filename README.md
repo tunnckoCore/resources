@@ -36,6 +36,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### July 8, 2018 
+- [[ FREE E-BOOK] The complete guide to modern JavaScript: everything new from ES2015 to ES2018](https://medium.com/@labby92/free-e-book-javascript-es6-for-beginners-9553f8d3a91c) 
 ### July 7, 2018 
 - [Into the Great Unknown — Migrating from Mocha to Jest](https://ebaytech.berlin/into-the-great-unknown-migrating-from-mocha-to-jest-3baced083c7e) 
 ### July 6, 2018 
