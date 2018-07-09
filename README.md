@@ -37,6 +37,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### July 9, 2018 
+- [JavaScript loops — how to handle async/await – Anton Lavrenov’ Blog](https://blog.lavrton.com/javascript-loops-how-to-handle-async-await-6252dd3c795) 
 ### July 8, 2018 
 - [[ FREE E-BOOK] The complete guide to modern JavaScript: everything new from ES2015 to ES2018](https://medium.com/@labby92/free-e-book-javascript-es6-for-beginners-9553f8d3a91c) 
 ### July 7, 2018 
