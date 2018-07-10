@@ -38,6 +38,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### July 10, 2018 
+- [The npm Blog — npm Joins ECMA International and TC39](https://blog.npmjs.org/post/175722319045/npm-joins-ecma-international-and-tc39) 
 ### July 9, 2018 
 - [JavaScript loops — how to handle async/await – Anton Lavrenov’ Blog](https://blog.lavrton.com/javascript-loops-how-to-handle-async-await-6252dd3c795) 
 - [Node.js Child Processes: Everything you need to know](https://medium.freecodecamp.org/node-js-child-processes-everything-you-need-to-know-e69498fe970a) 
