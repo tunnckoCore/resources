@@ -42,6 +42,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### July 12, 2018 
 - [Polyphasic Sleep: I Decided to Sleep for 4 Hours a Day, See What Happened - YouTube](https://www.youtube.com/watch?v=lbFzL-0pEeU) 
+- [Don't Block the Event Loop (or the Worker Pool) | Node.js](https://nodejs.org/en/docs/guides/dont-block-the-event-loop/) 
 ### July 10, 2018 
 - [The npm Blog — npm Joins ECMA International and TC39](https://blog.npmjs.org/post/175722319045/npm-joins-ecma-international-and-tc39) 
 - [Parallel programming in JavaScript – ITNEXT](https://itnext.io/achieving-parallelism-in-javascript-using-web-workers-8f921f2d26db) 
