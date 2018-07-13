@@ -43,6 +43,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### July 14, 2018 
 - [CSS: A New Kind Of JavaScript – Heydon – Medium](https://medium.com/@Heydon/css-a-new-kind-of-javascript-fcf730d33ce7) 
+- [Modern Javascript and Asynchronous Programming: Generators/Yield vs. Async/Await](https://medium.com/front-end-hacking/modern-javascript-and-asynchronous-programming-generators-yield-vs-async-await-550275cbe433) 
 ### July 12, 2018 
 - [Polyphasic Sleep: I Decided to Sleep for 4 Hours a Day, See What Happened - YouTube](https://www.youtube.com/watch?v=lbFzL-0pEeU) 
 - [Don't Block the Event Loop (or the Worker Pool) | Node.js](https://nodejs.org/en/docs/guides/dont-block-the-event-loop/) 
