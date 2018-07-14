@@ -45,6 +45,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [CSS: A New Kind Of JavaScript – Heydon – Medium](https://medium.com/@Heydon/css-a-new-kind-of-javascript-fcf730d33ce7) 
 - [Modern Javascript and Asynchronous Programming: Generators/Yield vs. Async/Await](https://medium.com/front-end-hacking/modern-javascript-and-asynchronous-programming-generators-yield-vs-async-await-550275cbe433) 
 - [The npm Blog — Two-factor authentication protection for packages](https://blog.npmjs.org/post/175861857230/two-factor-authentication-protection-for-packages) 
+- [How to Create a Node.js Cluster for Speeding Up Your Apps — SitePoint](https://www.sitepoint.com/how-to-create-a-node-js-cluster-for-speeding-up-your-apps/) 
 ### July 12, 2018 
 - [Polyphasic Sleep: I Decided to Sleep for 4 Hours a Day, See What Happened - YouTube](https://www.youtube.com/watch?v=lbFzL-0pEeU) 
 - [Don't Block the Event Loop (or the Worker Pool) | Node.js](https://nodejs.org/en/docs/guides/dont-block-the-event-loop/) 
