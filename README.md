@@ -41,6 +41,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### July 16, 2018 
+- [Understanding execFile, spawn, exec, and fork in Node.js - DZone Web Dev](https://dzone.com/articles/understanding-execfile-spawn-exec-and-fork-in-node) 
 ### July 14, 2018 
 - [CSS: A New Kind Of JavaScript – Heydon – Medium](https://medium.com/@Heydon/css-a-new-kind-of-javascript-fcf730d33ce7) 
 - [Modern Javascript and Asynchronous Programming: Generators/Yield vs. Async/Await](https://medium.com/front-end-hacking/modern-javascript-and-asynchronous-programming-generators-yield-vs-async-await-550275cbe433) 
