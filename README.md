@@ -43,6 +43,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### July 21, 2018 
+- [Solving the "ESM in NodeJS" Odyssey. – by WebReflection](https://gist.github.com/WebReflection/a4e026e78af45ede8d0f7498cab44f91) 
 ### July 20, 2018 
 - [a = {}; a !== {}; returns true, why? : javascript](https://www.reddit.com/r/javascript/comments/90hmpa/a_a_returns_true_why/) 
 ### July 16, 2018 
