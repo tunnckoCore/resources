@@ -48,6 +48,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Solving the "ESM in NodeJS" Odyssey. – by WebReflection](https://gist.github.com/WebReflection/a4e026e78af45ede8d0f7498cab44f91) 
 - [a = {}; a !== {}; returns true, why? : javascript](https://www.reddit.com/r/javascript/comments/90hmpa/a_a_returns_true_why/) 
 - [Burn bright but don't burn out - Patima Tantiprasut - JSConf EU 2018 - YouTube](https://www.youtube.com/watch?v=Bys_QWm5rDE) 
+- [Safari 10.1 `nomodule` support - GitHub Gist](https://gist.github.com/samthor/64b114e4a4f539915a95b91ffd340acc) 
 ### July 16, 2018 
 - [Understanding execFile, spawn, exec, and fork in Node.js - DZone Web Dev](https://dzone.com/articles/understanding-execfile-spawn-exec-and-fork-in-node) 
 ### July 14, 2018 
