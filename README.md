@@ -45,6 +45,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### July 25, 2018 
+- [Probot 7.0: Moving to TypeScript to Help the Developer Experience](https://medium.com/probot/probot-7-0-moving-to-typescript-to-help-the-developer-experience-390e96431579) 
 ### July 23, 2018 
 - [The Minimally-nice Open Source Software Maintainer](https://brson.github.io/2017/04/05/minimally-nice-maintainer) 
 ### July 21, 2018 
