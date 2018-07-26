@@ -51,6 +51,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Self-hosting a Continuous Integration server using Drone.](http://alexnj.com/blog/hosting-your-own-drone-ci-instance/) 
 - [Docker ARG, ENV and .env - a Complete Guide · vsupalov.com](https://vsupalov.com/docker-arg-env-variable-guide/) 
 - [Building a Super-Fast Docker CI/CD Pipeline with Rancher and DroneCI | Rancher Labs](https://rancher.com/building-super-fast-docker-cicd-pipeline-rancher-droneci/) 
+- [Building Maintainable Software, Java Edition - O'Reilly Media](http://shop.oreilly.com/product/0636920049159.do) 
 ### July 25, 2018 
 - [Probot 7.0: Moving to TypeScript to Help the Developer Experience](https://medium.com/probot/probot-7-0-moving-to-typescript-to-help-the-developer-experience-390e96431579) 
 ### July 23, 2018 
