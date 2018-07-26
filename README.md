@@ -46,6 +46,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### July 26, 2018 
+- [Self-hosting a Continuous Integration server using Drone.](http://alexnj.com/blog/hosting-your-own-drone-ci-instance/) 
 ### July 25, 2018 
 - [Probot 7.0: Moving to TypeScript to Help the Developer Experience](https://medium.com/probot/probot-7-0-moving-to-typescript-to-help-the-developer-experience-390e96431579) 
 ### July 23, 2018 
