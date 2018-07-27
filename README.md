@@ -47,6 +47,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### July 27, 2018 
+- [ES6 Modules Today With TypeScript | ceriously](https://www.ceriously.com/blog/post.php?id=2017-10-16-es6-modules-today-with-typescript.md) 
 ### July 26, 2018 
 - [Self-hosting a Continuous Integration server using Drone.](http://alexnj.com/blog/hosting-your-own-drone-ci-instance/) 
 - [Docker ARG, ENV and .env - a Complete Guide · vsupalov.com](https://vsupalov.com/docker-arg-env-variable-guide/) 
