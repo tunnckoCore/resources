@@ -48,6 +48,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### July 30, 2018 
+- [Schema-shot - snapshot testing for dynamic data | Better world by better software](https://glebbahmutov.com/blog/schema-shot/) 
 ### July 27, 2018 
 - [ES6 Modules Today With TypeScript | ceriously](https://www.ceriously.com/blog/post.php?id=2017-10-16-es6-modules-today-with-typescript.md) 
 - [3-part series: React, Typescript, And Parcel [Getting Started] | bdenzer.com Blog](https://blog.bdenzer.com/react-typescript-and-parcel-getting-started/) 
