@@ -1,4 +1,8 @@
-# lists
+# Awesome Resources [![Become a Patron][patreon-img]][patreon-url]
+
+
+[patreon-url]: https://www.patreon.com/bePatron?u=5579781
+[patreon-img]: https://badgen.net/badge/become/a%20patron/F96854?icon=patreon 
 
 Collection of links of Tech, Science, Conferences, Videos and much more resources from everyday surfing.
 
