@@ -58,6 +58,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Snapshot testing the hard way | Better world by better software](https://glebbahmutov.com/blog/snapshot-testing/) 
 - [You Can Now Write Google Cloud Functions with Node.js 8](https://itnext.io/you-can-now-write-google-cloud-functions-with-node-js-8-bd066ea6d4f5) 
 - [Announcing TypeScript 3.0 | TypeScript](https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/) 
+- [Why we love TypeScript – Delve Engineering – Medium](https://medium.com/@delveeng/why-we-love-typescript-bec2df88d6c2) 
 ### July 27, 2018 
 - [ES6 Modules Today With TypeScript | ceriously](https://www.ceriously.com/blog/post.php?id=2017-10-16-es6-modules-today-with-typescript.md) 
 - [3-part series: React, Typescript, And Parcel [Getting Started] | bdenzer.com Blog](https://blog.bdenzer.com/react-typescript-and-parcel-getting-started/) 
