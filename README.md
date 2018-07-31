@@ -56,6 +56,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### July 31, 2018 
 - [Early Returns in JavaScript - DEV Community 👩‍💻👨‍💻](https://dev.to/jenniferlynparsons/early-returns-in-javascript-5hfb) 
+- [timoxley.com | Avoid Else, Return Early](http://blog.timoxley.com/post/47041269194/avoid-else-return-early) 
 ### July 30, 2018 
 - [Schema-shot - snapshot testing for dynamic data | Better world by better software](https://glebbahmutov.com/blog/schema-shot/) 
 - [Snapshot testing the hard way | Better world by better software](https://glebbahmutov.com/blog/snapshot-testing/) 
