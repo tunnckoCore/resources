@@ -59,6 +59,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [timoxley.com | Avoid Else, Return Early](http://blog.timoxley.com/post/47041269194/avoid-else-return-early) 
 - [Rule: Return earlier | Wilson Page](http://wilsonpage.co.uk/return-early/) 
 - [Create your own virtual DOM to understand it (Part 2) - DEV Community 👩‍💻👨‍💻](https://dev.to/aibolik/create-your-own-virtual-dom-to-understand-it-part-2-nlc) 
+- [How to set up SSH access with RSA private key on Windows - GitBash - DEV Community 👩‍💻👨‍💻](https://dev.to/juni/how-to-set-up-ssh-access-with-rsa-private-key-on-windows---gitbash-2hio) 
 ### July 30, 2018 
 - [Schema-shot - snapshot testing for dynamic data | Better world by better software](https://glebbahmutov.com/blog/schema-shot/) 
 - [Snapshot testing the hard way | Better world by better software](https://glebbahmutov.com/blog/snapshot-testing/) 
