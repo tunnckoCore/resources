@@ -54,6 +54,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### August 1, 2018 
+- [ES9: Javascript's new features in 2018 – freeCodeCamp](https://medium.freecodecamp.org/es9-javascripts-state-of-art-in-2018-9a350643f29c) 
 ### July 31, 2018 
 - [Early Returns in JavaScript - DEV Community 👩‍💻👨‍💻](https://dev.to/jenniferlynparsons/early-returns-in-javascript-5hfb) 
 - [timoxley.com | Avoid Else, Return Early](http://blog.timoxley.com/post/47041269194/avoid-else-return-early) 
