@@ -55,6 +55,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### August 2, 2018 
+- [The Cost Of JavaScript In 2018 – Addy Osmani – Medium](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4) 
 ### August 1, 2018 
 - [ES9: Javascript's new features in 2018 – freeCodeCamp](https://medium.freecodecamp.org/es9-javascripts-state-of-art-in-2018-9a350643f29c) 
 ### July 31, 2018 
