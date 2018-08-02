@@ -62,6 +62,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [What Happens When You Create A Flexbox Flex Container? — Smashing Magazine](https://www.smashingmagazine.com/2018/08/flexbox-display-flex-container/) 
 - [Very Earily Bird Tickets!! WeAreDevelopers World Congress 2019 Tickets, Thu, Jun 6, 2019 at 8:00 AM | Eventbrite](https://www.eventbrite.co.uk/e/wearedevelopers-world-congress-2019-tickets-48641736744) 
 - [js13kGames - HTML5 and JavaScript Game Development Competition in just 13 kilobytes (Aug 13, 2018)](http://js13kgames.com/) 
+- [MUST READ: Guys, REST APIs are not Databases – Thiago Marini – Medium](https://medium.com/@marinithiago/guys-rest-apis-are-not-databases-60db4e1120e4) 
 ### August 1, 2018 
 - [ES9: Javascript's new features in 2018 – freeCodeCamp](https://medium.freecodecamp.org/es9-javascripts-state-of-art-in-2018-9a350643f29c) 
 ### July 31, 2018 
