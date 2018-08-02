@@ -60,6 +60,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [The Cost Of JavaScript In 2018 – Addy Osmani – Medium](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4) 
 - [♫ Best Progressive House Mix 2018 Vol. #2 ♫ - YouTube](https://www.youtube.com/watch?v=rhaif92s7QQ) 
 - [What Happens When You Create A Flexbox Flex Container? — Smashing Magazine](https://www.smashingmagazine.com/2018/08/flexbox-display-flex-container/) 
+- [Very Earily Bird Tickets!! WeAreDevelopers World Congress 2019 Tickets, Thu, Jun 6, 2019 at 8:00 AM | Eventbrite](https://www.eventbrite.co.uk/e/wearedevelopers-world-congress-2019-tickets-48641736744) 
 ### August 1, 2018 
 - [ES9: Javascript's new features in 2018 – freeCodeCamp](https://medium.freecodecamp.org/es9-javascripts-state-of-art-in-2018-9a350643f29c) 
 ### July 31, 2018 
