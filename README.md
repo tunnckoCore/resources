@@ -56,6 +56,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### August 3, 2018 
+- [JSConf 2018: Using a modern web to recreate 1980s horribly slow & loud loading screens - Remy Sharp - YouTube](https://www.youtube.com/watch?v=o3MNdxQFUe8) 
 ### August 2, 2018 
 - [The Cost Of JavaScript In 2018 – Addy Osmani – Medium](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4) 
 - [♫ Best Progressive House Mix 2018 Vol. #2 ♫ - YouTube](https://www.youtube.com/watch?v=rhaif92s7QQ) 
