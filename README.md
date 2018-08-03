@@ -61,6 +61,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### August 4, 2018 
 - [Polling vs SSE vs WebSocket— How to choose the right one](https://codeburst.io/polling-vs-sse-vs-websocket-how-to-choose-the-right-one-1859e4e13bd9) 
 - [Polling vs SSE vs WebSocket— How to choose the right one](https://codeburst.io/polling-vs-sse-vs-websocket-how-to-choose-the-right-one-1859e4e13bd9) 
+- [Create gists from Command Line](https://davidwalsh.name/create-gists) 
 ### August 3, 2018 
 - [JSConf 2018: Using a modern web to recreate 1980s horribly slow & loud loading screens - Remy Sharp - YouTube](https://www.youtube.com/watch?v=o3MNdxQFUe8) 
 ### August 2, 2018 
