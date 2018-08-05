@@ -60,7 +60,6 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### August 4, 2018 
 - [Polling vs SSE vs WebSocket— How to choose the right one](https://codeburst.io/polling-vs-sse-vs-websocket-how-to-choose-the-right-one-1859e4e13bd9) 
-- [Polling vs SSE vs WebSocket— How to choose the right one](https://codeburst.io/polling-vs-sse-vs-websocket-how-to-choose-the-right-one-1859e4e13bd9) 
 - [Create gists from Command Line](https://davidwalsh.name/create-gists) 
 - [ReasonML: React as first intended - DEV Community 👩‍💻👨‍💻](https://dev.to/imaginary_cloud/reasonml-react-as-first-intended-1co1) 
 ### August 3, 2018 
