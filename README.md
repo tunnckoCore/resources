@@ -58,6 +58,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### August 5, 2018 
+- [Interview with Andreas Antonopoulos - YouTube](https://www.youtube.com/watch?v=Vwsx4GpbmIQ) 
 ### August 4, 2018 
 - [Polling vs SSE vs WebSocket— How to choose the right one](https://codeburst.io/polling-vs-sse-vs-websocket-how-to-choose-the-right-one-1859e4e13bd9) 
 - [Create gists from Command Line](https://davidwalsh.name/create-gists) 
