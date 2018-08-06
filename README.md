@@ -60,6 +60,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### August 7, 2018 
+- [Code Asteroids in JavaScript (1979 Atari game) - freeCodeCamp - YouTube](https://www.youtube.com/watch?v=H9CSWMxJx84) 
 ### August 6, 2018 
 - [Anthony Galie Hypnotist: Question and Answers in High School - YouTube](https://www.youtube.com/watch?v=WDoW5jkPHRk) 
 - [What is the benefit of prefer-default-export? · Issue #1365 · airbnb/javascript](https://github.com/airbnb/javascript/issues/1365#issuecomment-410555150) 
