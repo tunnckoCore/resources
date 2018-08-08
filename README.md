@@ -65,6 +65,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### August 8, 2018 
 - [Mac OS X Is Not a Linux Distribution, But ...](https://www.lifewire.com/mac-os-x-is-not-linux-distribution-2204744) 
 - [Modularity in Fedora 28 Server Edition - Fedora Magazine](https://fedoramagazine.org/modularity-fedora-28-server-edition/) 
+- [Minimal instructions for installing a fully encrypted ArchLinux with USB boot on Lenovo Yoga 920.](https://gist.github.com/gmpreussner/2965fd1b388113a0b33b32a4641a2221) 
 ### August 7, 2018 
 - [Code Asteroids in JavaScript (1979 Atari game) - freeCodeCamp - YouTube](https://www.youtube.com/watch?v=H9CSWMxJx84) 
 - [JavaScript: Understanding the Weird Parts - The First 3.5 Hours - YouTube](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts) 
