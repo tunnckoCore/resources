@@ -66,6 +66,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### August 9, 2018 
 - [GatsbyJS - make blazingly fast static websites with React - YouTube](https://www.youtube.com/watch?v=4InJKj1g_-c&feature=youtu.be) 
 - [How to Show SMS Notifications in the Browser with Angular, Node.JS, and Ably - Nexmo](https://www.nexmo.com/blog/2018/08/07/sms-notifications-browser-with-angular-node-ably-dr/) 
+- [A medium sized read about large sized loneliness - DEV Community 👩‍💻👨‍💻](https://dev.to/thomaslawton91/a-medium-sized-read-about-large-sized-loneliness-58me) 
 ### August 8, 2018 
 - [Mac OS X Is Not a Linux Distribution, But ...](https://www.lifewire.com/mac-os-x-is-not-linux-distribution-2204744) 
 - [Modularity in Fedora 28 Server Edition - Fedora Magazine](https://fedoramagazine.org/modularity-fedora-28-server-edition/) 
