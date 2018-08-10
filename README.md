@@ -63,6 +63,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### August 10, 2018 
+- [Introducing Electron Fiddle – Felix Rieseberg – Medium](https://medium.com/@felixrieseberg/introducing-electron-fiddle-1de2be1ba6e7) 
 ### August 9, 2018 
 - [GatsbyJS - make blazingly fast static websites with React - YouTube](https://www.youtube.com/watch?v=4InJKj1g_-c&feature=youtu.be) 
 - [How to Show SMS Notifications in the Browser with Angular, Node.JS, and Ably - Nexmo](https://www.nexmo.com/blog/2018/08/07/sms-notifications-browser-with-angular-node-ably-dr/) 
