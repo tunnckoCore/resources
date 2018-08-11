@@ -64,6 +64,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### August 11, 2018 
+- [Understanding `delete` in JavaScript — Perfection Kills](http://perfectionkills.com/understanding-delete/) 
 ### August 10, 2018 
 - [Introducing Electron Fiddle – Felix Rieseberg – Medium](https://medium.com/@felixrieseberg/introducing-electron-fiddle-1de2be1ba6e7) 
 - [Welcome, readable-stream@3! | nearForm](https://www.nearform.com/blog/welcome-readable-stream-3/) 
