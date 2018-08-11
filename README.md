@@ -65,6 +65,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### August 12, 2018 
+- [The complete list of portable laptops with a Thunderbolt 3 port](https://www.ultrabookreview.com/10579-laptops-thunderbolt-3/) 
 ### August 11, 2018 
 - [Understanding `delete` in JavaScript — Perfection Kills](http://perfectionkills.com/understanding-delete/) 
 ### August 10, 2018 
