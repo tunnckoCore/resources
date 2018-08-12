@@ -69,6 +69,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### August 12, 2018 
 - [The complete list of portable laptops with a Thunderbolt 3 port](https://www.ultrabookreview.com/10579-laptops-thunderbolt-3/) 
 - [Pentium? Core i5? Core i7? Making sense of Intel’s convoluted CPU lineup | Ars Technica](https://arstechnica.com/gadgets/2016/02/pentium-core-i5-core-i7-making-sense-of-intels-convoluted-cpu-lineup/) 
+- [Understanding M.2, the interface that will speed up your next SSD | Ars Technica](https://arstechnica.com/gadgets/2015/02/understanding-m-2-the-interface-that-will-speed-up-your-next-ssd/) 
 ### August 11, 2018 
 - [Understanding `delete` in JavaScript — Perfection Kills](http://perfectionkills.com/understanding-delete/) 
 ### August 10, 2018 
