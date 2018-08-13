@@ -66,6 +66,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### August 13, 2018 
+- [7 Hats to Boost Your Street Style - The GentleManual | A Handbook for Gentlemen & Scoundrels](https://www.ties.com/blog/7-hats-to-boost-your-street-style) 
 ### August 12, 2018 
 - [The complete list of portable laptops with a Thunderbolt 3 port](https://www.ultrabookreview.com/10579-laptops-thunderbolt-3/) 
 - [Pentium? Core i5? Core i7? Making sense of Intel’s convoluted CPU lineup | Ars Technica](https://arstechnica.com/gadgets/2016/02/pentium-core-i5-core-i7-making-sense-of-intels-convoluted-cpu-lineup/) 
