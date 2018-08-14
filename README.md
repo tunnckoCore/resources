@@ -71,6 +71,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### August 14, 2018 
 - [Introducing Cloudflare Stream: Fixing the Streaming Video Market](https://blog.cloudflare.com/introducing-cloudflare-stream/) 
 - [How 4 Top Startups are Reinventing Organizational Structure | Process Street](https://www.process.st/organizational-structure/) 
+- [i0natan/nodebestpractices: The largest Node.JS best practices list (August 2018)](https://github.com/i0natan/nodebestpractices#1-project-structure-practices) 
 ### August 13, 2018 
 - [7 Hats to Boost Your Street Style - The GentleManual | A Handbook for Gentlemen & Scoundrels](https://www.ties.com/blog/7-hats-to-boost-your-street-style) 
 ### August 12, 2018 
