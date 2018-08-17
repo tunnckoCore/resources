@@ -71,6 +71,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### August 17, 2018 
 - [Fairytale about performance in web application – ITNEXT](https://itnext.io/fairytale-about-performance-in-web-application-ed2bf12627fc) 
+- [What I wish I had known before starting to use Flow](https://davidgom.es/what-i-wish-i-had-known-before-starting-to-use-flow/) 
 ### August 14, 2018 
 - [Introducing Cloudflare Stream: Fixing the Streaming Video Market](https://blog.cloudflare.com/introducing-cloudflare-stream/) 
 - [How 4 Top Startups are Reinventing Organizational Structure | Process Street](https://www.process.st/organizational-structure/) 
