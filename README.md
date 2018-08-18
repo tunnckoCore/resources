@@ -69,6 +69,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### August 18, 2018 
+- [This must be why washing machines have a window. - GIF on Imgur](https://imgur.com/gallery/R7IwCGH) 
 ### August 17, 2018 
 - [Fairytale about performance in web application – ITNEXT](https://itnext.io/fairytale-about-performance-in-web-application-ed2bf12627fc) 
 - [What I wish I had known before starting to use Flow](https://davidgom.es/what-i-wish-i-had-known-before-starting-to-use-flow/) 
