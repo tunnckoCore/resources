@@ -74,6 +74,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### August 19, 2018 
 - [How to open a US eCommerce business using Shopify as a non-US resident - Smart Nomad Life](https://www.smartnomadlife.de/2016/09/how-to-open-us-ecommerce-business-using.html) 
 - [(19) #1 Shopify payment & Stripe legally for non supported countries and non US-resident - YouTube](https://www.youtube.com/watch?v=pnvwyVZ7BZs) 
+- [Why Starting an Etsy Shop is a Bad Idea (And What to Do Instead)](http://unsettle.org/starting-an-etsy-shop/) 
 ### August 18, 2018 
 - [This must be why washing machines have a window. - GIF on Imgur](https://imgur.com/gallery/R7IwCGH) 
 - [GraphQL College | Learn GraphQL by querying a schema based on JSON data](https://www.graphql.college/practice-graphql/) 
