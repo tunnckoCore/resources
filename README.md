@@ -71,6 +71,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### August 20, 2018 
+- [The Story of the Continent MU Online ](http://muonlinefanz.com/guide/general/story/) 
 ### August 19, 2018 
 - [How to open a US eCommerce business using Shopify as a non-US resident - Smart Nomad Life](https://www.smartnomadlife.de/2016/09/how-to-open-us-ecommerce-business-using.html) 
 - [(19) #1 Shopify payment & Stripe legally for non supported countries and non US-resident - YouTube](https://www.youtube.com/watch?v=pnvwyVZ7BZs) 
