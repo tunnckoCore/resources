@@ -72,6 +72,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### August 21, 2018 
+- [KAZKA — ПЛАКАЛА (PLAKALA) [OFFICIAL AUDIO] - YouTube](https://www.youtube.com/watch?v=kiBF0KtqHLk&feature=share) 
 ### August 20, 2018 
 - [The Story of the Continent MU Online ](http://muonlinefanz.com/guide/general/story/) 
 - [230 open source developers donate to fight human trafficking](https://hackernoon.com/230-open-source-developers-donate-to-fight-human-trafficking-46408cf09734) 
