@@ -73,6 +73,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### August 22, 2018 
+- [7 Best Instagram Marketing Tools For 2018: Scheduling, Automation, And More | Blogging Wizard](https://bloggingwizard.com/instagram-tools/) 
 ### August 21, 2018 
 - [KAZKA — ПЛАКАЛА (PLAKALA) [OFFICIAL AUDIO] - YouTube](https://www.youtube.com/watch?v=kiBF0KtqHLk&feature=share) 
 ### August 20, 2018 
