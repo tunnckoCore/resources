@@ -75,6 +75,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### August 25, 2018 
+- [Hate Writing Articles? – Write These Instead…](http://amvsmlm.com/forget-writing-articles) 
 ### August 24, 2018 
 - [The 67+ Best Affiliate Programs of 2018 (Highest Paying)](https://www.forexreferral.com/best-affiliate-programs) 
 - [17 Little-Known Affiliate Programs That Pay up to $8000 Per Sale (2018)](http://benguonline.com/high-paying-affiliate-programs) 
