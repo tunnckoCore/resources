@@ -74,6 +74,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### August 24, 2018 
+- [The 67+ Best Affiliate Programs of 2018 (Highest Paying)](https://www.forexreferral.com/best-affiliate-programs) 
 ### August 22, 2018 
 - [7 Best Instagram Marketing Tools For 2018: Scheduling, Automation, And More | Blogging Wizard](https://bloggingwizard.com/instagram-tools/) 
 ### August 21, 2018 
