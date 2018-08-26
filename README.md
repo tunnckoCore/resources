@@ -79,6 +79,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### August 26, 2018 
 - [How To Minify CSS, JS, and HTML? – codeburst](https://codeburst.io/how-to-minify-css-js-and-html-ddd9dbea25c6) 
+- [Pragmatic types: dynamically-, statically-, gradually-, weakly-, strongly- and un-typed languages - DEV Community 👩‍💻👨‍💻](https://dev.to/stereobooster/pragmatic-types-dynamically--statically--gradually--weakly--strongly--and-un-typed-languages-5gf4) 
 ### August 25, 2018 
 - [Hate Writing Articles? – Write These Instead…](http://amvsmlm.com/forget-writing-articles) 
 ### August 24, 2018 
