@@ -76,6 +76,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### August 26, 2018 
+- [How To Minify CSS, JS, and HTML? – codeburst](https://codeburst.io/how-to-minify-css-js-and-html-ddd9dbea25c6) 
 ### August 25, 2018 
 - [Hate Writing Articles? – Write These Instead…](http://amvsmlm.com/forget-writing-articles) 
 ### August 24, 2018 
