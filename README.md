@@ -77,6 +77,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### August 28, 2018 
+- [Babel 7 Released · Babel](https://babeljs.io/blog/2018/08/27/7.0.0) 
 ### August 26, 2018 
 - [How To Minify CSS, JS, and HTML? – codeburst](https://codeburst.io/how-to-minify-css-js-and-html-ddd9dbea25c6) 
 - [Pragmatic types: dynamically-, statically-, gradually-, weakly-, strongly- and un-typed languages - DEV Community 👩‍💻👨‍💻](https://dev.to/stereobooster/pragmatic-types-dynamically--statically--gradually--weakly--strongly--and-un-typed-languages-5gf4) 
