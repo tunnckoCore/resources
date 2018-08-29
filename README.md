@@ -78,6 +78,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### August 29, 2018 
+- [Single objects • JavaScript for impatient programmers (beta)](http://exploringjs.com/impatient-js/ch_single-objects.html) 
 ### August 28, 2018 
 - [Babel 7 Released · Babel](https://babeljs.io/blog/2018/08/27/7.0.0) 
 - [TypeScript and Babel 7 | TypeScript](https://blogs.msdn.microsoft.com/typescript/2018/08/27/typescript-and-babel-7/) 
