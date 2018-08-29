@@ -79,6 +79,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### August 30, 2018 
+- [Moving to a Monorepo - Sam Hogarth](http://samhogy.co.uk/2018/04/moving-to-a-monorepo.html) 
 ### August 29, 2018 
 - [Single objects • JavaScript for impatient programmers (beta)](http://exploringjs.com/impatient-js/ch_single-objects.html) 
 ### August 28, 2018 
