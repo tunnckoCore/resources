@@ -85,6 +85,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Why Google Stores Billions of Lines of Code in a Single Repository | July 2016 | Communications of the ACM](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext) 
 - [You too can love the MonoRepo – Alex Eagle – Medium](https://medium.com/@Jakeherringbone/you-too-can-love-the-monorepo-d95d1d6fcebe) 
 - [Pitfalls of a Monorepo - MrJoy](http://mrjoy.com/2017/10/31/pitfalls-of-a-monorepo/) 
+- [EU wants to require platforms to filter uploaded content (including code) | The GitHub Blog](https://blog.github.com/2018-03-14-eu-proposal-upload-filters-code/) 
 ### August 29, 2018 
 - [Single objects • JavaScript for impatient programmers (beta)](http://exploringjs.com/impatient-js/ch_single-objects.html) 
 ### August 28, 2018 
