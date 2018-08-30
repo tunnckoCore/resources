@@ -83,6 +83,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### August 31, 2018 
 - [Q&A with Linus Torvalds - YouTube](https://www.youtube.com/watch?v=7SofmXIYvGM) 
+- [open source - How to avoid being forked into oblivion by a more powerful contributor? - Software Engineering Stack Exchange](https://softwareengineering.stackexchange.com/questions/253925/how-to-avoid-being-forked-into-oblivion-by-a-more-powerful-contributor) 
 ### August 30, 2018 
 - [Moving to a Monorepo - Sam Hogarth](http://samhogy.co.uk/2018/04/moving-to-a-monorepo.html) 
 - [Why Google Stores Billions of Lines of Code in a Single Repository | July 2016 | Communications of the ACM](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext) 
