@@ -87,6 +87,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Pitfalls of a Monorepo - MrJoy](http://mrjoy.com/2017/10/31/pitfalls-of-a-monorepo/) 
 - [EU wants to require platforms to filter uploaded content (including code) | The GitHub Blog](https://blog.github.com/2018-03-14-eu-proposal-upload-filters-code/) 
 - [GitHub: Changes to EU copyright law could derail open source distribution | ZDNet](https://www.zdnet.com/article/github-changes-to-eu-copyright-law-could-derail-open-source-distribution/) 
+- [Top-level await is a footgun footprintsgun - Rich Harris Gist](https://gist.github.com/Rich-Harris/0b6f317657f5167663b493c722647221) 
 ### August 29, 2018 
 - [Single objects • JavaScript for impatient programmers (beta)](http://exploringjs.com/impatient-js/ch_single-objects.html) 
 ### August 28, 2018 
