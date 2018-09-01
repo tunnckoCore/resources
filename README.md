@@ -81,6 +81,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### September 1, 2018 
+- [Upload filters are illegal, definitely!! – Copybuzz](http://copybuzz.com/copyright/upload-filters-heads-theyre-illegal-tails-theyre-illegal/) 
 ### August 31, 2018 
 - [Q&A with Linus Torvalds - YouTube](https://www.youtube.com/watch?v=7SofmXIYvGM) 
 - [open source - How to avoid being forked into oblivion by a more powerful contributor? - Software Engineering Stack Exchange](https://softwareengineering.stackexchange.com/questions/253925/how-to-avoid-being-forked-into-oblivion-by-a-more-powerful-contributor) 
