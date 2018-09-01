@@ -82,6 +82,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### September 2, 2018 
+- [More than 300 million people today use Bulgarian/Cyrillic alphabet: Russian and аnother 11 countries](http://visitmybulgaria.com/cyrillic-alphabet/) 
 ### September 1, 2018 
 - [Upload filters are illegal, definitely!! – Copybuzz](http://copybuzz.com/copyright/upload-filters-heads-theyre-illegal-tails-theyre-illegal/) 
 ### August 31, 2018 
