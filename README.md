@@ -83,6 +83,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### September 4, 2018 
+- [How I built a CI server Using Docker – codeburst](https://codeburst.io/sicuro-ci-2f40ba138233) 
 ### September 2, 2018 
 - [More than 300 million people today use Bulgarian/Cyrillic alphabet: Russian and аnother 11 countries](http://visitmybulgaria.com/cyrillic-alphabet/) 
 - [Julia Reda – Censorship machines (Article 13)](https://juliareda.eu/eu-copyright-reform/censorship-machines/) 
