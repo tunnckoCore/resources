@@ -85,6 +85,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### September 6, 2018 
+- [Reduce JavaScript Payloads with Code Splitting  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/code-splitting/) 
 ### September 5, 2018 
 - [The Age of “Node.js and…” - NodeSource](https://nodesource.com/blog/the-age-of-node-js-and/) 
 ### September 4, 2018 
