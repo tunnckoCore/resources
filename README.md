@@ -86,6 +86,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### September 7, 2018 
+- [Google AMP Can Go To Hell | Polemic Digital](https://www.polemicdigital.com/google-amp-go-to-hell/) 
 ### September 6, 2018 
 - [Reduce JavaScript Payloads with Code Splitting  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/code-splitting/) 
 ### September 5, 2018 
