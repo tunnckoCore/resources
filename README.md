@@ -91,6 +91,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### September 8, 2018 
 - [What Do Your Fingers Say About You? - Real Simple](https://www.realsimple.com/work-life/life-strategies/finger-reading) 
 - [Fingers Length Meanings and Personality - Finger Palm Reading](https://www.yourchineseastrology.com/palmistry/finger/) 
+- [The World’s First Digital Nomad Visa Will Be Available in 2019](https://medium.com/nomad-cities/the-worlds-first-digital-nomad-visa-will-be-available-in-2019-2b674c9bd847) 
 ### September 7, 2018 
 - [Google AMP Can Go To Hell | Polemic Digital](https://www.polemicdigital.com/google-amp-go-to-hell/) 
 ### September 6, 2018 
