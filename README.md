@@ -89,6 +89,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### September 10, 2018 
+- [Methods for Contrasting Text Against Backgrounds | CSS-Tricks](https://css-tricks.com/methods-contrasting-text-backgrounds/) 
 ### September 9, 2018 
 - [The definitive Node.js handbook – freeCodeCamp.org](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e) 
 - [Methods for Evaluating Freshness - Briggsby](https://www.briggsby.com/methods-for-evaluating-freshness) 
