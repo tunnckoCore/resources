@@ -90,6 +90,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### September 11, 2018 
+- [Page Scroll Effects | CodyHouse](https://codyhouse.co/gem/page-scroll-effects) 
 ### September 10, 2018 
 - [Methods for Contrasting Text Against Backgrounds | CSS-Tricks](https://css-tricks.com/methods-contrasting-text-backgrounds/) 
 - [Social Media Contest Rules: Free Template and Beginner's Guide](https://blog.wishpond.com/post/115675437435/social-media-contest-rules) 
