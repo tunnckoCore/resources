@@ -91,6 +91,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### September 13, 2018 
+- [JSON Feed: a format similar to RSS and Atom but in JSON. It reflects the lessons learned from our years of work reading and publishing feeds.](https://jsonfeed.org/) 
 ### September 11, 2018 
 - [Page Scroll Effects | CodyHouse](https://codyhouse.co/gem/page-scroll-effects) 
 - [Creative Instagram feeds, fall in love with the 'checkerboard' - Plann](https://www.plannthat.com/creative-checkerboard-instagram-profiles/) 
