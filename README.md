@@ -95,6 +95,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### September 13, 2018 
 - [JSON Feed: a format similar to RSS and Atom but in JSON. It reflects the lessons learned from our years of work reading and publishing feeds.](https://jsonfeed.org/) 
 - [Today, Sept 12 2018, Europe Lost The Internet. Now, We Fight Back. | Electronic Frontier Foundation](https://www.eff.org/deeplinks/2018/09/today-europe-lost-internet-now-we-fight-back) 
+- [EU Copyright Directive vote: Articles 11 and 13 approved - The Verge](https://www.theverge.com/2018/9/12/17849868/eu-internet-copyright-reform-article-11-13-approved) 
 ### September 11, 2018 
 - [Page Scroll Effects | CodyHouse](https://codyhouse.co/gem/page-scroll-effects) 
 - [Creative Instagram feeds, fall in love with the 'checkerboard' - Plann](https://www.plannthat.com/creative-checkerboard-instagram-profiles/) 
