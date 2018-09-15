@@ -92,6 +92,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### September 16, 2018 
+- [Most Famous Travel Bloggers on the Web](https://blog.travelpayouts.com/en/famous-travel-bloggers/) 
 ### September 13, 2018 
 - [JSON Feed: a format similar to RSS and Atom but in JSON. It reflects the lessons learned from our years of work reading and publishing feeds.](https://jsonfeed.org/) 
 - [Today, Sept 12 2018, Europe Lost The Internet. Now, We Fight Back. | Electronic Frontier Foundation](https://www.eff.org/deeplinks/2018/09/today-europe-lost-internet-now-we-fight-back) 
