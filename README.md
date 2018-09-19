@@ -93,6 +93,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### September 20, 2018 
+- [Richard Stallman: The JavaScript Trap - GNU.org](https://www.gnu.org/philosophy/javascript-trap.en.html) 
 ### September 16, 2018 
 - [Most Famous Travel Bloggers on the Web](https://blog.travelpayouts.com/en/famous-travel-bloggers/) 
 - [9 Best Free Video Editing Software for Linux In 2018 | It's FOSS](https://itsfoss.com/best-video-editing-software-linux/) 
