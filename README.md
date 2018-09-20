@@ -96,6 +96,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### September 20, 2018 
 - [Richard Stallman: The JavaScript Trap - GNU.org](https://www.gnu.org/philosophy/javascript-trap.en.html) 
+- [How to Merge 15 Repositories to 1 Monorepo, Keep their Git History and add Project-Base as Well?](https://blog.shopsys.com/how-to-merge-15-repositories-to-1-monorepo-keep-their-git-history-and-add-project-base-as-well-6e124f3a0ab3) 
 ### September 16, 2018 
 - [Most Famous Travel Bloggers on the Web](https://blog.travelpayouts.com/en/famous-travel-bloggers/) 
 - [9 Best Free Video Editing Software for Linux In 2018 | It's FOSS](https://itsfoss.com/best-video-editing-software-linux/) 
