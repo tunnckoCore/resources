@@ -95,6 +95,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### September 22, 2018 
+- [Idle Until Urgent — Philip Walton](https://philipwalton.com/articles/idle-until-urgent/) 
 ### September 21, 2018 
 - [Sublicensing rights: Negotiating the terminology of technology licensing - Boston Business Journal](https://www.bizjournals.com/boston/blog/mass-high-tech/2003/02/sublicensing-rights-negotiating.html) 
 ### September 20, 2018 
