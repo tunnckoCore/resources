@@ -96,6 +96,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### September 23, 2018 
+- [The Backwards Commercial License – hueniverse](https://hueniverse.com/the-backwards-commercial-license-647290f7e38b) 
 ### September 22, 2018 
 - [Idle Until Urgent — Philip Walton](https://philipwalton.com/articles/idle-until-urgent/) 
 - [CircleCI 2.0 work with monorepos - CircleCI 2.0 / 2.0 Support - CircleCI Community Discussion](https://discuss.circleci.com/t/does-circleci-2-0-work-with-monorepos/10378/9) 
