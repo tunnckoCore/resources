@@ -97,6 +97,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### September 24, 2018 
+- [The Pitfalls (and Triumph) of the Open Source World](http://infinitelygalactic.blogspot.com/2017/12/the-pitfalls-and-triumph-of-open-source.html) 
 ### September 23, 2018 
 - [The Backwards Commercial License – hueniverse](https://hueniverse.com/the-backwards-commercial-license-647290f7e38b) 
 ### September 22, 2018 
