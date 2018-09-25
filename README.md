@@ -98,6 +98,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### September 25, 2018 
+- [GraphQL: The hero we deserve (Part 1) – Shobhit Chittora – Medium](https://medium.com/@chittorashobhit/graphql-the-hero-we-deserve-part-1-3a907e1706a4) 
 ### September 24, 2018 
 - [The Pitfalls (and Triumph) of the Open Source World](http://infinitelygalactic.blogspot.com/2017/12/the-pitfalls-and-triumph-of-open-source.html) 
 ### September 23, 2018 
