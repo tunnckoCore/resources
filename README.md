@@ -102,6 +102,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### September 27, 2018 
 - [2pac - 80ATE – T Lyrics | Genius Lyrics](https://genius.com/80ate-t-lyrics) 
+- [If we, humans, didn't have any perception of time, would we all be geniuses? - Quora](https://www.quora.com/If-we-humans-didnt-have-any-perception-of-time-would-we-all-be-geniuses) 
 ### September 25, 2018 
 - [GraphQL: The hero we deserve (Part 1) – Shobhit Chittora – Medium](https://medium.com/@chittorashobhit/graphql-the-hero-we-deserve-part-1-3a907e1706a4) 
 ### September 24, 2018 
