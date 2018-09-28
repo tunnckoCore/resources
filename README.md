@@ -11,6 +11,9 @@ I'll will add them to the list once i finish them.
 
 _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing support and :hearts: or hit :eyes: _(watch)_ for staying tuned. Thanks!
 
+
+### September 28, 2018 
+- [The end of Instagram as we know it is here - The Verge](https://www.theverge.com/2018/9/25/17903556/instagram-founders-quit-kevin-systrom-mike-krieger-facebook) 
 ### September 27, 2018 
 - [2pac - 80ATE – T Lyrics | Genius Lyrics](https://genius.com/80ate-t-lyrics) 
 - [#HackTheTime: If we, humans, didn't have any perception of time, would we all be geniuses? - Quora](https://www.quora.com/If-we-humans-didnt-have-any-perception-of-time-would-we-all-be-geniuses) 
