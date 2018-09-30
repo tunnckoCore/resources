@@ -12,6 +12,9 @@ I'll will add them to the list once i finish them.
 _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing support and :hearts: or hit :eyes: _(watch)_ for staying tuned. Thanks!
 
 
+
+### September 30, 2018 
+- [18 of the Best Code of Conduct Examples | i-Sight](https://i-sight.com/resources/18-of-the-best-code-of-conduct-examples/) 
 ### September 28, 2018 
 - [The end of Instagram as we know it is here - The Verge](https://www.theverge.com/2018/9/25/17903556/instagram-founders-quit-kevin-systrom-mike-krieger-facebook) 
 ### September 27, 2018 
