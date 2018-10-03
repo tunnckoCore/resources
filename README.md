@@ -14,6 +14,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### October 3, 2018 
+- [Learn Merkle Trees by programming your own! – Building Blocks – Medium](https://medium.com/building-blocks-on-the-chain/learn-merkle-trees-by-programming-your-own-4f0438d40063) 
 ### October 2, 2018 
 - [M.2 SATA SSD vs M.2 PCI Express (PCIe) SSD vs NVMe - Dignited](https://www.dignited.com/27577/m-2-sata-ssd-vs-m-2-pci-express-pcie-ssd-vs-nvme/) 
 ### September 30, 2018 
