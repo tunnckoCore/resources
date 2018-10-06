@@ -19,6 +19,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### October 6, 2018 
 - [How to use ssh-keygen to generate a new SSH key | SSH.COM](https://www.ssh.com/ssh/keygen/) 
+- [DNG Presents Online Job of the Month: Social Media Manager - Digital Nomad Girls](https://digitalnomadgirls.com/online-job-social-media-manager/) 
 ### October 5, 2018 
 - [Best Thin Bezel Monitors - 9 Of The Best For 2018 - MonitorFanatic.com](https://www.monitorfanatic.com/best-thin-bezel-monitors/) 
 ### October 3, 2018 
