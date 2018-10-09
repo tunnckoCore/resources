@@ -17,6 +17,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### October 9, 2018 
+- [The Code of Thug Life](https://www.urbandictionary.com/define.php?term=Thug%20Life) 
 ### October 6, 2018 
 - [How to use ssh-keygen to generate a new SSH key | SSH.COM](https://www.ssh.com/ssh/keygen/) 
 - [DNG Presents Online Job of the Month: Social Media Manager - Digital Nomad Girls](https://digitalnomadgirls.com/online-job-social-media-manager/) 
