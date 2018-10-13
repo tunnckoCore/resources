@@ -18,6 +18,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### October 13, 2018 
+- [Chromium Blog: The ‘Capable Web’: A 10 Year Retrospective](https://blog.chromium.org/2018/09/the-capable-web-10-year-retrospective.html) 
 ### October 9, 2018 
 - [The Code of Thug Life](https://www.urbandictionary.com/define.php?term=Thug%20Life) 
 - [Writing Lighter, Faster JavaScript Functions – ITNEXT](https://itnext.io/writing-lighter-faster-functions-c631739af349) 
