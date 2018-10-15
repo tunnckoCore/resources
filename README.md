@@ -19,6 +19,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### October 15, 2018 
+- [leonardomso/33-js-concepts: 📜 33 concepts every JavaScript developer should know.](https://github.com/leonardomso/33-js-concepts) 
 ### October 13, 2018 
 - [Chromium Blog: The ‘Capable Web’: A 10 Year Retrospective](https://blog.chromium.org/2018/09/the-capable-web-10-year-retrospective.html) 
 ### October 9, 2018 
