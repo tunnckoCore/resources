@@ -21,6 +21,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### October 17, 2018 
+- [Gentoo vs FreeBSD | Lands of Unix](https://linuxmender.wordpress.com/2016/12/05/gentoo-vs-freebsd/) 
 ### October 16, 2018 
 - [Why the Singularity is certain to happen in my own lifetime, and how it matters (Futurist/Humanist Gerd Leonhard) – Futurist Gerd Leonhard](https://www.futuristgerd.com/2017/08/11/why-the-singularity-is-certain-to-happen-in-my-own-lifetime-and-why-it-matters-futuristhumanist-gerd-leonhard/) 
 - [Carmageddon is Coming – Future Crunch – Medium](https://medium.com/future-crunch/carmageddon-is-coming-899c0f05a2a) 
