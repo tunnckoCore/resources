@@ -24,6 +24,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### October 16, 2018 
 - [Why the Singularity is certain to happen in my own lifetime, and how it matters (Futurist/Humanist Gerd Leonhard) – Futurist Gerd Leonhard](https://www.futuristgerd.com/2017/08/11/why-the-singularity-is-certain-to-happen-in-my-own-lifetime-and-why-it-matters-futuristhumanist-gerd-leonhard/) 
 - [Carmageddon is Coming – Future Crunch – Medium](https://medium.com/future-crunch/carmageddon-is-coming-899c0f05a2a) 
+- [Quantum Computing Might Be Here Sooner Than You Think - Bloomberg](https://www.bloomberg.com/news/features/2017-06-14/the-machine-of-tomorrow-today-quantum-computing-on-the-verge) 
 ### October 15, 2018 
 - [leonardomso/33-js-concepts: 📜 33 concepts every JavaScript developer should know.](https://github.com/leonardomso/33-js-concepts) 
 ### October 13, 2018 
