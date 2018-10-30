@@ -22,6 +22,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### October 30, 2018 
+- [Tejas, formerly @ #ConFrontJS: WHAT A TALK BY A 9 YEAR OLD JS DEVELOPER WООOW](https://twitter.com/TejasKumar_/status/1056852619455553541) 
 ### October 17, 2018 
 - [Gentoo vs FreeBSD | Lands of Unix](https://linuxmender.wordpress.com/2016/12/05/gentoo-vs-freebsd/) 
 - [3 Steps to Read Faster – Truth on Speed Reading - YouTube](https://www.youtube.com/watch?v=P3DfiZVSv4Q) 
