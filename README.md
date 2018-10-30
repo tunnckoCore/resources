@@ -27,6 +27,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Tejas, formerly @ #ConFrontJS: WHAT A TALK BY A 9 YEAR OLD JS DEVELOPER WООOW](https://twitter.com/TejasKumar_/status/1056852619455553541) 
 - [Why Natural Language Processing (NLP) is a core AI Technology – Witan World](https://witanworld.com/naturallanguageprocessing-nlp/) 
 - [The Rise of Functional Components - React v16.7.0 (now with Hooks!)](https://blog.weareredlight.com/the-rise-of-functional-components-react-v16-7-0-now-with-hooks-90cac72b8ab7) 
+- [Шоуто на Слави, 29 октомври 2018 г. | Шоуто на Слави](https://www.slavishow.com/%d1%88%d0%be%d1%83%d1%82%d0%be-%d0%bd%d0%b0-%d1%81%d0%bb%d0%b0%d0%b2%d0%b8-29-%d0%be%d0%ba%d1%82%d0%be%d0%bc%d0%b2%d1%80%d0%b8-2018-%d0%b3/) 
 ### October 17, 2018 
 - [Gentoo vs FreeBSD | Lands of Unix](https://linuxmender.wordpress.com/2016/12/05/gentoo-vs-freebsd/) 
 - [3 Steps to Read Faster – Truth on Speed Reading - YouTube](https://www.youtube.com/watch?v=P3DfiZVSv4Q) 
