@@ -23,6 +23,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### November 7, 2018 
+- [Let’s build a GitHub (Pro)bot – Ahmed T. Ali – Medium](https://medium.com/ahmed-t-ali/lets-build-a-github-pro-bot-5e155cec395f) 
 ### October 30, 2018 
 - [Tejas, formerly @ #ConFrontJS: WHAT A TALK BY A 9 YEAR OLD JS DEVELOPER WООOW](https://twitter.com/TejasKumar_/status/1056852619455553541) 
 - [Why Natural Language Processing (NLP) is a core AI Technology – Witan World](https://witanworld.com/naturallanguageprocessing-nlp/) 
