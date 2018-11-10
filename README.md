@@ -24,6 +24,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### November 10, 2018 
+- [November 11th 2018 Will Be The Most Powerful Day In Over A Century - Conscious Reminder](https://www.consciousreminder.com/2018/11/08/november-11th-2018-will-be-the-most-powerful-day-in-over-a-century/?fbclid=IwAR0wqH8AfsdC-9XKThrZdqrpYoMMiQIa-hnEsPJbqWARsdALmZOI8-nqiWQ) 
 ### November 7, 2018 
 - [Let’s build a GitHub (Pro)bot – Ahmed T. Ali – Medium](https://medium.com/ahmed-t-ali/lets-build-a-github-pro-bot-5e155cec395f) 
 ### October 30, 2018 
