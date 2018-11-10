@@ -25,6 +25,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### November 11, 2018 
+- [Why Disney’s purchase of 21st Century Fox should scare you - Vox](https://www.vox.com/culture/2017/12/14/16764472/disney-fox-deal-merger) 
 ### November 10, 2018 
 - [November 11th 2018 Will Be The Most Powerful Day In Over A Century - Conscious Reminder](https://www.consciousreminder.com/2018/11/08/november-11th-2018-will-be-the-most-powerful-day-in-over-a-century/?fbclid=IwAR0wqH8AfsdC-9XKThrZdqrpYoMMiQIa-hnEsPJbqWARsdALmZOI8-nqiWQ) 
 ### November 7, 2018 
