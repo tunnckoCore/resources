@@ -26,6 +26,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### November 12, 2018 
+- [HTTP-over-QUIC will officially become HTTP/3 | Hacker News](https://news.ycombinator.com/item?id=18427795) 
 ### November 11, 2018 
 - [Why Disney’s purchase of 21st Century Fox should scare you - Vox](https://www.vox.com/culture/2017/12/14/16764472/disney-fox-deal-merger) 
 - [What Disney’s Fox acquisition means for Marvel’s superhero movies - Vox](https://www.vox.com/culture/2017/12/14/16738852/disney-fox-marvel-acquisition-x-men-superhero) 
