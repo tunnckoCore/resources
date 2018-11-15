@@ -32,6 +32,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### November 15, 2018 
 - [Why use Redux in React apps? : javascript](https://www.reddit.com/r/javascript/comments/9wwb5s/why_use_redux_in_react_apps/) 
 - [90% Cleaner React With Hooks - Ryan Florence - React Conf 2018 - YouTube](https://www.youtube.com/watch?v=wXLf18DsV-I) 
+- [Bitcoin's Creator Satoshi Nakamoto Is Probably This Unknown Australian Genius | WIRED](https://www.wired.com/2015/12/bitcoins-creator-satoshi-nakamoto-is-probably-this-unknown-australian-genius/) 
 ### November 13, 2018 
 - [Шоуто на Слави, 12 ноември 2018 г. | Шоуто на Слави](https://www.slavishow.com/%d1%88%d0%be%d1%83%d1%82%d0%be-%d0%bd%d0%b0-%d1%81%d0%bb%d0%b0%d0%b2%d0%b8-12-%d0%bd%d0%be%d0%b5%d0%bc%d0%b2%d1%80%d0%b8-2018-%d0%b3/) 
 ### November 12, 2018 
