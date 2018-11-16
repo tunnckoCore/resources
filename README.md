@@ -29,6 +29,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### November 16, 2018 
+- [Faster async functions and promises · V8](https://v8.dev/blog/fast-async) 
 ### November 15, 2018 
 - [Why use Redux in React apps? : javascript](https://www.reddit.com/r/javascript/comments/9wwb5s/why_use_redux_in_react_apps/) 
 - [90% Cleaner React With Hooks - Ryan Florence - React Conf 2018 - YouTube](https://www.youtube.com/watch?v=wXLf18DsV-I) 
