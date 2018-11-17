@@ -33,6 +33,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### November 17, 2018 
 - [The Internet of Things is Going to Destroy Us All - YouTube](https://www.youtube.com/watch?v=304Lcn0nU3c) 
+- [Хаштаговете ще спасят света. Надяваме се... | Момичетата от града](https://momichetata.com/obshtestvo/khashtagovete-shche-spasyat-sveta-nadyavame-se?facebookShare=1&utm_source=facebook&utm_medium=facebook-share&utm_campaign=momichetata&fbclid=IwAR2uBjYrCe3W5V0xeW6UpUx_st5UQyODjuwA30tDK_-NXaM3QJTmL9PgiFk) 
 ### November 16, 2018 
 - [Faster async functions and promises · V8](https://v8.dev/blog/fast-async) 
 ### November 15, 2018 
