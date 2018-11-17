@@ -30,6 +30,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### November 17, 2018 
+- [The Internet of Things is Going to Destroy Us All - YouTube](https://www.youtube.com/watch?v=304Lcn0nU3c) 
 ### November 16, 2018 
 - [Faster async functions and promises · V8](https://v8.dev/blog/fast-async) 
 ### November 15, 2018 
