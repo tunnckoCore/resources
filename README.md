@@ -35,6 +35,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### November 20, 2018 
 - [The MacBook ARM (Kinda history of Apple / Mac) - YouTube](https://www.youtube.com/watch?v=VObg5BiXx6I) 
+- [Arch Linux VS Gentoo Linux VS FreeBSD – Part 2: Size Matters | IWF1](https://iwf1.com/arch-linux-vs-gentoo-linux-vs-freebsd-part-2-size-matters) 
 ### November 19, 2018 
 - [Futurist Keynote by Gerd Leonhard #ForodelaCultura18: Technology, Humanity: The Future (ENGLISH) - YouTube](https://www.youtube.com/watch?v=2BJFY1wBt-E) 
 ### November 17, 2018 
