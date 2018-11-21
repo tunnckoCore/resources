@@ -33,6 +33,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### November 21, 2018 
+- [Microtasks & Macrotasks — More On The Event Loop – Always Be Coding](https://abc.danch.me/microtasks-macrotasks-more-on-the-event-loop-881557d7af6f) 
 ### November 20, 2018 
 - [The MacBook ARM (Kinda history of Apple / Mac) - YouTube](https://www.youtube.com/watch?v=VObg5BiXx6I) 
 - [Arch Linux VS Gentoo Linux VS FreeBSD – Part 2: Size Matters | IWF1](https://iwf1.com/arch-linux-vs-gentoo-linux-vs-freebsd-part-2-size-matters) 
