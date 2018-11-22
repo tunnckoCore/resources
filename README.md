@@ -34,6 +34,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### November 22, 2018 
+- [Multi-package (monorepo) repositories support · Issue #193 · semantic-release/semantic-release](https://github.com/semantic-release/semantic-release/issues/193) 
 ### November 21, 2018 
 - [Microtasks & Macrotasks — More On The Event Loop – Always Be Coding](https://abc.danch.me/microtasks-macrotasks-more-on-the-event-loop-881557d7af6f) 
 - [Tasks, microtasks, queues and schedules - JakeArchibald.com](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) 
