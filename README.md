@@ -35,6 +35,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### November 23, 2018 
+- [МОДУС ОПЕРАНДИ - YouTube](https://www.youtube.com/watch?v=yzdH_YcmgDM&feature=push-u-sub&attr_tag=FAWNfiIKCIqcefwk%3A6) 
 ### November 22, 2018 
 - [Multi-package (monorepo) repositories support · Issue #193 · semantic-release/semantic-release](https://github.com/semantic-release/semantic-release/issues/193) 
 ### November 21, 2018 
