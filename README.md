@@ -43,6 +43,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [WebAssembly: How and why – LogRocket](https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71) 
 - [I Finally Understand Static vs. Dynamic Typing and You Will Too!](https://hackernoon.com/i-finally-understand-static-vs-dynamic-typing-and-you-will-too-ad0c2bd0acc7) 
 - [Developing Statically Typed Programming Language · Minko Gechev's blog](https://blog.mgechev.com/2017/08/05/typed-lambda-calculus-create-type-checker-transpiler-compiler-javascript/) 
+- [Asenita on Twitter: "So NASA emailed me to inform that my name will be landing on Mars in 2 days."](https://twitter.com/AiaAsenita/status/1066215704733585409) 
 ### November 23, 2018 
 - [МОДУС ОПЕРАНДИ - YouTube](https://www.youtube.com/watch?v=yzdH_YcmgDM&feature=push-u-sub&attr_tag=FAWNfiIKCIqcefwk%3A6) 
 ### November 22, 2018 
