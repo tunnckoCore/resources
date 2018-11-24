@@ -39,6 +39,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### November 24, 2018 
 - [ratio of bugs per line of code](https://www.mayerdan.com/ruby/2012/11/11/bugs-per-line-of-code-ratio) 
+- [I Finally Understand Static vs. Dynamic Typing and You Will Too!](https://hackernoon.com/i-finally-understand-static-vs-dynamic-typing-and-you-will-too-ad0c2bd0acc7) 
 ### November 23, 2018 
 - [МОДУС ОПЕРАНДИ - YouTube](https://www.youtube.com/watch?v=yzdH_YcmgDM&feature=push-u-sub&attr_tag=FAWNfiIKCIqcefwk%3A6) 
 ### November 22, 2018 
