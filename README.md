@@ -37,6 +37,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### November 27, 2018 
+- [dominictarr: Statement on `event-stream` compromise](https://gist.github.com/dominictarr/9fd9c1024c94592bc7268d36b8d83b3a) 
 ### November 24, 2018 
 - [ratio of bugs per line of code](https://www.mayerdan.com/ruby/2012/11/11/bugs-per-line-of-code-ratio) 
 - [I Finally Understand Static vs. Dynamic Typing and You Will Too!](https://hackernoon.com/i-finally-understand-static-vs-dynamic-typing-and-you-will-too-ad0c2bd0acc7) 
