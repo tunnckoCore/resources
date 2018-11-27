@@ -45,7 +45,6 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [ratio of bugs per line of code](https://www.mayerdan.com/ruby/2012/11/11/bugs-per-line-of-code-ratio) 
 - [I Finally Understand Static vs. Dynamic Typing and You Will Too!](https://hackernoon.com/i-finally-understand-static-vs-dynamic-typing-and-you-will-too-ad0c2bd0acc7) 
 - [WebAssembly: How and why – LogRocket](https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71) 
-- [I Finally Understand Static vs. Dynamic Typing and You Will Too!](https://hackernoon.com/i-finally-understand-static-vs-dynamic-typing-and-you-will-too-ad0c2bd0acc7) 
 - [Developing Statically Typed Programming Language · Minko Gechev's blog](https://blog.mgechev.com/2017/08/05/typed-lambda-calculus-create-type-checker-transpiler-compiler-javascript/) 
 - [Asenita on Twitter: "So NASA emailed me to inform that my name will be landing on Mars in 2 days."](https://twitter.com/AiaAsenita/status/1066215704733585409) 
 - [NASA #MarsLanding on November 26, 2018](https://twitter.com/i/events/1050124105851097088) 
