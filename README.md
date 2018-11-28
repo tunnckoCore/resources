@@ -39,6 +39,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### November 29, 2018 
+- [Little Snitch 4 - Makes the invisible visible!](https://www.obdev.at/products/littlesnitch/index.html) 
 ### November 28, 2018 
 - [Malicious code found in npm package event-stream downloaded 8 million times in the past 2.5 months | Snyk](https://snyk.io/blog/malicious-code-found-in-npm-package-event-stream) 
 - [I’m harvesting credit card numbers and passwords from your site. Here’s how.](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5) 
