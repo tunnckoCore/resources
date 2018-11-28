@@ -38,6 +38,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### November 28, 2018 
+- [Malicious code found in npm package event-stream downloaded 8 million times in the past 2.5 months | Snyk](https://snyk.io/blog/malicious-code-found-in-npm-package-event-stream) 
 ### November 27, 2018 
 - [dominictarr: Statement on `event-stream` compromise](https://gist.github.com/dominictarr/9fd9c1024c94592bc7268d36b8d83b3a) 
 - [@balupton (Benjamin Lupton) on Twitter: "Being an Australian open-source developer is really painful."](https://twitter.com/balupton/status/490038261012635648) 
