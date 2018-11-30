@@ -45,6 +45,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [The Absolute Easiest Way to Debug Node.js — with VSCode](https://itnext.io/the-absolute-easiest-way-to-debug-node-js-with-vscode-2e02ef5b1bad) 
 - [Why the world population won’t exceed 11 billion | Hans Rosling | TGS.ORG - YouTube](https://www.youtube.com/watch?v=2LyzBoHo5EI) 
 - [19 Artificial Intelligence Technologies That Will Dominate In 2018](https://blog.adext.com/en/artificial-intelligence-technologies-2018) 
+- [Learn to securely share files on the blockchain with IPFS!](https://medium.com/@mycoralhealth/learn-to-securely-share-files-on-the-blockchain-with-ipfs-219ee47df54c) 
 ### November 29, 2018 
 - [Little Snitch 4 - Makes the invisible visible!](https://www.obdev.at/products/littlesnitch/index.html) 
 - [Panopticlick - Is your browser safe against tracking? By EFF.org](https://panopticlick.eff.org/) 
