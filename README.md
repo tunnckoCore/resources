@@ -45,6 +45,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### December 1, 2018 
 - [Why I wrote 33 VSCode extensions and how I manage them](https://itnext.io/why-i-wrote-33-vscode-extensions-and-how-i-manage-them-cb61df05e154) 
 - [Goothereum: Cryptocurrency in 160 lines of JavaScript](https://medium.com/@sweetpalma/goothereum-blockchain-in-160-lines-of-javascript-8052ca448857) 
+- [Understanding Hyperledger Sawtooth — Proof of Elapsed Time](https://medium.com/kokster/understanding-hyperledger-sawtooth-proof-of-elapsed-time-e0c303577ec1) 
 ### November 30, 2018 
 - [The Absolute Easiest Way to Debug Node.js — with VSCode](https://itnext.io/the-absolute-easiest-way-to-debug-node-js-with-vscode-2e02ef5b1bad) 
 - [Why the world population won’t exceed 11 billion | Hans Rosling | TGS.ORG - YouTube](https://www.youtube.com/watch?v=2LyzBoHo5EI) 
