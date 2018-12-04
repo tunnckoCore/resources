@@ -48,6 +48,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [How we reduced our initial JS/CSS size by 67% - DEV Community 👩‍💻👨‍💻](https://dev.to/goenning/how-we-reduced-our-initial-jscss-size-by-67-3ac0?utm_source=Newsletter+Subscribers&utm_campaign=23953d54d1-EMAIL_CAMPAIGN_2018_12_03_05_47&utm_medium=email&utm_term=0_d8f11d5d1e-23953d54d1-154208805) 
 - [How to Write a Game in Under 13 Kb While Taking Care of a Baby - DEV Community 👩‍💻👨‍💻](https://dev.to/vintharas/how-to-write-a-game-in-under-13-kb-while-taking-care-of-a-baby-4160?utm_source=Newsletter+Subscribers&utm_campaign=23953d54d1-EMAIL_CAMPAIGN_2018_12_03_05_47&utm_medium=email&utm_term=0_d8f11d5d1e-23953d54d1-154208805) 
 - [Nice syntax! - Popular programming languages' syntaxes](https://areknawo.com/nice-syntax-popular-languages-syntaxes/) 
+- [What minimalism really looks like... - YouTube](https://www.youtube.com/watch?v=jrf_dMnatW0) 
 ### December 3, 2018 
 - [Serverless Functions and Vue.js - Sarah Drasner - YouTube](https://www.youtube.com/watch?v=Gpgrg-sXR3w) 
 ### December 1, 2018 
