@@ -43,6 +43,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### December 4, 2018 
+- [How we reduced our initial JS/CSS size by 67% - DEV Community 👩‍💻👨‍💻](https://dev.to/goenning/how-we-reduced-our-initial-jscss-size-by-67-3ac0?utm_source=Newsletter+Subscribers&utm_campaign=23953d54d1-EMAIL_CAMPAIGN_2018_12_03_05_47&utm_medium=email&utm_term=0_d8f11d5d1e-23953d54d1-154208805) 
 ### December 3, 2018 
 - [Serverless Functions and Vue.js - Sarah Dranser - YouTube](https://www.youtube.com/watch?v=Gpgrg-sXR3w) 
 ### December 1, 2018 
