@@ -49,7 +49,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [How to Write a Game in Under 13 Kb While Taking Care of a Baby - DEV Community 👩‍💻👨‍💻](https://dev.to/vintharas/how-to-write-a-game-in-under-13-kb-while-taking-care-of-a-baby-4160?utm_source=Newsletter+Subscribers&utm_campaign=23953d54d1-EMAIL_CAMPAIGN_2018_12_03_05_47&utm_medium=email&utm_term=0_d8f11d5d1e-23953d54d1-154208805) 
 - [Nice syntax! - Popular programming languages' syntaxes](https://areknawo.com/nice-syntax-popular-languages-syntaxes/) 
 ### December 3, 2018 
-- [Serverless Functions and Vue.js - Sarah Dranser - YouTube](https://www.youtube.com/watch?v=Gpgrg-sXR3w) 
+- [Serverless Functions and Vue.js - Sarah Drasner - YouTube](https://www.youtube.com/watch?v=Gpgrg-sXR3w) 
 ### December 1, 2018 
 - [Why I wrote 33 VSCode extensions and how I manage them](https://itnext.io/why-i-wrote-33-vscode-extensions-and-how-i-manage-them-cb61df05e154) 
 - [Goothereum: Cryptocurrency in 160 lines of JavaScript](https://medium.com/@sweetpalma/goothereum-blockchain-in-160-lines-of-javascript-8052ca448857) 
