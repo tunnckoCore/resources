@@ -47,6 +47,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### December 8, 2018 
+- [npm Announces 2019 Predictions for JavaScript | Business Wire](https://www.businesswire.com/news/home/20181206005188/en/npm-Announces-2019-Predictions-JavaScript) 
 ### December 7, 2018 
 - [Official trailer of Avengers: End Game - "Part of the journey is the end..."](https://twitter.com/MarvelStudios/status/1071027073416740864) 
 ### December 6, 2018 
