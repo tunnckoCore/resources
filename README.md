@@ -48,6 +48,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### December 9, 2018 
+- [Drone Giveaway – Drone Programming – IBM Developer](https://developer.ibm.com/contest/) 
 ### December 8, 2018 
 - [npm Announces 2019 Predictions for JavaScript | Business Wire](https://www.businesswire.com/news/home/20181206005188/en/npm-Announces-2019-Predictions-JavaScript) 
 ### December 7, 2018 
