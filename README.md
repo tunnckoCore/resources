@@ -55,6 +55,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Machine Learning, Iterables/Observables - Schiphol Developers Group Live Stream - YouTube](https://www.youtube.com/watch?v=LNmDwLV68fc&feature=youtu.be) 
 - [Announcing Emotion 10! – Emotion – Medium](https://medium.com/emotion-js/announcing-emotion-10-f1a4b17b8ccd) 
 - [Kurzweil's Book: Singularity is Near... 2016 Documentary - YouTube](https://www.youtube.com/watch?v=7P7ee5TF7LA) 
+- [The Singularity Is Near by Ray Kurzweil - Wikipedia](https://en.m.wikipedia.org/wiki/The_Singularity_Is_Near) 
 ### December 9, 2018 
 - [Drone Giveaway – Drone Programming – IBM Developer](https://developer.ibm.com/contest/) 
 ### December 8, 2018 
