@@ -58,6 +58,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Cloud Computing without Containers](https://blog.cloudflare.com/cloud-computing-without-containers/) 
 - [Zeit serverless docker containers](https://blog.sidepro.io/posts/zeit-docker-serverless/) 
 - [Refactoring UI: The Book - Make your ideas look awesome, without relying on a designer.](https://refactoringui.com/book/) 
+- [GitHub Universe 2018 - Playlist - YouTube](https://www.youtube.com/playlist?list=PL0lo9MOBetEHcBuuHt6D1mx9kwmSK1y50) 
 ### December 12, 2018 
 - [PoC of an async template engine using native template literals and async-await.](https://gist.github.com/jonschlinkert/58286a4fb931da6205c0166ec7e46522) 
 ### December 10, 2018 
