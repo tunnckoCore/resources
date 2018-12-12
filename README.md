@@ -56,6 +56,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Singularity - Image Of The Beast | Full Documentary (2018) - YouTube](https://www.youtube.com/watch?v=7rDenqL2us4) 
 - [The npm Blog — Details about the event-stream incident](https://blog.npmjs.org/post/180565383195/details-about-the-event-stream-incident) 
 - [Cloud Computing without Containers](https://blog.cloudflare.com/cloud-computing-without-containers/) 
+- [Zeit serverless docker containers](https://blog.sidepro.io/posts/zeit-docker-serverless/) 
 ### December 12, 2018 
 - [PoC of an async template engine using native template literals and async-await.](https://gist.github.com/jonschlinkert/58286a4fb931da6205c0166ec7e46522) 
 ### December 10, 2018 
