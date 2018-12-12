@@ -53,15 +53,14 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 ### December 12, 2018 
+- [PoC of an async template engine using native template literals and async-await.]
 - [Singularity - Image Of The Beast | Full Documentary (2018) - YouTube](https://www.youtube.com/watch?v=7rDenqL2us4) 
 - [The npm Blog — Details about the event-stream incident](https://blog.npmjs.org/post/180565383195/details-about-the-event-stream-incident) 
 - [Cloud Computing without Containers](https://blog.cloudflare.com/cloud-computing-without-containers/) 
 - [Zeit serverless docker containers](https://blog.sidepro.io/posts/zeit-docker-serverless/) 
 - [Refactoring UI: The Book - Make your ideas look awesome, without relying on a designer.](https://refactoringui.com/book/) 
 - [GitHub Universe 2018 - Playlist - YouTube](https://www.youtube.com/playlist?list=PL0lo9MOBetEHcBuuHt6D1mx9kwmSK1y50) 
-- [Playlist - React Hooks and Suspense on @eggheadio by @kentcdodds](https://egghead.io/playlists/react-hooks-and-suspense-650307f2) 
-### December 11, 2018 
-- [PoC of an async template engine using native template literals and async-await.](https://gist.github.com/jonschlinkert/58286a4fb931da6205c0166ec7e46522) 
+- [Playlist - React Hooks and Suspense on @eggheadio by @kentcdodds](https://egghead.io/playlists/react-hooks-and-suspense-650307f2)(https://gist.github.com/jonschlinkert/58286a4fb931da6205c0166ec7e46522) 
 ### December 10, 2018 
 - [The Porn on Tumblr Case  — a eulogy / love letter – Vex Ashley – Medium](https://medium.com/@vexashley/porn-on-tumblr-a-eulogy-love-letter-6d45e70fefff) 
 - [Machine Learning, Iterables/Observables - Schiphol Developers Group Live Stream - YouTube](https://www.youtube.com/watch?v=LNmDwLV68fc&feature=youtu.be) 
@@ -75,7 +74,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### December 7, 2018 
 - [Official trailer of Avengers: End Game - "Part of the journey is the end..."](https://twitter.com/MarvelStudios/status/1071027073416740864) 
 ### December 6, 2018 
-- [30-seconds/30-seconds-of-code: Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.](https://github.com/30-seconds/30-seconds-of-code#transform) 
+- [30-seconds/30-seconds-of-code: Curated collection of useful JavaScript snippets that you can understand in 30 seconds](https://github.com/30-seconds/30-seconds-of-code#transform) 
 - [30 seconds of interviews](https://30secondsofinterviews.org/) 
 ### December 5, 2018 
 - [ Escaping the Global Banking Cartel - Permanently stored forever on IPFS](https://gateway.ipfs.io/ipfs/QmWtivfvyWp3sHawsxGquUn1UifgbUffnnqFfLXFrEMRiY) 
