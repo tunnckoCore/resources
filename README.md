@@ -51,6 +51,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### December 11, 2018 
+- [Singularity - Image Of The Beast | Full Documentary (2018) - YouTube](https://www.youtube.com/watch?v=7rDenqL2us4) 
 ### December 12, 2018 
 - [PoC of an async template engine using native template literals and async-await.](https://gist.github.com/jonschlinkert/58286a4fb931da6205c0166ec7e46522) 
 ### December 10, 2018 
