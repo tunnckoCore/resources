@@ -50,6 +50,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### December 12, 2018 
+- [PoC of an async template engine using native template literals and async-await.](https://gist.github.com/jonschlinkert/58286a4fb931da6205c0166ec7e46522) 
 ### December 10, 2018 
 - [The Porn on Tumblr Case  — a eulogy / love letter – Vex Ashley – Medium](https://medium.com/@vexashley/porn-on-tumblr-a-eulogy-love-letter-6d45e70fefff) 
 - [Machine Learning, Iterables/Observables - Schiphol Developers Group Live Stream - YouTube](https://www.youtube.com/watch?v=LNmDwLV68fc&feature=youtu.be) 
