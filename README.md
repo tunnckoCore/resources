@@ -75,7 +75,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### December 7, 2018 
 - [Official trailer of Avengers: End Game - "Part of the journey is the end..."](https://twitter.com/MarvelStudios/status/1071027073416740864) 
 ### December 6, 2018 
-- [30-seconds/30-seconds-of-code: Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.](https://github.com/30-seconds/30-seconds-of-code#transform) 
+- [30-seconds/30-seconds-of-code: Curated collection of useful JavaScript snippets that you can understand in 30 seconds](https://github.com/30-seconds/30-seconds-of-code#transform) 
 - [30 seconds of interviews](https://30secondsofinterviews.org/) 
 ### December 5, 2018 
 - [ Escaping the Global Banking Cartel - Permanently stored forever on IPFS](https://gateway.ipfs.io/ipfs/QmWtivfvyWp3sHawsxGquUn1UifgbUffnnqFfLXFrEMRiY) 
