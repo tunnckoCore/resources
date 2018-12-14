@@ -13,6 +13,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### December 14, 2018 
+- [The Titanic Was On Fire For Days Before The Iceberg Hit](https://medium.com/dialogue-and-discourse/the-titanic-was-on-fire-for-days-before-the-iceberg-hit-94fa26471dfa) 
 ### December 13, 2018 
 - [Xerocon London Keynote by Futurist Gerd Leonhard: Technology and Humanity in The Next 10 years - YouTube](https://www.youtube.com/watch?v=vUIjw-ECZso) 
 ### December 12, 2018 
