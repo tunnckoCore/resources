@@ -15,6 +15,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### December 17, 2018 
+- [5G is just the tip of the iceberg - YouTube](https://www.youtube.com/watch?v=h-qzqOhDc_0) 
 ### December 16, 2018 
 - [Getting Started With Mastodon - Kev Quirk](https://kevq.uk/getting-started-with-mastodon/) 
 ### December 14, 2018 
