@@ -16,6 +16,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### December 18, 2018 
+- [The Damaging Effects Of 5G Wireless On Your Health – Collective Evolution](https://www.collective-evolution.com/2018/06/18/the-damaging-effects-of-5g-wifi-on-your-health/) 
 ### December 17, 2018 
 - [5G is just the tip of the iceberg - YouTube](https://www.youtube.com/watch?v=h-qzqOhDc_0) 
 ### December 16, 2018 
