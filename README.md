@@ -22,6 +22,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Wireless wake-up call | Jeromy Johnson | TEDxBerkeley - YouTube](https://www.youtube.com/watch?v=F0NEaPTu9oI) 
 - [Linux Server See the Historical and Statistical Uptime of System With tuptime Utility - nixCraft](https://www.cyberciti.biz/hardware/howto-see-historical-statistical-uptime-on-linux-server/) 
 - [Remove Background from Image – remove.bg](https://www.remove.bg/) 
+- [Jeff Bezos, The World's Richest Man, Says He Will Use His $131 Billion Fortune To Fund Space Travel And Create Human Settlements Beyond Earth](http://www.thescinewsreporter.com/2018/11/jeff-bezos-worlds-richest-man-says-he.html) 
 ### December 17, 2018 
 - [5G is just the tip of the iceberg - YouTube](https://www.youtube.com/watch?v=h-qzqOhDc_0) 
 ### December 16, 2018 
