@@ -17,6 +17,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### December 19, 2018 
+- [The World's First Tokenized Shares | Mt Pelerin](https://www.mtpelerin.com/blog/world-first-tokenized-shares) 
 ### December 18, 2018 
 - [The Damaging Effects Of 5G Wireless On Your Health – Collective Evolution](https://www.collective-evolution.com/2018/06/18/the-damaging-effects-of-5g-wifi-on-your-health/) 
 - [Wireless wake-up call | Jeromy Johnson | TEDxBerkeley - YouTube](https://www.youtube.com/watch?v=F0NEaPTu9oI) 
