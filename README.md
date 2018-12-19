@@ -18,6 +18,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### December 20, 2018 
+- [The 100% correct way to do CSS breakpoints – freeCodeCamp.org](https://medium.freecodecamp.org/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862) 
 ### December 19, 2018 
 - [The World's First Tokenized Shares | Mt Pelerin](https://www.mtpelerin.com/blog/world-first-tokenized-shares) 
 - [Simple Responsive Images With CSS Background Images — Smashing Magazine](https://www.smashingmagazine.com/2013/07/simple-responsive-images-with-css-background-images/) 
