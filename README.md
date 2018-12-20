@@ -19,6 +19,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### December 21, 2018 
+- [Easy JSX With HTM - YouTube](https://www.youtube.com/watch?v=Y5cGZqrSQTM) 
 ### December 20, 2018 
 - [The 100% correct way to do CSS breakpoints – freeCodeCamp.org](https://medium.freecodecamp.org/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862) 
 - [gatsby-starter-portfolio-cara: Gatsby Starter | GatsbyJS](https://www.gatsbyjs.org/starters/LekoArts/gatsby-starter-portfolio-cara/) 
