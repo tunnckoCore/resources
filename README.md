@@ -25,6 +25,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [GraemeFulton/react-undraw-illustrations: React unDraw Components: MIT licensed illustrations by unDraw.co for your React projects](https://github.com/GraemeFulton/react-undraw-illustrations) 
 - [Free Responsive Web Design Test Tool - Designmodo.com](https://designmodo.com/responsive-test/) 
 - [Introduction to Bulma with React](https://alligator.io/react/intro-react-bulma-components/) 
+- [Gatsby JS Crash Course - YouTube](https://www.youtube.com/watch?v=6YhqQ2ZW1sc) 
 ### December 19, 2018 
 - [The World's First Tokenized Shares | Mt Pelerin](https://www.mtpelerin.com/blog/world-first-tokenized-shares) 
 - [Simple Responsive Images With CSS Background Images — Smashing Magazine](https://www.smashingmagazine.com/2013/07/simple-responsive-images-with-css-background-images/) 
