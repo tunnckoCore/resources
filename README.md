@@ -24,6 +24,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Easy JSX With HTM - YouTube](https://www.youtube.com/watch?v=Y5cGZqrSQTM) 
 - [A Unified Styling Language – SEEK blog – Medium](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660) 
 - [Is two-factor authentication (2FA) as secure as it seems? - Malwarebytes Labs | Malwarebytes Labs](https://blog.malwarebytes.com/101/2018/09/two-factor-authentication-2fa-secure-seems/) 
+- [The Problem with a 5G Phone - YouTube](https://www.youtube.com/watch?v=ohbpuBO6-9Q) 
 ### December 20, 2018 
 - [The 100% correct way to do CSS breakpoints – freeCodeCamp.org](https://medium.freecodecamp.org/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862) 
 - [gatsby-starter-portfolio-cara: Gatsby Starter | GatsbyJS](https://www.gatsbyjs.org/starters/LekoArts/gatsby-starter-portfolio-cara/) 
