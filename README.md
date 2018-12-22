@@ -28,6 +28,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [CSS in 44 minutes ebook: a step by step guide to learn how to build your own webpage from scratch | Jeremy Thomas | Frontend Designer from Bordeaux, living in London](https://jgthms.com/css-in-44-minutes-ebook) 
 - [HTML Reference - A free guide to all HTML elements and attributes.](https://htmlreference.io/) 
 - [GUN.eco - A realtime, decentralized, offline-first, mutable graph database engine.](https://gun.eco/) 
+- [JAMstack: The Cornerstone of Modern-day Web Development - Bejamas Blog](https://bejamas.io/blog/jamstack-modern-web-development/) 
 ### December 21, 2018 
 - [Easy JSX With HTM - YouTube](https://www.youtube.com/watch?v=Y5cGZqrSQTM) 
 - [A Unified Styling Language – SEEK blog – Medium](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660) 
