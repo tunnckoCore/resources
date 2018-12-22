@@ -20,6 +20,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### December 22, 2018 
+- [Speed Tip: Use Typefaces.js in Gatsby to Locally Host Fonts - DEV Community 👩‍💻👨‍💻](https://dev.to/stoutlabs/speed-tip-use-typefacesjs-in-gatsby-to-locally-host-fonts-6om) 
 ### December 21, 2018 
 - [Easy JSX With HTM - YouTube](https://www.youtube.com/watch?v=Y5cGZqrSQTM) 
 - [A Unified Styling Language – SEEK blog – Medium](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660) 
