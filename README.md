@@ -27,6 +27,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [MarkSheet: a free HTML and CSS tutorial - Free tutorial to learn HTML and CSS](https://marksheet.io/) 
 - [CSS in 44 minutes ebook: a step by step guide to learn how to build your own webpage from scratch | Jeremy Thomas | Frontend Designer from Bordeaux, living in London](https://jgthms.com/css-in-44-minutes-ebook) 
 - [HTML Reference - A free guide to all HTML elements and attributes.](https://htmlreference.io/) 
+- [GUN - Graph Database](https://gun.eco/#step1) 
 ### December 21, 2018 
 - [Easy JSX With HTM - YouTube](https://www.youtube.com/watch?v=Y5cGZqrSQTM) 
 - [A Unified Styling Language – SEEK blog – Medium](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660) 
