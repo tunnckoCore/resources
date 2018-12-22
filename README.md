@@ -25,6 +25,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Speed Tip: Use Typefaces.js in Gatsby to Locally Host Fonts - DEV Community 👩‍💻👨‍💻](https://dev.to/stoutlabs/speed-tip-use-typefacesjs-in-gatsby-to-locally-host-fonts-6om) 
 - [Tipe.io - Build your apps without managing the content ](https://tipe.io/?ref=bulma) 
 - [MarkSheet: a free HTML and CSS tutorial - Free tutorial to learn HTML and CSS](https://marksheet.io/) 
+- [CSS in 44 minutes ebook: a step by step guide to learn how to build your own webpage from scratch | Jeremy Thomas | Frontend Designer from Bordeaux, living in London](https://jgthms.com/css-in-44-minutes-ebook) 
 ### December 21, 2018 
 - [Easy JSX With HTM - YouTube](https://www.youtube.com/watch?v=Y5cGZqrSQTM) 
 - [A Unified Styling Language – SEEK blog – Medium](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660) 
