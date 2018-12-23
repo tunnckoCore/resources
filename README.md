@@ -21,6 +21,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### December 23, 2018 
+- [Your First Hybrid App in Minutes — React Native on the Web](https://medium.com/@jonnykalambay/your-first-hybrid-app-in-15-minutes-react-native-on-the-web-2cc2646051e) 
 ### December 22, 2018 
 - [Speed Tip: Use Typefaces.js in Gatsby to Locally Host Fonts - DEV Community 👩‍💻👨‍💻](https://dev.to/stoutlabs/speed-tip-use-typefacesjs-in-gatsby-to-locally-host-fonts-6om) 
 - [Tipe.io - Build your apps without managing the content ](https://tipe.io/?ref=bulma) 
