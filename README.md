@@ -26,6 +26,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### December 24, 2018 
 - ["Light the World" by @kentcdodds | Buttondown](https://buttondown.email/kentcdodds/archive/32b54b4d-703b-4f76-b0b3-1ec842fce634) 
+- [What is the Difference Between software engineering and Software Development?](https://www.computersciencedegreehub.com/faq/what-is-the-difference-between-software-engineering-and-software/) 
 ### December 23, 2018 
 - [Your First Hybrid App in Minutes — React Native on the Web](https://medium.com/@jonnykalambay/your-first-hybrid-app-in-15-minutes-react-native-on-the-web-2cc2646051e) 
 ### December 22, 2018 
