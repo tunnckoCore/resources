@@ -27,6 +27,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### December 25, 2018 
 - [OrbitDB: A peer-to-peer database for the decentralized web](https://medium.com/coinmonks/orbitdb-a-peer-to-peer-database-for-the-decentralized-web-30bac1d056fe) 
+- [Offline First, the Decentralized Web, and Peer-to-Peer Technologies](https://medium.com/offline-camp/offline-first-the-decentralized-web-and-peer-to-peer-technologies-b05b7fb3bcdd) 
 ### December 24, 2018 
 - ["Light the World" by @kentcdodds | Buttondown](https://buttondown.email/kentcdodds/archive/32b54b4d-703b-4f76-b0b3-1ec842fce634) 
 - [What is the Difference Between Software Engineering and Software Development?](https://www.computersciencedegreehub.com/faq/what-is-the-difference-between-software-engineering-and-software/) 
