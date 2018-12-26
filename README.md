@@ -30,6 +30,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [“13 Reasons Why” to watch Article 13 - Copyright reform in the European Union - Lexology](https://www.lexology.com/library/detail.aspx?g=244e0f2d-ea41-4e1a-9351-a7cebaf48bfa) 
 - [Flexbox Zombies | geddski mastery games](https://flexboxzombies.com/p/flexbox-zombies) 
 - [The Sense of An Ending | Sarthak Batra](https://www.sarthakbatra.com/blog/the-sense-of-an-ending/) 
+- [The Major and Minor Wrongs of JavaScript – Mian Labs](https://mianlabs.com/2018/12/25/the-major-and-minor-wrongs-of-javascript/) 
 ### December 25, 2018 
 - [OrbitDB: A peer-to-peer database for the decentralized web](https://medium.com/coinmonks/orbitdb-a-peer-to-peer-database-for-the-decentralized-web-30bac1d056fe) 
 - [Offline First, the Decentralized Web, and Peer-to-Peer Technologies](https://medium.com/offline-camp/offline-first-the-decentralized-web-and-peer-to-peer-technologies-b05b7fb3bcdd) 
