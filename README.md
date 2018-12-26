@@ -25,6 +25,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### December 26, 2018 
+- [“13 Reasons Why” to watch Article 13 - Copyright reform in the European Union - Lexology](https://www.lexology.com/library/detail.aspx?g=244e0f2d-ea41-4e1a-9351-a7cebaf48bfa) 
 ### December 25, 2018 
 - [OrbitDB: A peer-to-peer database for the decentralized web](https://medium.com/coinmonks/orbitdb-a-peer-to-peer-database-for-the-decentralized-web-30bac1d056fe) 
 - [Offline First, the Decentralized Web, and Peer-to-Peer Technologies](https://medium.com/offline-camp/offline-first-the-decentralized-web-and-peer-to-peer-technologies-b05b7fb3bcdd) 
