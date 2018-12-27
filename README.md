@@ -26,6 +26,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### December 27, 2018 
+- [21 Performance Optimization Techniques for React Apps](https://www.codementor.io/blog/react-optimization-5wiwjnf9hj?utm_content=posts&utm_source=sendgrid&utm_medium=email&utm_term=post-5wiwjnf9hj&utm_campaign=newsletter20181226) 
 ### December 26, 2018 
 - [“13 Reasons Why” to watch Article 13 - Copyright reform in the European Union - Lexology](https://www.lexology.com/library/detail.aspx?g=244e0f2d-ea41-4e1a-9351-a7cebaf48bfa) 
 - [Flexbox Zombies | geddski mastery games](https://flexboxzombies.com/p/flexbox-zombies) 
