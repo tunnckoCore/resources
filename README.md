@@ -27,6 +27,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### December 28, 2018 
+- [Introducing Decentralized Video Platforms – Zokama – Medium](https://medium.com/@zokama/comparing-decentralized-video-platforms-introduction-5c26b72ea83e) 
 ### December 27, 2018 
 - [21 Performance Optimization Techniques for React Apps](https://www.codementor.io/blog/react-optimization-5wiwjnf9hj?utm_content=posts&utm_source=sendgrid&utm_medium=email&utm_term=post-5wiwjnf9hj&utm_campaign=newsletter20181226) 
 ### December 26, 2018 
