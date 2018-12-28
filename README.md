@@ -31,7 +31,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### December 28, 2018 
 - [Introducing Decentralized Video Platforms – Zokama – Medium](https://medium.com/@zokama/comparing-decentralized-video-platforms-introduction-5c26b72ea83e) 
 - [Streaming with IPFS – REVOtic – Medium](https://medium.com/revotic/streaming-with-ipfs-2145e6df5a4e) 
-- [A New Kind of Social Network: Emotional Intelligence](https://hackernoon.com/a-new-kind-of-social-network-emotional-intelligence-e45dcddb1bdb) 
+
 ### December 27, 2018 
 - [21 Performance Optimization Techniques for React Apps](https://www.codementor.io/blog/react-optimization-5wiwjnf9hj?utm_content=posts&utm_source=sendgrid&utm_medium=email&utm_term=post-5wiwjnf9hj&utm_campaign=newsletter20181226) 
 ### December 26, 2018 
