@@ -28,6 +28,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### December 29, 2018 
+- [Moving from create-react-app to Gatsby.js | Khaled Garbaya](https://khaledgarbaya.net/articles/moving-from-create-react-app-to-gatsby-js/) 
 ### December 28, 2018 
 - [Introducing Decentralized Video Platforms – Zokama – Medium](https://medium.com/@zokama/comparing-decentralized-video-platforms-introduction-5c26b72ea83e) 
 - [Streaming with IPFS – REVOtic – Medium](https://medium.com/revotic/streaming-with-ipfs-2145e6df5a4e) 
