@@ -29,6 +29,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### December 30, 2018 
+- [React lazy, Suspense and Concorrent React Breakdown with Examples](https://medium.com/@rossbulat/react-lazy-suspense-and-concorrent-react-breakdown-with-examples-2758de98cb1c) 
 ### December 29, 2018 
 - [Moving from create-react-app to Gatsby.js | Khaled Garbaya](https://khaledgarbaya.net/articles/moving-from-create-react-app-to-gatsby-js/) 
 - [Static vs. Server Rendering by @jamesknelson](https://frontarm.com/articles/static-vs-server-rendering/) 
