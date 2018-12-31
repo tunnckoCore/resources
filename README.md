@@ -33,6 +33,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### December 31, 2018 
 - [Using 6000 CPU Cores for SCIENCE - HOLY $H!T - YouTube](https://www.youtube.com/watch?v=sCuKuUgNfjA) 
+- [Goodbye Electron, Hello Desktop PWAs – DailyJS – Medium](https://medium.com/dailyjs/goodbye-electron-hello-desktop-pwas-f316b8f39882) 
 ### December 30, 2018 
 - [React lazy, Suspense and Concorrent React Breakdown with Examples](https://medium.com/@rossbulat/react-lazy-suspense-and-concorrent-react-breakdown-with-examples-2758de98cb1c) 
 - [The Disconnect - an offline-only, digital semi-annual magazine of commentary, fiction, and poetry](https://thedisconnect.co/) 
