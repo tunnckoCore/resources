@@ -31,6 +31,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### January 1, 2019 
+- [Here's how much Eminem is worth: a reported $190 million - INSIDER](https://www.thisisinsider.com/how-much-is-eminem-worth-2018-9) 
 ### December 31, 2018 
 - [Using 6000 CPU Cores for SCIENCE - HOLY $H!T - YouTube](https://www.youtube.com/watch?v=sCuKuUgNfjA) 
 - [Goodbye Electron, Hello Desktop PWAs – DailyJS – Medium](https://medium.com/dailyjs/goodbye-electron-hello-desktop-pwas-f316b8f39882) 
