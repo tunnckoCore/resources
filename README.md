@@ -32,6 +32,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### January 2, 2019 
+- [Remove all node_module folders recursively (Example)](https://coderwall.com/p/guqrca/remove-all-node_module-folders-recursively) 
 ### January 1, 2019 
 - [Here's how much Eminem is worth: a reported $190 million - INSIDER](https://www.thisisinsider.com/how-much-is-eminem-worth-2018-9) 
 ### December 31, 2018 
