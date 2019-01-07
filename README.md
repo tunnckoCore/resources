@@ -38,6 +38,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### January 7, 2019 
 - [*MUST READ* How we built a DoH CDN with 20+ global edge servers in 10 days. - DEV Community 👩‍💻👨‍💻](https://dev.to/commonshost/how-we-built-a-doh-cdn-with-20-global-edge-servers-in-10-days-1man) 
+- [Commons Host: Building a CDN with Node.js for the rest of the world - Sebastiaan Deckers - YouTube](https://www.youtube.com/watch?v=gEhiyhzbaU8&t=183s) 
 ### January 5, 2019 
 - [React Kawaii - Cute SVG Components by @miukimiu](https://react-kawaii.now.sh/#/React%20Kawaii) 
 ### January 4, 2019 
