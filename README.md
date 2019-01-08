@@ -40,6 +40,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### January 8, 2019 
 - [How BIG... is Volkswagen (Group)? - YouTube](https://www.youtube.com/watch?v=DNnV3Jb3pkA) 
 - [Samsung 75 Inch 4K MicroLED TV - Hands On at CES 2019 - YouTube](https://www.youtube.com/watch?v=Gv-UpeoHzwk) 
+- [Understanding Gatsby's Lifecycle - DEV Community 👩‍💻👨‍💻](https://dev.to/narative/understanding-gatsbys-lifecycle-4g5l) 
 ### January 7, 2019 
 - [*MUST READ* How we built a DoH CDN with 20+ global edge servers in 10 days. - DEV Community 👩‍💻👨‍💻](https://dev.to/commonshost/how-we-built-a-doh-cdn-with-20-global-edge-servers-in-10-days-1man) 
 - [Commons Host: Building a CDN with Node.js for the rest of the world - Sebastiaan Deckers - YouTube](https://www.youtube.com/watch?v=gEhiyhzbaU8&t=183s) 
