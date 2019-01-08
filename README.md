@@ -42,6 +42,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Samsung 75 Inch 4K MicroLED TV - Hands On at CES 2019 - YouTube](https://www.youtube.com/watch?v=Gv-UpeoHzwk) 
 - [Understanding Gatsby's Lifecycle - DEV Community 👩‍💻👨‍💻](https://dev.to/narative/understanding-gatsbys-lifecycle-4g5l) 
 - [Theia to Support VS Code Extensions – Sven Efftinge – Medium](https://medium.com/@sven.efftinge/theia-to-support-vs-code-extensions-a7b9100ec836) 
+- [Why every new web app at PayPal starts with TypeScript | Buttondown by @kentcdodds](https://buttondown.email/kentcdodds/archive/24a5cca6-50e1-4a55-822c-b30b246537ec) 
 ### January 7, 2019 
 - [*MUST READ* How we built a DoH CDN with 20+ global edge servers in 10 days. - DEV Community 👩‍💻👨‍💻](https://dev.to/commonshost/how-we-built-a-doh-cdn-with-20-global-edge-servers-in-10-days-1man) 
 - [Commons Host: Building a CDN with Node.js for the rest of the world - Sebastiaan Deckers - YouTube](https://www.youtube.com/watch?v=gEhiyhzbaU8&t=183s) 
