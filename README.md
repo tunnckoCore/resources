@@ -50,7 +50,6 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [React Kawaii - Cute SVG Components by @miukimiu](https://react-kawaii.now.sh/#/React%20Kawaii) 
 ### January 4, 2019 
 - [Enhance Twitter with these Chrome Extensions.](https://blog.qlearly.com/chrome-extensions-to-enhance-your-twitter-experience/) 
-- [Enhance Twitter with these Chrome Extensions.](https://blog.qlearly.com/chrome-extensions-to-enhance-your-twitter-experience/) 
 ### January 2, 2019 
 - [Remove all node_module folders recursively (Example)](https://coderwall.com/p/guqrca/remove-all-node_module-folders-recursively) 
 ### January 1, 2019 
