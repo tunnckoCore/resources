@@ -37,6 +37,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### January 11, 2019 
+- [8 Productivity Tips for GitHub - DEV Community 👩‍💻👨‍💻](https://dev.to/_darrenburns/8-productivity-tips-for-github-44kn) 
 ### January 8, 2019 
 - [How BIG... is Volkswagen (Group)? - YouTube](https://www.youtube.com/watch?v=DNnV3Jb3pkA) 
 - [Samsung 75 Inch 4K MicroLED TV - Hands On at CES 2019 - YouTube](https://www.youtube.com/watch?v=Gv-UpeoHzwk) 
