@@ -39,6 +39,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### January 13, 2019 
+- [Self-Driving Car Levels Explained - YouTube](https://www.youtube.com/watch?v=EzylsrXtkxI) 
 ### January 12, 2019 
 - [Automatic Cache Busting for Your CSS](https://blog.risingstack.com/automatic-cache-busting-for-your-css/) 
 - [Using TypeScript transforms to enrich runtime code – LogRocket](https://blog.logrocket.com/using-typescript-transforms-to-enrich-runtime-code-3fd2863221ed) 
