@@ -41,6 +41,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### January 12, 2019 
 - [Automatic Cache Busting for Your CSS](https://blog.risingstack.com/automatic-cache-busting-for-your-css/) 
+- [Using TypeScript transforms to enrich runtime code – LogRocket](https://blog.logrocket.com/using-typescript-transforms-to-enrich-runtime-code-3fd2863221ed) 
 ### January 11, 2019 
 - [8 Productivity Tips for GitHub - DEV Community 👩‍💻👨‍💻](https://dev.to/_darrenburns/8-productivity-tips-for-github-44kn) 
 - [Revisiting 2018’s Tech Trends - Namecheap Blog](https://www.namecheap.com/blog/revisiting-2018-tech-trends/?utm_source=Iterable_Marketing&utm_medium=email&utm_campaign=News_NCJanAct75Rest_20190109) 
