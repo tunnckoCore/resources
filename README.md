@@ -46,6 +46,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Арабският свят върви към реабилитиране на Асад | Dnes.bg Новини](https://www.dnes.bg/blizak-iztok/2019/01/14/arabskiiat-sviat-vyrvi-kym-reabilitirane-na-asad.399162?fbclid=IwAR2jY_EIAFv4EYWUvBmFWGWl1X7tYLjzgZeR1ksEQVq6KTMlksPKA5fzuXE) 
 - [Migrating to Now 2.0](https://dawnlabs.io/now-2/) 
 - [GPG - How to trust an imported key - Pang Yan Han's blog](https://yanhan.github.io/posts/2014-03-04-gpg-how-to-trust-imported-key.html) 
+- [Porting 30K lines of code from Flow to TypeScript](https://davidgom.es/porting-30k-lines-of-code-from-flow-to-typescript/) 
 ### January 13, 2019 
 - [Self-Driving Car Levels Explained - YouTube](https://www.youtube.com/watch?v=EzylsrXtkxI) 
 ### January 12, 2019 
