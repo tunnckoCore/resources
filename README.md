@@ -40,6 +40,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### January 15, 2019 
+- [Basic Overview of Continuous Integration for Monorepos - YouTube](https://www.youtube.com/watch?v=GT5UDa0I1Lc) 
 ### January 13, 2019 
 - [Self-Driving Car Levels Explained - YouTube](https://www.youtube.com/watch?v=EzylsrXtkxI) 
 ### January 12, 2019 
