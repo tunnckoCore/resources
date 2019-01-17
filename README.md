@@ -41,6 +41,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### January 17, 2019 
+- [Looking for a job? The Dark Overlord is hiring ‘goal oriented’ cybercriminals for $63k/month!](https://thehustle.co/dark-overlord-hacker-cybercrime-software-engineer-hiring/) 
 ### January 15, 2019 
 - [Basic Overview of Continuous Integration for Monorepos - YouTube](https://www.youtube.com/watch?v=GT5UDa0I1Lc) 
 - [Арабският свят върви към реабилитиране на Асад | Dnes.bg Новини](https://www.dnes.bg/blizak-iztok/2019/01/14/arabskiiat-sviat-vyrvi-kym-reabilitirane-na-asad.399162?fbclid=IwAR2jY_EIAFv4EYWUvBmFWGWl1X7tYLjzgZeR1ksEQVq6KTMlksPKA5fzuXE) 
