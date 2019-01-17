@@ -46,6 +46,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Looking for a job? The Dark Overlord is hiring ‘goal oriented’ cybercriminals for $63k/month!](https://thehustle.co/dark-overlord-hacker-cybercrime-software-engineer-hiring/) 
 - [Async! Await! JavaScript. | Codementor](https://www.codementor.io/ashaymandwarya/async-await-javascript-r2c6dujh5?utm_content=posts&utm_source=sendgrid&utm_medium=email&utm_term=post-r2c6dujh5&utm_campaign=newsletter20190116) 
 - [How to Learn Python in 30 days | Codementor](https://www.codementor.io/divyacyclitics15/how-to-learn-python-in-30-days-r42cggbq1?utm_content=posts&utm_source=sendgrid&utm_medium=email&utm_term=post-r42cggbq1&utm_campaign=newsletter20190116) 
+- [🔴 Setup a monorepo with Lerna 🐉 - YouTube](https://www.youtube.com/watch?v=pU87ufl2lDc) 
 ### January 15, 2019 
 - [Basic Overview of Continuous Integration for Monorepos - YouTube](https://www.youtube.com/watch?v=GT5UDa0I1Lc) 
 - [Арабският свят върви към реабилитиране на Асад | Dnes.bg Новини](https://www.dnes.bg/blizak-iztok/2019/01/14/arabskiiat-sviat-vyrvi-kym-reabilitirane-na-asad.399162?fbclid=IwAR2jY_EIAFv4EYWUvBmFWGWl1X7tYLjzgZeR1ksEQVq6KTMlksPKA5fzuXE) 
