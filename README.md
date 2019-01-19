@@ -42,6 +42,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### January 19, 2019 
+- [Pitfalls of a Monorepo - MrJoy](http://mrjoy.com/2017/10/31/pitfalls-of-a-monorepo/) 
 ### January 17, 2019 
 - [Looking for a job? The Dark Overlord is hiring ‘goal oriented’ cybercriminals for $63k/month!](https://thehustle.co/dark-overlord-hacker-cybercrime-software-engineer-hiring/) 
 - [Async! Await! JavaScript. | Codementor](https://www.codementor.io/ashaymandwarya/async-await-javascript-r2c6dujh5?utm_content=posts&utm_source=sendgrid&utm_medium=email&utm_term=post-r2c6dujh5&utm_campaign=newsletter20190116) 
