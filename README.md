@@ -43,6 +43,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### January 23, 2019 
+- [Code Galaxies: NPM](https://www.reddit.com/r/javascript/comments/aik7x4/npm_visualised/) 
 ### January 19, 2019 
 - [Pitfalls of a Monorepo - MrJoy](http://mrjoy.com/2017/10/31/pitfalls-of-a-monorepo/) 
 ### January 17, 2019 
