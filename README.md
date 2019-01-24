@@ -47,6 +47,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### January 24, 2019 
 - [Inside Facebook’s fight against European regulation – POLITICO](https://www.politico.eu/article/inside-story-facebook-fight-against-european-regulation/) 
+- [Node worker threads – Lazy Engineering – Medium](https://medium.com/lazy-engineering/node-worker-threads-b57a32d84845) 
 ### January 23, 2019 
 - [Code Galaxies: NPM](https://www.reddit.com/r/javascript/comments/aik7x4/npm_visualised/) 
 ### January 19, 2019 
