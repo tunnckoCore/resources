@@ -49,6 +49,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### January 25, 2019 
 - [Get Started With Typescript in 2019](https://www.robertcooper.me/get-started-with-typescript-in-2019) 
 - [Improving the cache performance of The Polyfill Service even more | Jake Champion](https://jakechampion.name/improving-the-cache-performance-of-the-polyfill-service-even-more) 
+- [Best Practices for Using the Vary Header](https://www.fastly.com/blog/best-practices-using-vary-header) 
 ### January 24, 2019 
 - [Inside Facebook’s fight against European regulation – POLITICO](https://www.politico.eu/article/inside-story-facebook-fight-against-european-regulation/) 
 - [Node worker threads – Lazy Engineering – Medium](https://medium.com/lazy-engineering/node-worker-threads-b57a32d84845) 
