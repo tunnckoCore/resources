@@ -49,6 +49,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### January 27, 2019 
 - [The Three-Body Problem - Epsilon Theory](https://www.epsilontheory.com/three-body-problem/) 
+- [CS + Ethics – The Stanford Daily](https://www.stanforddaily.com/2018/05/06/cs-ethics/) 
 ### January 25, 2019 
 - [Get Started With Typescript in 2019](https://www.robertcooper.me/get-started-with-typescript-in-2019) 
 - [Improving the cache performance of The Polyfill Service even more | Jake Champion](https://jakechampion.name/improving-the-cache-performance-of-the-polyfill-service-even-more) 
