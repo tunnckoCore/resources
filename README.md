@@ -47,6 +47,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### January 30, 2019 
+- [Microsoft CTO: Understanding AI is part of being an informed citizen in the 21st century | VentureBeat](https://venturebeat.com/2019/01/20/microsoft-cto-understanding-ai-is-part-of-being-an-informed-citizen-in-the-21st-century/) 
 ### January 27, 2019 
 - [The Three-Body Problem - Epsilon Theory](https://www.epsilontheory.com/three-body-problem/) 
 - [CS + Ethics – The Stanford Daily](https://www.stanforddaily.com/2018/05/06/cs-ethics/) 
