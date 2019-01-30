@@ -52,6 +52,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Microsoft CTO: Understanding AI is part of being an informed citizen in the 21st century | VentureBeat](https://venturebeat.com/2019/01/20/microsoft-cto-understanding-ai-is-part-of-being-an-informed-citizen-in-the-21st-century/) 
 - [Blockchain Voting System - The 2019 Ultimate Report](https://blockchainflashnews.com/blockchain-voting/) 
 - [Blockchain Voting System - The 2019 Ultimate Report](https://blockchainflashnews.com/blockchain-voting/) 
+- [Sickick - Epic Eminem MashUp (Live) - YouTube](https://www.youtube.com/watch?v=wVzdEAGm08o) 
 ### January 27, 2019 
 - [The Three-Body Problem - Epsilon Theory](https://www.epsilontheory.com/three-body-problem/) 
 - [CS + Ethics – The Stanford Daily](https://www.stanforddaily.com/2018/05/06/cs-ethics/) 
