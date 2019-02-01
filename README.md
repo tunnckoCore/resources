@@ -48,6 +48,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### February 1, 2019 
+- [Marcel Cutts - MonoRepos for the Masses | ReactNext 2018 - YouTube](https://www.youtube.com/watch?v=rdeBtjBNcDI) 
 ### January 30, 2019 
 - [Microsoft CTO: Understanding AI is part of being an informed citizen in the 21st century | VentureBeat](https://venturebeat.com/2019/01/20/microsoft-cto-understanding-ai-is-part-of-being-an-informed-citizen-in-the-21st-century/) 
 - [Blockchain Voting System - The 2019 Ultimate Report](https://blockchainflashnews.com/blockchain-voting/) 
