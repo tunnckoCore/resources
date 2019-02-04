@@ -50,6 +50,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### February 4, 2019 
+- [Google Play Store now open for Progressive Web Apps 😱](https://medium.com/@firt/google-play-store-now-open-for-progressive-web-apps-ec6f3c6ff3cc) 
 ### February 3, 2019 
 - [CS-bg.info • [ARCHIVE] #charlike 2012 winter](https://cs-bg.info/forum/viewtopic.php?f=157&t=131499) 
 ### February 1, 2019 
