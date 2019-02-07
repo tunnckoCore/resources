@@ -55,7 +55,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### February 7, 2019 
 - [The Shift That Frees People From Perfectionism – Thrive Global – Medium](https://medium.com/thrive-global/heres-the-profound-psychological-shift-that-frees-people-from-perfectionism-290dc09ad73) 
 - [9 Signs You're A Perfectionist (And That's Not A Good Thing)](https://www.forbes.com/sites/amymorin/2017/06/25/9-signs-youre-a-perfectionist-and-thats-not-a-good-thing/#59b8d4dc5ca3) 
-- [The Most Overvalued Startup in the World? - YouTube](https://www.youtube.com/watch?v=DwAyUV6hTf8) 
+- [WeWork: The Most Overvalued Startup in the World? - YouTube](https://www.youtube.com/watch?v=DwAyUV6hTf8) 
 ### February 4, 2019 
 - [Google Play Store now open for Progressive Web Apps 😱](https://medium.com/@firt/google-play-store-now-open-for-progressive-web-apps-ec6f3c6ff3cc) 
 ### February 3, 2019 
