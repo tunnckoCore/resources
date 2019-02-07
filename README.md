@@ -51,6 +51,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### February 7, 2019 
+- [The Shift That Frees People From Perfectionism – Thrive Global – Medium](https://medium.com/thrive-global/heres-the-profound-psychological-shift-that-frees-people-from-perfectionism-290dc09ad73) 
 ### February 4, 2019 
 - [Google Play Store now open for Progressive Web Apps 😱](https://medium.com/@firt/google-play-store-now-open-for-progressive-web-apps-ec6f3c6ff3cc) 
 ### February 3, 2019 
