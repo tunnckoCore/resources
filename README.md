@@ -53,6 +53,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### February 9, 2019 
+- [How to Grow as an Engineer (Working Remotely) – Times Open](https://open.nytimes.com/how-to-grow-as-an-engineer-working-remotely-3baff8211f3e) 
 ### February 8, 2019 
 - [First thoughts on Deno, the JavaScript/TypeScript run-time](https://43081j.com/2019/01/first-look-at-deno) 
 ### February 7, 2019 
