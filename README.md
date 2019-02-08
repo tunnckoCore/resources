@@ -52,6 +52,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### February 8, 2019 
+- [First thoughts on Deno, the JavaScript/TypeScript run-time](https://43081j.com/2019/01/first-look-at-deno) 
 ### February 7, 2019 
 - [The Shift That Frees People From Perfectionism – Thrive Global – Medium](https://medium.com/thrive-global/heres-the-profound-psychological-shift-that-frees-people-from-perfectionism-290dc09ad73) 
 - [9 Signs You're A Perfectionist (And That's Not A Good Thing)](https://www.forbes.com/sites/amymorin/2017/06/25/9-signs-youre-a-perfectionist-and-thats-not-a-good-thing/#59b8d4dc5ca3) 
