@@ -54,6 +54,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### February 14, 2019 
+- [Developer Experience (DX) — Devs Are People Too – Hacker Noon](https://hackernoon.com/developer-experience-dx-devs-are-people-too-6590d6577afe) 
 ### February 9, 2019 
 - [How to Grow as an Engineer (Working Remotely) – Times Open](https://open.nytimes.com/how-to-grow-as-an-engineer-working-remotely-3baff8211f3e) 
 - [HTTP/3: From root to tip | CloudFlare Blog](https://blog.cloudflare.com/http-3-from-root-to-tip/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=153) 
