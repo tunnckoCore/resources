@@ -55,6 +55,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### February 15, 2019 
+- [The Minimalist - Award Winning Short Film - YouTube](https://www.youtube.com/watch?v=PqnNs2_5Lik) 
 ### February 14, 2019 
 - [Developer Experience (DX) — Devs Are People Too – Hacker Noon](https://hackernoon.com/developer-experience-dx-devs-are-people-too-6590d6577afe) 
 - [Podcast - Don't Make Me Code | Heavybit](https://www.heavybit.com/library/podcasts/dont-make-me-code/) 
