@@ -56,6 +56,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### February 16, 2019 
+- [GE Appliances & Haier History: From failing fridge manufacturer to global electronic giant | Inside The Storm | Full Episode - YouTube](https://www.youtube.com/watch?v=WK7mxBy1fNw) 
 ### February 15, 2019 
 - [The Minimalist - Award Winning Short Film - YouTube](https://www.youtube.com/watch?v=PqnNs2_5Lik) 
 - [A Day in the Life of a Minimalist - YouTube](https://www.youtube.com/watch?v=tG2GJZcBKOE&t=12s) 
