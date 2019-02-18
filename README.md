@@ -63,6 +63,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Dropshipping Business: Income Option for Long-Term Travelers | Travel Upstream](https://wetravelupstream.com/digital-nomads/dropshipping-business-an-income-option-for-long-term-travelers/) 
 - [WHAT I WISH I KNEW BEFORE STARTING MINIMALISM - YouTube](https://www.youtube.com/watch?v=MMq9Sxp9GFo) 
 - [Tips for New Recruiters](https://www.shrm.org/resourcesandtools/hr-topics/talent-acquisition/pages/tips-new-recruiters.aspx) 
+- [How artificial intelligence models are taking over Instagram - the rise of CGI robot influencers](https://www.harpersbazaar.com/uk/fashion/fashion-news/a22722480/how-artificial-intelligence-models-are-taking-over-your-instagram-feed/) 
 ### February 16, 2019 
 - [GE Appliances & Haier History: From failing fridge manufacturer to global electronic giant | Inside The Storm | Full Episode - YouTube](https://www.youtube.com/watch?v=WK7mxBy1fNw) 
 ### February 15, 2019 
