@@ -60,6 +60,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### February 18, 2019 
 - [Solo Female Long-Term Travel: An Inspiring Story | Travel Upstream](https://wetravelupstream.com/inspiration/solo-female-long-term-travel/) 
+- [Dropshipping Business: Income Option for Long-Term Travelers | Travel Upstream](https://wetravelupstream.com/digital-nomads/dropshipping-business-an-income-option-for-long-term-travelers/) 
 ### February 16, 2019 
 - [GE Appliances & Haier History: From failing fridge manufacturer to global electronic giant | Inside The Storm | Full Episode - YouTube](https://www.youtube.com/watch?v=WK7mxBy1fNw) 
 ### February 15, 2019 
