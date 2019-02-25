@@ -58,6 +58,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### February 25, 2019 
+- [The Paradox of Plagiarism | Live, Laugh, Puke.](https://theshithouserat.wordpress.com/2012/07/01/the-plagerist/) 
 ### February 18, 2019 
 - [Solo Female Long-Term Travel: An Inspiring Story | Travel Upstream](https://wetravelupstream.com/inspiration/solo-female-long-term-travel/) 
 - [Dropshipping Business: Income Option for Long-Term Travelers | Travel Upstream](https://wetravelupstream.com/digital-nomads/dropshipping-business-an-income-option-for-long-term-travelers/) 
