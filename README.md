@@ -62,6 +62,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### February 27, 2019 
 - [Step-By-Step Guide to Living in Bali as a Digital Nomad](https://hobowithalaptop.com/digital-nomad-bali-guide) 
+- [How to get a Stripe account (Outside U.S) - Antz Business Solutions](https://antzbusinesssolutions.com/tips/get-stripe-account-outside-u-s/) 
 ### February 25, 2019 
 - [The Paradox of Plagiarism | Live, Laugh, Puke.](https://theshithouserat.wordpress.com/2012/07/01/the-plagerist/) 
 ### February 18, 2019 
