@@ -70,6 +70,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Thread: Developer Advocates, DevRel, Scrum, Software Engineer and etc - DEV Community 👩‍💻👨‍💻](https://dev.to/flexdinesh/what-is-the-role-of-a-developer-advocate-3ce0) 
 - [Defining Developer Relations - Phil Leggetter - Real-Time Web Software & Developer Evangelist](https://www.leggetter.co.uk/2016/02/03/defining-developer-relations.html) 
 - [What is Developer Advocacy? – @ashleymcnamara – Medium](https://medium.com/@ashleymcnamara/what-is-developer-advocacy-3a92442b627c) 
+- [Is remote working making you a more effective developer? A happier developer? How can you improve? - flaviocopes.com](https://flaviocopes.com/remote-work-developer/) 
 ### February 27, 2019 
 - [Step-By-Step Guide to Living in Bali as a Digital Nomad](https://hobowithalaptop.com/digital-nomad-bali-guide) 
 - [How to get a Stripe account (Outside U.S) - Antz Business Solutions](https://antzbusinesssolutions.com/tips/get-stripe-account-outside-u-s/) 
