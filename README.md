@@ -66,6 +66,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [EUROPA – The Last Battle ~ The Full Documentary (2017) – EUROPA – The Last Battle](https://europathelastbattle.wordpress.com/watch/) 
 - [The Mozilla Public License Version 2.0: A Good Middle Ground? | Julien Ponge](https://julien.ponge.org/blog/mozilla-public-license-v2-a-good-middleground/) 
 - [So Remind Me Again, Why Do We Need the npm Registry?](https://blog.javascripting.com/2015/06/11/so-remind-me-again-why-do-we-need-the-npm-registry/) 
+- [Facebook to launch 'Patreon killer' that grabs 30% of fan money vs. Patreon’s 5% / Boing Boing](https://boingboing.net/2019/02/26/facebook-patreon.html) 
 ### February 27, 2019 
 - [Step-By-Step Guide to Living in Bali as a Digital Nomad](https://hobowithalaptop.com/digital-nomad-bali-guide) 
 - [How to get a Stripe account (Outside U.S) - Antz Business Solutions](https://antzbusinesssolutions.com/tips/get-stripe-account-outside-u-s/) 
