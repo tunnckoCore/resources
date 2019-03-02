@@ -64,6 +64,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### March 2, 2019 
 - [Selling open source the smart way | Opensource.com](https://opensource.com/business/16/8/selling-open-source-smart-way) 
+- [MPL 2.0, copyleft, and license compatibility | Opensource.com](https://opensource.com/law/11/9/mpl-20-copyleft-and-license-compatibility) 
 ### February 28, 2019 
 - [Why I Chose the Mozilla Public License 2.0 | Christoph Conrads' Blog](https://christoph-conrads.name/why-i-chose-the-mozilla-public-license-2-0/) 
 - [EUROPA – The Last Battle ~ The Full Documentary (2017) – EUROPA – The Last Battle](https://europathelastbattle.wordpress.com/watch/) 
