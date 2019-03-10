@@ -62,6 +62,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### March 10, 2019 
+- [@kemitchell blog /dev/lawyer - Deprecation Notice: MIT and BSD](https://writing.kemitchell.com/2019/03/09/Deprecation-Notice.html) 
 ### March 2, 2019 
 - [Selling open source the smart way | Opensource.com](https://opensource.com/business/16/8/selling-open-source-smart-way) 
 - [MPL 2.0, copyleft, and license compatibility | Opensource.com](https://opensource.com/law/11/9/mpl-20-copyleft-and-license-compatibility) 
