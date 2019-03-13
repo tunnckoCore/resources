@@ -63,6 +63,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### March 14, 2019 
+- [World Wide Web turns 30: Berners-Lee 'contract,' thoughts on internet](https://eu.usatoday.com/story/tech/news/2019/03/12/world-wide-web-turns-30-berners-lee-contract-thoughts-internet/3137726002/) 
 ### March 10, 2019 
 - [@kemitchell blog /dev/lawyer - Deprecation Notice: MIT and BSD](https://writing.kemitchell.com/2019/03/09/Deprecation-Notice.html) 
 - [Finding Your Late 20s Depressing? It’s Not You, It’s a Stage](https://medium.com/the-post-grad-survival-guide/finding-your-late-20s-depressing-its-not-you-it-s-a-stage-cbc31fef6b55) 
