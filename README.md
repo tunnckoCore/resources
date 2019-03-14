@@ -64,6 +64,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### March 15, 2019 
+- [What Is 5G? & How 5G Will Change The World! - YouTube](https://www.youtube.com/watch?v=LhECDSuXRDs) 
 ### March 14, 2019 
 - [World Wide Web turns 30: Berners-Lee 'contract,' thoughts on internet](https://eu.usatoday.com/story/tech/news/2019/03/12/world-wide-web-turns-30-berners-lee-contract-thoughts-internet/3137726002/) 
 - [50 PHRASES IN BUSINESS ENGLISH - YouTube](https://www.youtube.com/watch?v=vkmAhUtoyDw) 
