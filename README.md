@@ -66,6 +66,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### March 21, 2019 
+- [Project Code Rush - The Beginnings of Netscape / @Mozilla - Documentary - YouTube](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y) 
 ### March 20, 2019 
 - [Free Speech Flag - Wikipedia](https://en.m.wikipedia.org/wiki/Free_Speech_Flag) 
 ### March 15, 2019 
