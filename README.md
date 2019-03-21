@@ -69,6 +69,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### March 21, 2019 
 - [Project Code Rush - The Beginnings of Netscape / @Mozilla - Documentary - YouTube](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y) 
+- [The Best of Europe’s Web Went Dark Today. We Can’t Let That Be Our Future. | Electronic Frontier Foundation](https://www.eff.org/deeplinks/2019/03/best-europes-web-went-dark-today-we-cant-let-be-our-future) 
 ### March 20, 2019 
 - [Free Speech Flag - Wikipedia](https://en.m.wikipedia.org/wiki/Free_Speech_Flag) 
 ### March 15, 2019 
