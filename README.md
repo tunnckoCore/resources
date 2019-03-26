@@ -68,6 +68,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### March 25, 2019 
+- [Indie Open Source / Public-Private Licensing for Indies](https://indieopensource.com/public-private/indies) 
 ### March 22, 2019 
 - [Opinion | There May Soon Be Three Internets. America’s Won’t Necessarily Be the Best. - The New York Times](https://www.nytimes.com/2018/10/15/opinion/internet-google-china-balkanization.html) 
 - [Biggest discovery of the UTSL (Under the Silver Lake Movie) mystery : underthesilverlake](https://www.reddit.com/r/underthesilverlake/comments/a8ui73/biggest_discovery_of_the_utsl_mystery/) 
