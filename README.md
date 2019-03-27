@@ -69,6 +69,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### March 26, 2019 
+- [301 React Interview Questions & Answers](https://github.com/semlinker/reactjs-interview-questions/blob/master/README-en.md) 
 ### March 25, 2019 
 - [Indie Open Source / Public-Private Licensing for Indies](https://indieopensource.com/public-private/indies) 
 - [Do you really know how a lockfile works for yarn and npm packages? | Snyk](https://snyk.io/blog/making-sense-of-package-lock-files-in-the-npm-ecosystem/) 
