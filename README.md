@@ -70,6 +70,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### March 30, 2019 
+- [Request’s Past, Present and Future · Issue #3142 · request/request](https://github.com/request/request/issues/3142) 
 ### March 26, 2019 
 - [301 React Interview Questions & Answers](https://github.com/semlinker/reactjs-interview-questions/blob/master/README-en.md) 
 ### March 25, 2019 
