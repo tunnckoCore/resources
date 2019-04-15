@@ -71,6 +71,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### April 14, 2019 
+- [for await loops (Part I)](https://boats.gitlab.io/blog/post/for-await-i/) 
 ### March 30, 2019 
 - [Request’s Past, Present and Future · Issue #3142 · request/request](https://github.com/request/request/issues/3142) 
 ### March 26, 2019 
