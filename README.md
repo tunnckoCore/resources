@@ -72,6 +72,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### April 16, 2019 
+- [A reference guide to ZFS on Arch Linux](https://kiljan.org/2018/09/23/a-reference-guide-to-zfs-on-arch-linux/) 
 ### April 14, 2019 
 - [for await loops (Part I)](https://boats.gitlab.io/blog/post/for-await-i/) 
 ### March 30, 2019 
