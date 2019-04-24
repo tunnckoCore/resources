@@ -80,6 +80,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [The Loneliness Epidemic - YouTube](https://www.youtube.com/watch?v=m3aIQuMWJCA) 
 - [NVMe vs. SATA: It's Time for NAND Flash in the Fast Lane](https://www.atpinc.com/blog/nvme-vs-sata-ssd-pcie-interface) 
 - [Samsung Galaxy S10 Plus in DEX Mode - Your future daily driver in 175g. - YouTube](https://www.youtube.com/watch?v=HXj-TxCbpBw) 
+- [Avengers: Endgame Prep - The Marvel MCU Watch Order That'll Get You Up To Speed - GameSpot](https://www.gamespot.com/articles/avengers-endgame-prep-the-marvel-mcu-watch-order-t/1100-6466189/) 
 ### April 16, 2019 
 - [A reference guide to ZFS on Arch Linux](https://kiljan.org/2018/09/23/a-reference-guide-to-zfs-on-arch-linux/) 
 - [Build of LinuxFromScratch experiment: OpenRC + ZFS](https://www.linuxquestions.org/questions/linux-from-scratch-13/new-build-of-lfs-i%27m-experimenting-with-openrc-zfs-b-lfs-4175546201/) 
