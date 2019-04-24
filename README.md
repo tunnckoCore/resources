@@ -74,6 +74,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### April 25, 2019 
+- [Meta Tags in 2019: Why are They Important in SEO? - AWR](https://www.advancedwebranking.com/blog/meta-tags-important-in-seo/) 
 ### April 24, 2019 
 - [Exploring HTML Imports](https://robdodson.me/exploring-html-imports/) 
 - [Becoming an Essentialist - YouTube](https://www.youtube.com/watch?v=h8u4clhDHvQ) 
