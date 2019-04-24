@@ -78,6 +78,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Exploring HTML Imports](https://robdodson.me/exploring-html-imports/) 
 - [Becoming an Essentialist - YouTube](https://www.youtube.com/watch?v=h8u4clhDHvQ) 
 - [The Loneliness Epidemic - YouTube](https://www.youtube.com/watch?v=m3aIQuMWJCA) 
+- [NVMe vs. SATA: It's Time for NAND Flash in the Fast Lane](https://www.atpinc.com/blog/nvme-vs-sata-ssd-pcie-interface) 
 ### April 16, 2019 
 - [A reference guide to ZFS on Arch Linux](https://kiljan.org/2018/09/23/a-reference-guide-to-zfs-on-arch-linux/) 
 - [Build of LinuxFromScratch experiment: OpenRC + ZFS](https://www.linuxquestions.org/questions/linux-from-scratch-13/new-build-of-lfs-i%27m-experimenting-with-openrc-zfs-b-lfs-4175546201/) 
