@@ -76,6 +76,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### April 27, 2019 
+- [Uppy 1.0: Your best friend in file uploading — Uppy](https://uppy.io/blog/2019/04/1.0/) 
 ### April 26, 2019 
 - [HP ML110 G6, CPU and ESXi | Adventures in a Virtual World](https://paulgrevink.wordpress.com/2011/08/09/hp-ml110-g6-cpu-and-esxi/) 
 - [How to Check Bad Sectors or Bad Blocks on Hard Disk in Linux](https://www.tecmint.com/check-linux-hard-disk-bad-sectors-bad-blocks/) 
