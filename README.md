@@ -77,6 +77,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### May 9, 2019 
+- [Ind.ie Blog — Accessible and Responsive HTML5 Video Player](https://2017.ind.ie/blog/accessible-video-player/) 
 ### April 27, 2019 
 - [Uppy 1.0: Your best friend in file uploading — Uppy](https://uppy.io/blog/2019/04/1.0/) 
 ### April 26, 2019 
