@@ -81,6 +81,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### May 20, 2019 
 - [Getting Started with Svelte 3 ← Alligator.io](https://alligator.io/svelte/getting-started-with-svelte/) 
+- [24 Hours with TypeScript – hueniverse](https://hueniverse.com/24-hours-with-typescript-638485d61c87) 
 ### May 9, 2019 
 - [Ind.ie Blog — Accessible and Responsive HTML5 Video Player](https://2017.ind.ie/blog/accessible-video-player/) 
 ### April 27, 2019 
