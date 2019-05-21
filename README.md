@@ -79,6 +79,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### May 21, 2019 
+- [Building an HTML template generator with tailwind.css](https://blog.prototypr.io/building-an-html-template-generator-with-tailwind-css-63e8e4d32562) 
 ### May 20, 2019 
 - [Getting Started with Svelte 3 ← Alligator.io](https://alligator.io/svelte/getting-started-with-svelte/) 
 - [24 Hours with TypeScript – hueniverse](https://hueniverse.com/24-hours-with-typescript-638485d61c87) 
