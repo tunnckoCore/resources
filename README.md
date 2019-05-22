@@ -88,6 +88,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Where should I register my company as a digital nomad? Singapore, Hong Kong? - Business / Money - Digital Nomad Forum](https://nomadlist.com/forum/t/where-should-i-register-my-company-as-a-digital-nomad-singapore-hong-kong/520/11) 
 - [Freedom Surfer - Remote work, jurisdictions, digital nomads, perpetual travelers and location independent entrepreneurs](https://www.freedomsurfer.com/) 
 - [The best country for your online company incorporation | Nomad Capitalist](https://nomadcapitalist.com/2016/05/25/best-country-online-company-incorporation/) 
+- [6 things e-commerce sellers need to know about European VAT](https://blog.edesk.com/resources/european-vat-e-commerce) 
 ### May 21, 2019 
 - [Building an HTML template generator with tailwind.css](https://blog.prototypr.io/building-an-html-template-generator-with-tailwind-css-63e8e4d32562) 
 - [Faster script loading with BinaryAST? - CloudFlare Blog](https://blog.cloudflare.com/binary-ast/?utm_medium=email&utm_source=product-announcement&utm_campaign=speed-week-2019&utm_content=wrap-up&mkt_tok=eyJpIjoiWXpObE5HSTVZemcxTmpZNCIsInQiOiJWSDZ0bXVkN1lMbUtmOHViTHdcL20yTnBMb2VkN2dqamxIbmRLMWhMdlwvXC9VRG1OK2JhWXl5bjRXYUl3eTVHb3ZcL3VGcGE3UHpWcUNxcUI1R2xYbjdmbmp3YjlTUXVMcUl6STdKejE3NkJuaWxsTDFBcUg4VjJUaThIK0pVXC95VmVYIn0%3D) 
