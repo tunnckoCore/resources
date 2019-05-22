@@ -83,6 +83,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### May 22, 2019 
 - [All the biggest questions from Avengers: Endgame, answered - The Verge](https://www.theverge.com/2019/5/9/18537370/avengers-endgame-questions-answered-black-widow-tony-stark-captain-america-how-does-time-travel-work) 
+- [How and Why I Use Emotion with Tailwind - DEV Community 👩‍💻👨‍💻](https://dev.to/lpbayliss/how-and-why-i-use-emotion-with-tailwind-4elj) 
 ### May 21, 2019 
 - [Building an HTML template generator with tailwind.css](https://blog.prototypr.io/building-an-html-template-generator-with-tailwind-css-63e8e4d32562) 
 - [Faster script loading with BinaryAST? - CloudFlare Blog](https://blog.cloudflare.com/binary-ast/?utm_medium=email&utm_source=product-announcement&utm_campaign=speed-week-2019&utm_content=wrap-up&mkt_tok=eyJpIjoiWXpObE5HSTVZemcxTmpZNCIsInQiOiJWSDZ0bXVkN1lMbUtmOHViTHdcL20yTnBMb2VkN2dqamxIbmRLMWhMdlwvXC9VRG1OK2JhWXl5bjRXYUl3eTVHb3ZcL3VGcGE3UHpWcUNxcUI1R2xYbjdmbmp3YjlTUXVMcUl6STdKejE3NkJuaWxsTDFBcUg4VjJUaThIK0pVXC95VmVYIn0%3D) 
