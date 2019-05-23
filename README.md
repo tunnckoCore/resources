@@ -20,6 +20,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Fink About It - Thoughts on Start-ups, VCs, and Life](http://finkabout.it/) 
 - [Why Your Meetings Stink—and What to Do About It](https://hbr.org/2019/01/why-your-meetings-stink-and-what-to-do-about-it) 
 - [PSD2: Strong Customer Authentication: What, when, why, how? - EU in 2019](https://stripe.com/guides/strong-customer-authentication) 
+- [Best place to set up a company selling digital services? - Digital Nomad Forum](https://nomadlist.com/forum/t/best-place-to-set-up-a-company-selling-digital-services/9760/9) 
 ### May 22, 2019 
 - [All the biggest questions from Avengers: Endgame, answered - The Verge](https://www.theverge.com/2019/5/9/18537370/avengers-endgame-questions-answered-black-widow-tony-stark-captain-america-how-does-time-travel-work) 
 - [How and Why I Use Emotion with Tailwind - DEV Community 👩‍💻👨‍💻](https://dev.to/lpbayliss/how-and-why-i-use-emotion-with-tailwind-4elj) 
