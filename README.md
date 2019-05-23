@@ -88,6 +88,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [17 Venture Capital Blogs You Should Be Reading | Bplans](https://articles.bplans.com/17-venture-capital-blogs-you-should-be-reading/) 
 - [11 Angel Investor Blogs You Should Be Reading | Bplans](https://articles.bplans.com/11-angel-investor-blogs-you-should-be-reading/) 
 - [Fink About It - Thoughts on Start-ups, VCs, and Life](http://finkabout.it/) 
+- [Why Your Meetings Stink—and What to Do About It](https://hbr.org/2019/01/why-your-meetings-stink-and-what-to-do-about-it) 
 ### May 22, 2019 
 - [All the biggest questions from Avengers: Endgame, answered - The Verge](https://www.theverge.com/2019/5/9/18537370/avengers-endgame-questions-answered-black-widow-tony-stark-captain-america-how-does-time-travel-work) 
 - [How and Why I Use Emotion with Tailwind - DEV Community 👩‍💻👨‍💻](https://dev.to/lpbayliss/how-and-why-i-use-emotion-with-tailwind-4elj) 
