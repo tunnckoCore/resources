@@ -85,6 +85,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### May 23, 2019 
 - [How to Plan, Start, and Grow a Successful SaaS Company | Bplans](https://articles.bplans.com/the-ultimate-guide-to-starting-a-software-company/) 
 - [17 Venture Capital Blogs You Should Be Reading | Bplans](https://articles.bplans.com/17-venture-capital-blogs-you-should-be-reading/) 
+- [17 Venture Capital Blogs You Should Be Reading | Bplans](https://articles.bplans.com/17-venture-capital-blogs-you-should-be-reading/) 
 ### May 22, 2019 
 - [All the biggest questions from Avengers: Endgame, answered - The Verge](https://www.theverge.com/2019/5/9/18537370/avengers-endgame-questions-answered-black-widow-tony-stark-captain-america-how-does-time-travel-work) 
 - [How and Why I Use Emotion with Tailwind - DEV Community 👩‍💻👨‍💻](https://dev.to/lpbayliss/how-and-why-i-use-emotion-with-tailwind-4elj) 
