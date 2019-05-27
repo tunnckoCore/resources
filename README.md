@@ -13,6 +13,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### May 27, 2019 
+- [Google's Sitemap Ping URL Bug Left Websites Vulnerable](https://www.woorank.com/en/blog/gsc-sitemap-open-redirect) 
 ### May 23, 2019 
 - [How to Plan, Start, and Grow a Successful SaaS Company | Bplans](https://articles.bplans.com/the-ultimate-guide-to-starting-a-software-company/) 
 - [17 Venture Capital Blogs You Should Be Reading | Bplans](https://articles.bplans.com/17-venture-capital-blogs-you-should-be-reading/) 
