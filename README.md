@@ -14,6 +14,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### May 31, 2019 
+- [Enabling Modern JavaScript on npm](https://jasonformat.com/enabling-modern-js-on-npm/) 
 ### May 27, 2019 
 - [Google's Sitemap Ping URL Bug Left Websites Vulnerable](https://www.woorank.com/en/blog/gsc-sitemap-open-redirect) 
 ### May 23, 2019 
