@@ -15,6 +15,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### June 3, 2019 
+- [The economics of open source by C J Silverio | JSConf EU 2019 - YouTube](https://www.youtube.com/watch?v=MO8hZlgK5zc&t=0s) 
 ### May 31, 2019 
 - [Enabling Modern JavaScript on npm](https://jasonformat.com/enabling-modern-js-on-npm/) 
 ### May 27, 2019 
