@@ -19,6 +19,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### June 4, 2019 
 - [npm passes the 1 millionth package milestone! What can we learn? | Snyk](https://snyk.io/blog/npm-passes-the-1-millionth-package-milestone-what-can-we-learn/) 
+- [Dealroom: Bulgaria Could Be The Next DeepTech Capital Of CEE - TrendingTopics.at Bulgaria](https://www.trendingtopics.at/bulgaria/dealroom-bulgaria-could-be-the-next-deeptech-capital-of-cee/) 
 ### June 3, 2019 
 - [The economics of open source by C J Silverio | JSConf EU 2019 - YouTube](https://www.youtube.com/watch?v=MO8hZlgK5zc&t=0s) 
 ### May 31, 2019 
