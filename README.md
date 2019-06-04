@@ -17,6 +17,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### June 5, 2019 
+- [Beyond Static With Gatsby & Apollo (Jason Lengstorf) - YouTube](https://www.youtube.com/watch?v=wNUg1jpj9T0) 
 ### June 4, 2019 
 - [npm passes the 1 millionth package milestone! What can we learn? | Snyk](https://snyk.io/blog/npm-passes-the-1-millionth-package-milestone-what-can-we-learn/) 
 - [Dealroom: Bulgaria Could Be The Next DeepTech Capital Of CEE - TrendingTopics.at Bulgaria](https://www.trendingtopics.at/bulgaria/dealroom-bulgaria-could-be-the-next-deeptech-capital-of-cee/) 
