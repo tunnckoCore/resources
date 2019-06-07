@@ -21,6 +21,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### June 7, 2019 
 - [Edit video by editing text | Stanford News](https://news.stanford.edu/2019/06/05/edit-video-editing-text/) 
+- [GraphQL Full Course - Novice to Expert - YouTube](https://www.youtube.com/watch?v=ed8SzALpx1Q) 
 ### June 5, 2019 
 - [Beyond Static With Gatsby & Apollo (Jason Lengstorf) - YouTube](https://www.youtube.com/watch?v=wNUg1jpj9T0) 
 - [You Belong Here: How to Make Open Source More Open - Jason Lengstorf | JSHeroes 2019 - YouTube](https://www.youtube.com/watch?v=8ARA7AD4yPs&t=2s) 
