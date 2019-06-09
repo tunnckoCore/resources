@@ -22,6 +22,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### June 9, 2019 
 - [/dev/lawyer Quick Read of Tidelift's Lifting Agreement](https://writing.kemitchell.com/2018/09/18/Lifting-Agreement.html) 
+- [License Zero Blog // Enterpriseification](https://blog.licensezero.com/2019/04/24/enterpriseification.html) 
 ### June 7, 2019 
 - [Edit video by editing text | Stanford News](https://news.stanford.edu/2019/06/05/edit-video-editing-text/) 
 - [GraphQL Full Course - Novice to Expert - YouTube](https://www.youtube.com/watch?v=ed8SzALpx1Q) 
