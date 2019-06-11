@@ -24,6 +24,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### June 11, 2019 
 - [How to be cool and make Visual Studio Code (VSCode) transparent - DEV Community 👩‍💻👨‍💻](https://dev.to/emmanuelnk/how-to-be-cool-and-make-vscode-transparent-56ib) 
+- [My i3wm Workflow - YouTube - Wolfgang's Channel](https://www.youtube.com/watch?v=K3HyIaTM-u4) 
 ### June 10, 2019 
 - [Github GPG + Keybase PGP | Ahmad Nassri](https://ahmadnassri.com/blog/github-gpg-keybase-pgp/) 
 ### June 9, 2019 
