@@ -24,6 +24,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### June 14, 2019 
+- [This Phone runs Linux and VSCode - YouTube](https://www.youtube.com/watch?v=PU0cN_HcwMY) 
 ### June 13, 2019 
 - [Importing pgp keys from keybase into gpg](https://www.elliotblackburn.com/importing-pgp-keys-from-keybase-into-gpg/) 
 - [Keychain CLI - Funtoo](https://www.funtoo.org/Keychain) 
