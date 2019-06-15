@@ -25,6 +25,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### June 16, 2019 
+- [Chrome to limit full ad blocking extensions to enterprise users - 9to5Google](https://9to5google.com/2019/05/29/chrome-ad-blocking-enterprise-manifest-v3/) 
 ### June 14, 2019 
 - [This Phone runs Linux and VSCode - YouTube](https://www.youtube.com/watch?v=PU0cN_HcwMY) 
 ### June 13, 2019 
