@@ -29,6 +29,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### June 17, 2019 
 - [Open source license compatibility - GPLv3 and Apache 2.0 | thehyve.nl Blog](http://blog.thehyve.nl/blog/open-source-software-licenses-2) 
+- [The Mozilla Public License Version 2.0: A Good Middle Ground? | Julien Ponge](https://julien.ponge.org/blog/mozilla-public-license-v2-a-good-middleground/) 
 ### June 16, 2019 
 - [Chrome to limit full ad blocking extensions to enterprise users - 9to5Google](https://9to5google.com/2019/05/29/chrome-ad-blocking-enterprise-manifest-v3/) 
 ### June 14, 2019 
