@@ -27,6 +27,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### June 19, 2019 
+- [Building Underground House With Underground Swimming Pool - 2 - YouTube](https://www.youtube.com/watch?v=1slK30YHOUE) 
 ### June 17, 2019 
 - [Open source license compatibility - GPLv3 and Apache 2.0 | thehyve.nl Blog](http://blog.thehyve.nl/blog/open-source-software-licenses-2) 
 - [The Mozilla Public License Version 2.0: A Good Middle Ground? | Julien Ponge](https://julien.ponge.org/blog/mozilla-public-license-v2-a-good-middleground/) 
