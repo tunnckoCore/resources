@@ -32,6 +32,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### June 20, 2019 
 - [Why DNA Data Storage is the Future! - YouTube](https://www.youtube.com/watch?v=aPWA-n9oo4k) 
 - [Microsoft and UW demonstrate first fully automated DNA data storage - YouTube](https://www.youtube.com/watch?v=60Gi5lqL-dA) 
+- [Why DNA Data Storage is the Future | Savjee.be](https://savjee.be/videos/simply-explained/why-dna-data-storage-is-the-future/) 
 ### June 19, 2019 
 - [Building Underground House With Underground Swimming Pool - 2 - YouTube](https://www.youtube.com/watch?v=1slK30YHOUE) 
 ### June 17, 2019 
