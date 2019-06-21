@@ -29,6 +29,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### June 22, 2019 
+- [André Staltz - Software below the poverty line](https://staltz.com/software-below-the-poverty-line.html) 
 ### June 20, 2019 
 - [Why DNA Data Storage is the Future! - YouTube](https://www.youtube.com/watch?v=aPWA-n9oo4k) 
 - [Microsoft and UW demonstrate first fully automated DNA data storage - YouTube](https://www.youtube.com/watch?v=60Gi5lqL-dA) 
