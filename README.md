@@ -30,6 +30,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### June 25, 2019 
+- [New Evidence Suggests Satoshi Nakamoto Is Paul Solotshi, The Creator Of Encryption Software E4M And TrueCrypt](https://www.publish0x.com/jeremy-wall-crypto/new-evidence-suggests-satoshi-nakamoto-paul-solotshi-creator-xgpgkx) 
 ### June 22, 2019 
 - [André Staltz - Software below the poverty line](https://staltz.com/software-below-the-poverty-line.html) 
 - [Let’s build a JavaScript Engine in Rust by Jason Williams | JSConf EU 2019 - YouTube](https://www.youtube.com/watch?v=_uD2pijcSi4&list=TLGGgiJfAzkW0UsyMjA2MjAxOQ) 
