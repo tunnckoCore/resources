@@ -37,6 +37,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Get started with WebAssembly — using only 14 lines of JavaScript](https://www.freecodecamp.org/news/get-started-with-webassembly-using-only-14-lines-of-javascript-b37b6aaca1e4/) 
 - [TypeScript is the bridge between JavaScript and WebAssembly](https://malloc.fi/typescript-bridge-javascript-webassembly) 
 - [20 Rules for Freelance Web Developers – Noteworthy - The Journal Blog](https://blog.usejournal.com/handling-web-development-contracts-with-ease-9cdbda845ace) 
+- [Online Book by Ross Kimbarovsky: Contracts For Software Developers Who Hate Contracts Aug 24.doc](http://rosskimbarovsky.com/contracts-for-software-and-website-developers.pdf) 
 ### June 25, 2019 
 - [New Evidence Suggests Satoshi Nakamoto Is Paul Solotshi, The Creator Of Encryption Software E4M And TrueCrypt](https://www.publish0x.com/jeremy-wall-crypto/new-evidence-suggests-satoshi-nakamoto-paul-solotshi-creator-xgpgkx) 
 ### June 22, 2019 
