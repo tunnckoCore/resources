@@ -32,6 +32,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### June 30, 2019 
+- [Introduction to the Component-based API by Leonardo Losoviz | JSConf.Asia 2019 - YouTube](https://www.youtube.com/watch?v=9pT-q0SSYow) 
 ### June 26, 2019 
 - [Rust in the Browser for JavaScripters: New Frontiers, New Possibilities - YouTube](https://www.youtube.com/watch?v=mmPb-oaIWXw) 
 - [Get started with WebAssembly — using only 14 lines of JavaScript](https://www.freecodecamp.org/news/get-started-with-webassembly-using-only-14-lines-of-javascript-b37b6aaca1e4/) 
