@@ -33,6 +33,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### July 1, 2019 
+- [Destroyer of worlds - How a childhood of anger led the founder of 8chan to create one of the darkest corners of the internet](https://members.tortoisemedia.com/2019/06/29/8chan/content.html) 
 ### June 30, 2019 
 - [Introduction to the Component-based API by Leonardo Losoviz | JSConf.Asia 2019 - YouTube](https://www.youtube.com/watch?v=9pT-q0SSYow) 
 ### June 26, 2019 
