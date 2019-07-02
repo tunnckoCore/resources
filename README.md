@@ -37,6 +37,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### July 2, 2019 
 - [Two Minutes to Midnight - Aperture - YouTube](https://www.youtube.com/watch?v=bsZ37kxrQYg) 
+- [Tsar Bomba, the most Powerful Nuclear Weapon ever Detonated-Documentary HD 2017 - YouTube](https://www.youtube.com/watch?v=qM4ZYQmFGlw) 
 ### July 1, 2019 
 - [Destroyer of worlds - How a childhood of anger led the founder of 8chan to create one of the darkest corners of the internet](https://members.tortoisemedia.com/2019/06/29/8chan/content.html) 
 ### June 30, 2019 
