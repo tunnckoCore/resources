@@ -36,6 +36,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### July 14, 2019 
+- [Styling themes | johno.com](https://johno.com/styling-themes) 
 ### July 7, 2019 
 - ["We create our own demons" - Iron Man 3 / Oscar Wilde - Quora](https://www.quora.com/We-create-our-own-demon-what-does-it-mean-in-real-life-as-dialogue-in-Ironman-3-movie) 
 ### July 2, 2019 
