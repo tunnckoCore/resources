@@ -37,6 +37,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### July 16, 2019 
+- [Generation Z characteristics and its implications for companies | McKinsey](https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/true-gen-generation-z-and-its-implications-for-companies) 
 ### July 14, 2019 
 - [Styling themes | johno.com](https://johno.com/styling-themes) 
 ### July 7, 2019 
