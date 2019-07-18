@@ -43,6 +43,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [#MUSTWATCH! Why I won't work for a company anymore | #grindreel #entrepreneurship - YouTube](https://www.youtube.com/watch?v=MbUvTbD9q4A) 
 - [Company limited by guarantee: what is it?](https://www.informdirect.co.uk/business-management/company-limited-by-guarantee-what-is-it/) 
 - [Company limited by guarantee (part 6 of 8) - YouTube](https://www.youtube.com/watch?v=l-8E_SVQV_Q) 
+- [Can Nonprofits Pay Staff and How Much?](https://www.thebalancesmb.com/can-nonprofits-pay-staff-2501893) 
 ### July 16, 2019 
 - [Generation Z characteristics and its implications for companies | McKinsey](https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/true-gen-generation-z-and-its-implications-for-companies) 
 - [7 Ways Introverts Can Become Master Minglers](https://www.entrepreneur.com/article/248847) 
