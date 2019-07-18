@@ -38,6 +38,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### July 18, 2019 
+- [#MUSTWATCH! Why I won't work for a company anymore | #grindreel #entrepreneurship - YouTube](https://www.youtube.com/watch?v=MbUvTbD9q4A) 
 ### July 16, 2019 
 - [Generation Z characteristics and its implications for companies | McKinsey](https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/true-gen-generation-z-and-its-implications-for-companies) 
 - [7 Ways Introverts Can Become Master Minglers](https://www.entrepreneur.com/article/248847) 
