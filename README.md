@@ -39,6 +39,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### July 22, 2019 
+- [Digital Nomad: the Golden Ticket? | Maxence Poutord](https://www.maxpou.fr/busting-nomad-myths) 
 ### July 18, 2019 
 - [#MUSTWATCH! Why I won't work for a company anymore | #grindreel #entrepreneurship - YouTube](https://www.youtube.com/watch?v=MbUvTbD9q4A) 
 - [Company limited by guarantee: what is it?](https://www.informdirect.co.uk/business-management/company-limited-by-guarantee-what-is-it/) 
