@@ -41,6 +41,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### August 2, 2019 
+- [How To Be Confident In Any Situation - YouTube](https://www.youtube.com/watch?v=KmOAznOQX-g) 
 ### July 25, 2019 
 - [Best Time to Post on Instagram [Updated 2019] | More Likes & Follows](https://www.expertvoice.com/the-best-times-to-post-on-instagram/) 
 - [Unidirectional Data Flow in React](https://flaviocopes.com/react-unidirectional-data-flow/) 
