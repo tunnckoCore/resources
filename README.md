@@ -43,6 +43,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### August 5, 2019 
+- [Creating a Static E-Commerce Website with Snipcart, GatsbyJS and DatoCMS - Snipcart](https://snipcart.com/blog/static-ecommerce-gatsby-datocms) 
 ### August 4, 2019 
 - [Universal Access to Basic Finance - YouTube](https://www.youtube.com/watch?v=Pkgo05Hdnfg) 
 ### August 2, 2019 
