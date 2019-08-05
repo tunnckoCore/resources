@@ -47,6 +47,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### August 5, 2019 
 - [Creating a Static E-Commerce Website with Snipcart, GatsbyJS and DatoCMS - Snipcart](https://snipcart.com/blog/static-ecommerce-gatsby-datocms) 
 - [It’s finally possible to code web apps on an iPad Pro](https://medium.com/@ow/its-finally-possible-to-code-web-apps-on-an-ipad-pro-90ad9c1fb59a) 
+- [Understanding Nits, Lumens, and Brightness on TVs](https://www.lifewire.com/understanding-nits-lumens-brightness-4125499) 
 ### August 4, 2019 
 - [Universal Access to Basic Finance - YouTube](https://www.youtube.com/watch?v=Pkgo05Hdnfg) 
 ### August 2, 2019 
