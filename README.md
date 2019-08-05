@@ -48,6 +48,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Creating a Static E-Commerce Website with Snipcart, GatsbyJS and DatoCMS - Snipcart](https://snipcart.com/blog/static-ecommerce-gatsby-datocms) 
 - [It’s finally possible to code web apps on an iPad Pro](https://medium.com/@ow/its-finally-possible-to-code-web-apps-on-an-ipad-pro-90ad9c1fb59a) 
 - [Understanding Nits, Lumens, and Brightness on TVs](https://www.lifewire.com/understanding-nits-lumens-brightness-4125499) 
+- [“Have you ever seen anything so full of splendor?” – Westworld S2 Review – Confessions From A Geek Mind](https://confessionsfromageekmind.com/2018/06/26/have-you-ever-seen-anything-so-full-of-splendor-westworld-s2-review/) 
 ### August 4, 2019 
 - [Universal Access to Basic Finance - YouTube](https://www.youtube.com/watch?v=Pkgo05Hdnfg) 
 ### August 2, 2019 
