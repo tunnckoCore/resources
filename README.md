@@ -44,6 +44,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### August 8, 2019 
+- [9 Minutes That Every Parent Needs to Listen To | Brilliant Minds Talk - YouTube](https://www.youtube.com/watch?v=HDQmB3IP2jg) 
 ### August 5, 2019 
 - [Creating a Static E-Commerce Website with Snipcart, GatsbyJS and DatoCMS - Snipcart](https://snipcart.com/blog/static-ecommerce-gatsby-datocms) 
 - [It’s finally possible to code web apps on an iPad Pro](https://medium.com/@ow/its-finally-possible-to-code-web-apps-on-an-ipad-pro-90ad9c1fb59a) 
