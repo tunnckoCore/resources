@@ -45,6 +45,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### August 10, 2019 
+- [The Locus Rule - Adopt Internal Locus of Control - YouTube](https://www.youtube.com/watch?v=8ZhoeSaPF-k) 
 ### August 8, 2019 
 - [9 Minutes That Every Parent Needs to Listen To | Brilliant Minds Talk - YouTube](https://www.youtube.com/watch?v=HDQmB3IP2jg) 
 ### August 5, 2019 
