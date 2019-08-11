@@ -52,6 +52,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Apache v2.0 is the Perfect license · Issue #131 (Swift) · PerfectlySoft/Perfect](https://github.com/PerfectlySoft/Perfect/issues/131) 
 - [AGPL can't realistically apply to browser code · Issue #24 · liftoff/GateOne](https://github.com/liftoff/GateOne/issues/24) 
 - [Handsontable - 5 Successful Business Models for Web-Based Open-Source Projects](https://handsontable.com/blog/articles/2016/3/5-successful-business-models-for-web-based-open-source-projects) 
+- [GPL with Oracle Universal FOSS Exception](https://oss.oracle.com/licenses/universal-foss-exception/) 
 ### August 10, 2019 
 - [The Locus Rule - Adopt Internal Locus of Control - YouTube](https://www.youtube.com/watch?v=8ZhoeSaPF-k) 
 ### August 8, 2019 
