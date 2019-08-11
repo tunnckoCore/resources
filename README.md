@@ -49,6 +49,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### August 11, 2019 
 - [Dual Licensing: Having Your Cake and Eating It Too | News | LinuxInsider](https://www.linuxinsider.com/story/38172.html) 
+- [Apache v2.0 is the Perfect license · Issue #131 (Swift) · PerfectlySoft/Perfect](https://github.com/PerfectlySoft/Perfect/issues/131) 
 ### August 10, 2019 
 - [The Locus Rule - Adopt Internal Locus of Control - YouTube](https://www.youtube.com/watch?v=8ZhoeSaPF-k) 
 ### August 8, 2019 
