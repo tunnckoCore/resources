@@ -54,6 +54,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Handsontable - 5 Successful Business Models for Web-Based Open-Source Projects](https://handsontable.com/blog/articles/2016/3/5-successful-business-models-for-web-based-open-source-projects) 
 - [GPL with Oracle Universal FOSS Exception](https://oss.oracle.com/licenses/universal-foss-exception/) 
 - [Making $15K/Month By Switching My Freemium Product to Paid - Indie Hackers](https://www.indiehackers.com/interview/making-15k-month-by-switching-my-freemium-product-to-paid-2771241389) 
+- [Implications of using GPL-licensed client-side JavaScript | Eugene Greendrake](http://greendrake.info/#nfy0) 
 ### August 10, 2019 
 - [The Locus Rule - Adopt Internal Locus of Control - YouTube](https://www.youtube.com/watch?v=8ZhoeSaPF-k) 
 ### August 8, 2019 
