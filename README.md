@@ -47,6 +47,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### August 14, 2019 
+- [Photography Basics: What Is ISO? - YouTube](https://www.youtube.com/watch?v=z_3ZyAX_3gY&t=5) 
 ### August 11, 2019 
 - [Dual Licensing: Having Your Cake and Eating It Too | News | LinuxInsider](https://www.linuxinsider.com/story/38172.html) 
 - [Apache v2.0 is the Perfect license · Issue #131 (Swift) · PerfectlySoft/Perfect](https://github.com/PerfectlySoft/Perfect/issues/131) 
