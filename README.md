@@ -48,6 +48,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### August 16, 2019 
+- [The Contrepreneur Formula Exposed - YouTube](https://www.youtube.com/watch?v=vC5cmW8O3L8) 
 ### August 14, 2019 
 - [Photography Basics: What Is ISO? - YouTube](https://www.youtube.com/watch?v=z_3ZyAX_3gY&t=5) 
 - [Flow Desktop for Android Q - progress update! - YouTube](https://www.youtube.com/watch?time_continue=341&v=0tJGo8fbi8I) 
