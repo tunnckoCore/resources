@@ -53,6 +53,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### August 19, 2019 
 - [The RAUSIS Technique for Lucid Dreams: Complete Tutorial](https://howtolucid.com/rausis-method/) 
 - [8 Insanely Powerful Lucid Dreaming Tactics For 2018](https://www.world-of-lucid-dreaming.com/) 
+- [How to be like in more productive & creative - The Man Blueprint](https://themanblueprint.com/2019/05/06/create-limitless-pill-nzt-48/) 
 ### August 16, 2019 
 - [The Contrepreneur Formula Exposed - YouTube](https://www.youtube.com/watch?v=vC5cmW8O3L8) 
 ### August 14, 2019 
