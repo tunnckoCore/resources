@@ -49,6 +49,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### August 19, 2019 
+- [The RAUSIS Technique for Lucid Dreams: Complete Tutorial](https://howtolucid.com/rausis-method/) 
 ### August 16, 2019 
 - [The Contrepreneur Formula Exposed - YouTube](https://www.youtube.com/watch?v=vC5cmW8O3L8) 
 ### August 14, 2019 
