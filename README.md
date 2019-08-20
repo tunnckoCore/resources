@@ -50,6 +50,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### August 20, 2019 
+- [Chernobyl: Two Days in the Exclusion Zone - YouTube](https://www.youtube.com/watch?v=AdgVcL3Xlkk) 
 ### August 19, 2019 
 - [The RAUSIS Technique for Lucid Dreams: Complete Tutorial](https://howtolucid.com/rausis-method/) 
 - [8 Insanely Powerful Lucid Dreaming Tactics For 2018](https://www.world-of-lucid-dreaming.com/) 
