@@ -51,6 +51,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### August 24, 2019 
+- [Avengers Campus: Marvel Theme Park Info Revealed at D23 Expo](https://io9.gizmodo.com/everything-we-just-learned-about-avengers-campus-disne-1837451242) 
 ### August 20, 2019 
 - [Chernobyl: Two Days in the Exclusion Zone - YouTube](https://www.youtube.com/watch?v=AdgVcL3Xlkk) 
 - [Andreas M. Antonopoulos: Another Brick in the Firewall - YouTube](https://www.youtube.com/watch?v=tohIX-m4ZD8) 
