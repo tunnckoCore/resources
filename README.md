@@ -53,6 +53,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### August 29, 2019 
+- [Recap of the `funding` experiment » Feross.org](https://feross.org/funding-experiment-recap/) 
 ### August 25, 2019 
 - [Цветан Недялков – „Always With Me, Always With You“ | Шоуто на Слави](https://www.slavishow.com/%D1%86%D0%B2%D0%B5%D1%82%D0%B0%D0%BD-%D0%BD%D0%B5%D0%B4%D1%8F%D0%BB%D0%BA%D0%BE%D0%B2-always-with-me-always-with-you/) 
 ### August 24, 2019 
