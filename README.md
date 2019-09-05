@@ -55,6 +55,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### September 5, 2019 
+- [Kim Scott: Radical Candor - YouTube](https://www.youtube.com/watch?v=Bh-pG27cHtw) 
 ### August 30, 2019 
 - [Wealth: A New Era of Economics - By @amark (Mark Nadal) on Hackernoon](https://hackernoon.com/wealth-a-new-era-of-economics-ce8acd785441) 
 ### August 29, 2019 
