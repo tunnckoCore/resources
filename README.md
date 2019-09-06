@@ -56,6 +56,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### September 6, 2019 
+- [RSA ANIMATE: Drive: The surprising truth about what motivates us - YouTube](https://www.youtube.com/watch?v=u6XAPnuFjJc) 
 ### September 5, 2019 
 - [Kim Scott: Radical Candor - YouTube](https://www.youtube.com/watch?v=Bh-pG27cHtw) 
 - [Radical Candor — The Surprising Secret to Being a Good Boss | First Round Review - YouTube](https://www.youtube.com/watch?v=4yODalLQ2lM) 
