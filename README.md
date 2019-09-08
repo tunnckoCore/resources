@@ -58,6 +58,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### September 9, 2019 
+- [Build a JS Interpreter in JavaScript Using Acorn as a Parser](https://blog.bitsrc.io/build-a-js-interpreter-in-javascript-using-acorn-as-a-parser-5487bb53390c) 
 ### September 8, 2019 
 - [JavaScript context: Should you care about the license? (TL;DR: yes!) - Vova Bilonenko - Medium](https://medium.com/@vovabilonenko/licenses-of-npm-dependencies-bacaa00c8c65) 
 ### September 6, 2019 
