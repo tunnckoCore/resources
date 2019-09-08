@@ -59,7 +59,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 ### September 8, 2019 
-- [Should you care about the license? (TL;DR: yes!) - Vova Bilonenko - Medium](https://medium.com/@vovabilonenko/licenses-of-npm-dependencies-bacaa00c8c65) 
+- [JavaScript context: Should you care about the license? (TL;DR: yes!) - Vova Bilonenko - Medium](https://medium.com/@vovabilonenko/licenses-of-npm-dependencies-bacaa00c8c65) 
 ### September 6, 2019 
 - [RSA ANIMATE: Drive: The surprising truth about what motivates us - YouTube](https://www.youtube.com/watch?v=u6XAPnuFjJc) 
 - [🌞 Managing Life & Gatsby with Jason Lengstorf (@jlengstorf) - YouTube](https://www.youtube.com/watch?v=C4LRo8c9Slc) 
