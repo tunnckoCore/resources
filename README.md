@@ -63,6 +63,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Build a JS Interpreter in JavaScript Using Acorn as a Parser](https://blog.bitsrc.io/build-a-js-interpreter-in-javascript-using-acorn-as-a-parser-5487bb53390c) 
 - [In Which Country Should I Incorporate My Company? UK vs US | Seedcamp](http://seedcamp.com/resources/in-which-country-should-i-incorporate-my-company/) 
 - [Brexit: All you need to know about the UK leaving the EU - BBC News](https://www.bbc.com/news/uk-politics-32810887) 
+- [Getting Started with GraphQL: It’s pretty easy! - Level Up Coding](https://levelup.gitconnected.com/getting-started-with-graphql-its-pretty-easy-3ea803426298) 
 ### September 8, 2019 
 - [JavaScript context: Should you care about the license? (TL;DR: yes!) - Vova Bilonenko - Medium](https://medium.com/@vovabilonenko/licenses-of-npm-dependencies-bacaa00c8c65) 
 ### September 6, 2019 
