@@ -59,6 +59,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### September 10, 2019 
+- [5 Handy Applications of JavaScript Array.from()](https://dmitripavlutin.com/javascript-array-from-applications/) 
 ### September 9, 2019 
 - [Build a JS Interpreter in JavaScript Using Acorn as a Parser](https://blog.bitsrc.io/build-a-js-interpreter-in-javascript-using-acorn-as-a-parser-5487bb53390c) 
 - [In Which Country Should I Incorporate My Company? UK vs US | Seedcamp](http://seedcamp.com/resources/in-which-country-should-i-incorporate-my-company/) 
