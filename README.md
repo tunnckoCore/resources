@@ -65,6 +65,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Git Flow Like a Pro! - YouTube](https://www.youtube.com/watch?v=BYrt6luynCI) 
 - [Intro to deployment strategies: blue-green, canary, and more - DEV Community 👩‍💻👨‍💻](https://dev.to/mostlyjason/intro-to-deployment-strategies-blue-green-canary-and-more-3a3) 
 - [End-to-End Integrity with IPFS | CloudFlare Blog](https://blog.cloudflare.com/e2e-integrity/) 
+- [KeySpace: End-to-End Encryption Using Ethereum and IPFS | Fluidity Blog](https://medium.com/fluidity/keyspace-end-to-end-encryption-using-ethereum-and-ipfs-87b04b18156b) 
 ### September 9, 2019 
 - [Build a JS Interpreter in JavaScript Using Acorn as a Parser](https://blog.bitsrc.io/build-a-js-interpreter-in-javascript-using-acorn-as-a-parser-5487bb53390c) 
 - [In Which Country Should I Incorporate My Company? UK vs US | Seedcamp](http://seedcamp.com/resources/in-which-country-should-i-incorporate-my-company/) 
