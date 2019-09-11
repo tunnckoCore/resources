@@ -60,6 +60,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### September 11, 2019 
+- [Moving Your JavaScript Development To Bash On Windows (by @burkeholland) — Smashing Magazine](https://www.smashingmagazine.com/2019/09/moving-javascript-development-bash-windows/) 
 ### September 10, 2019 
 - [5 Handy Applications of JavaScript Array.from()](https://dmitripavlutin.com/javascript-array-from-applications/) 
 - [Git Flow Like a Pro! - YouTube](https://www.youtube.com/watch?v=BYrt6luynCI) 
