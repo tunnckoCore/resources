@@ -61,6 +61,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### September 12, 2019 
+- [How We Organize GitHub Issues - A Styleguide For Tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/) 
 ### September 11, 2019 
 - [Moving Your JavaScript Development To Bash On Windows (by @burkeholland) — Smashing Magazine](https://www.smashingmagazine.com/2019/09/moving-javascript-development-bash-windows/) 
 ### September 10, 2019 
