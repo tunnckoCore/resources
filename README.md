@@ -63,6 +63,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### September 15, 2019 
+- [The 5 Big Features of TypeScript 3.7 and How to Use Them](https://httptoolkit.tech/blog/5-big-features-of-typescript-3.7/) 
 ### September 14, 2019 
 - [A successful Git branching model (Git Flow) » nvie.com](https://nvie.com/posts/a-successful-git-branching-model/) 
 ### September 12, 2019 
