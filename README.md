@@ -65,6 +65,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### September 17, 2019 
+- [Learn Visual Studio Code Productivity Tips from Burke Holland](https://frontendmasters.com/workshops/visual-studio-code/) 
 ### September 16, 2019 
 - [swyx (@sw-yx) Writing | Why JavaScript Tooling Sucks](https://www.swyx.io/writing/js-tooling/) 
 - [Household Debt to Surpass 2008 Peak by $1 Trillion](https://www.prnewswire.com/news-releases/household-debt-to-surpass-2008-peak-by-1-trillion-300670262.html) 
