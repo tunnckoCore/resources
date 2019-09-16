@@ -64,6 +64,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### September 16, 2019 
+- [swyx (@sw-yx) Writing | Why JavaScript Tooling Sucks](https://www.swyx.io/writing/js-tooling/) 
 ### September 15, 2019 
 - [The 5 Big Features of TypeScript 3.7 and How to Use Them](https://httptoolkit.tech/blog/5-big-features-of-typescript-3.7/) 
 ### September 14, 2019 
