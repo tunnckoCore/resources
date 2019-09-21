@@ -69,6 +69,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### September 22, 2019 
 - [Global Climate Strike - YouTube](https://www.youtube.com/watch?v=Ff_0n205Bs8) 
+- [The disarming case to act right now on climate change | Greta Thunberg - YouTube](https://www.youtube.com/watch?v=H2QxFM9y0tY) 
 ### September 17, 2019 
 - [Learn Visual Studio Code Productivity Tips from Burke Holland](https://frontendmasters.com/workshops/visual-studio-code/) 
 ### September 16, 2019 
