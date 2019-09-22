@@ -72,6 +72,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [The disarming case to act right now on climate change | Greta Thunberg - YouTube](https://www.youtube.com/watch?v=H2QxFM9y0tY) 
 - [This Harvard Professor Explains the Secret to Aging in Reverse | David Sinclair on Health Theory - YouTube](https://www.youtube.com/watch?v=IEz1P4i1P7s) 
 - [Open Source Spotlight: fullPage.JS with Álvaro Trigo](https://www.browserstack.com/blog/open-source-spotlight-fullpage-js-alvaro-trigo/) 
+- [Building a new Internet: The bold plan to decentralize the web](https://www.nbcnews.com/video/building-a-new-internet-the-bold-plan-to-decentralize-the-web-63742021851?cid=sm_npd_nn_tw_ma) 
 ### September 17, 2019 
 - [Learn Visual Studio Code Productivity Tips from Burke Holland](https://frontendmasters.com/workshops/visual-studio-code/) 
 ### September 16, 2019 
