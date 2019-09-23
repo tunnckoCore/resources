@@ -67,6 +67,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### September 23, 2019 
+- [The Right to a Future, with Naomi Klein and Greta Thunberg - YouTube](https://www.youtube.com/watch?v=v5_dxzV9MTk) 
 ### September 22, 2019 
 - [Global Climate Strike - YouTube](https://www.youtube.com/watch?v=Ff_0n205Bs8) 
 - [The disarming case to act right now on climate change | Greta Thunberg - YouTube](https://www.youtube.com/watch?v=H2QxFM9y0tY) 
