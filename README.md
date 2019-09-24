@@ -68,6 +68,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### September 24, 2019 
+- [Playlist - The Complete Guide to FaunaDB on @eggheadio](https://egghead.io/playlists/the-complete-guide-to-faunadb-74bef44b) 
 ### September 23, 2019 
 - [The Right to a Future, with Naomi Klein and Greta Thunberg - YouTube](https://www.youtube.com/watch?v=v5_dxzV9MTk) 
 ### September 22, 2019 
