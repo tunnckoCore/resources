@@ -69,6 +69,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### September 27, 2019 
+- [How to be an open source gardener](https://words.steveklabnik.com/how-to-be-an-open-source-gardener) 
 ### September 24, 2019 
 - [Playlist - The Complete Guide to FaunaDB on @eggheadio](https://egghead.io/playlists/the-complete-guide-to-faunadb-74bef44b) 
 ### September 23, 2019 
