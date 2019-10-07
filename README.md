@@ -70,6 +70,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### October 7, 2019 
+- [Evaluating JavaScript code via `import()`](https://2ality.com/2019/10/eval-via-import.html) 
 ### September 27, 2019 
 - [How to be an open source gardener](https://words.steveklabnik.com/how-to-be-an-open-source-gardener) 
 ### September 24, 2019 
