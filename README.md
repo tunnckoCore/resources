@@ -71,6 +71,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### October 12, 2019 
+- [One Of A Kind: Why Bitcoin is 'The Next Bitcoin' - YouTube | @aantonop](https://www.youtube.com/watch?v=p0ftZgCEZos) 
 ### October 7, 2019 
 - [Evaluating JavaScript code via `import()`](https://2ality.com/2019/10/eval-via-import.html) 
 ### September 27, 2019 
