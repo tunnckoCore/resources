@@ -72,6 +72,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### October 22, 2019 
+- [CS-bg.info • What "Charlike Mike Reagent" means.](https://cs-bg.info/forum/viewtopic.php?f=4&t=103947&p=1038128&hilit=char+#p1038128) 
 ### October 12, 2019 
 - [One Of A Kind: Why Bitcoin is 'The Next Bitcoin' - YouTube | @aantonop](https://www.youtube.com/watch?v=p0ftZgCEZos) 
 ### October 7, 2019 
