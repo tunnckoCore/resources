@@ -73,6 +73,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### October 23, 2019 
+- [A horrifying `globalThis` polyfill in universal JavaScript · Mathias Bynens](https://mathiasbynens.be/notes/globalthis) 
 ### October 22, 2019 
 - [CS-bg.info • What "Charlike Mike Reagent" means.](https://cs-bg.info/forum/viewtopic.php?f=4&t=103947&p=1038128&hilit=char+#p1038128) 
 ### October 12, 2019 
