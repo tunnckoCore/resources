@@ -77,6 +77,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### October 25, 2019 
 - [Permanent URL Hijack Through 301 HTTP Redirect Cache Poisoning – duszynski.eu – Piotr Duszyński - Personal Blog](https://blog.duszynski.eu/domain-hijack-through-http-301-cache-poisoning/) 
+- [HTTP 301 Cache Poisoning In Practice on Vimeo](https://vimeo.com/337756409?quality=1080p) 
 ### October 23, 2019 
 - [A horrifying `globalThis` polyfill in universal JavaScript · Mathias Bynens](https://mathiasbynens.be/notes/globalthis) 
 ### October 22, 2019 
