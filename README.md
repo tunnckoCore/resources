@@ -75,6 +75,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### October 27, 2019 
+- [(13) Joe Rogan Experience #1368 - Edward Snowden - YouTube](https://www.youtube.com/watch?v=efs3QRr8LWw) 
 ### October 25, 2019 
 - [Permanent URL Hijack Through 301 HTTP Redirect Cache Poisoning – duszynski.eu – Piotr Duszyński - Personal Blog](https://blog.duszynski.eu/domain-hijack-through-http-301-cache-poisoning/) 
 - [HTTP 301 Cache Poisoning In Practice on Vimeo](https://vimeo.com/337756409?quality=1080p) 
