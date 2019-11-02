@@ -76,6 +76,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### November 2, 2019 
+- [babel/available-plugins.js at master · babel/babel](https://github.com/babel/babel/blob/master/packages/babel-preset-env/src/available-plugins.js) 
 ### October 27, 2019 
 - [(13) Joe Rogan Experience #1368 - Edward Snowden - YouTube](https://www.youtube.com/watch?v=efs3QRr8LWw) 
 ### October 25, 2019 
