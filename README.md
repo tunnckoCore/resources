@@ -77,6 +77,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### November 3, 2019 
+- [javascript - What Does Webpack 4 Expect From A Package With sideEffects: false - Stack Overflow](https://stackoverflow.com/questions/49160752/what-does-webpack-4-expect-from-a-package-with-sideeffects-false/49203452#49203452) 
 ### November 2, 2019 
 - [babel/available-plugins.js at master · babel/babel](https://github.com/babel/babel/blob/master/packages/babel-preset-env/src/available-plugins.js) 
 ### October 27, 2019 
