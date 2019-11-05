@@ -85,6 +85,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [How to use V.S Code like a pro? - Club DevBytes - Medium](https://medium.com/club-devbytes/how-to-use-v-s-code-like-a-pro-fb030dfc9a72) 
 - [Microsoft's 4 day workweek led to 40% boost in productivity - Business Insider](https://www.businessinsider.com/microsoft-4-day-work-week-boosts-productivity-2019-11) 
 - [Benefits of gradual strong typing in JavaScript | Tiny Resources](https://go.tiny.cloud/blog/benefits-of-gradual-strong-typing-in-javascript/) 
+- [TypeScript is a waste of time. Change my mind. - DEV Community 👩‍💻👨‍💻](https://dev.to/bettercodingacademy/typescript-is-a-waste-of-time-change-my-mind-pi8) 
 ### November 3, 2019 
 - [javascript - What Does Webpack 4 Expect From A Package With sideEffects: false - Stack Overflow](https://stackoverflow.com/questions/49160752/what-does-webpack-4-expect-from-a-package-with-sideeffects-false/49203452#49203452) 
 - [Diablo IV Announce Cinematic | By Three They Come - YouTube](https://www.youtube.com/watch?v=9bRWIdOMfro) 
