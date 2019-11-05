@@ -81,6 +81,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### November 5, 2019 
 - [(25) Auribus teneo lupum - YouTube](https://www.youtube.com/watch?v=Uj4axmNVn8Y) 
+- [20 Latin Phrases You Should Be Using | Mental Floss](https://www.mentalfloss.com/article/57898/20-latin-phrases-you-should-be-using) 
 ### November 3, 2019 
 - [javascript - What Does Webpack 4 Expect From A Package With sideEffects: false - Stack Overflow](https://stackoverflow.com/questions/49160752/what-does-webpack-4-expect-from-a-package-with-sideeffects-false/49203452#49203452) 
 - [Diablo IV Announce Cinematic | By Three They Come - YouTube](https://www.youtube.com/watch?v=9bRWIdOMfro) 
