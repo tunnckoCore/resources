@@ -1,8 +1,10 @@
-# Awesome Resources [![Become a Patron][patreon-img]][patreon-url]
+# Awesome Resources [![Become a Patron][patreon-img]][patreon-url] [![ko-fi.com buy me a coffee][kofi-img]][kofi-url] 
 
 
 [patreon-url]: https://www.patreon.com/bePatron?u=5579781
 [patreon-img]: https://badgen.net/badge/become/a%20patron/F96854?icon=patreon 
+[kofi-url]: https://ko-fi.com/tunnckocore?a=A220YCY
+[kofi-img]: https://badgen.net/badge/buy%20me/a%20coffee/29ABE0?icon=kofi 
 
 Collection of links of Tech, Science, Conferences, Videos and much more resources from everyday surfing.
 
