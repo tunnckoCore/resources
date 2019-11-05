@@ -87,6 +87,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Benefits of gradual strong typing in JavaScript | Tiny Resources](https://go.tiny.cloud/blog/benefits-of-gradual-strong-typing-in-javascript/) 
 - [TypeScript is a waste of time. Change my mind. - DEV Community 👩‍💻👨‍💻](https://dev.to/bettercodingacademy/typescript-is-a-waste-of-time-change-my-mind-pi8) 
 - [Announcing TypeScript 3.7 | TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-3-7/) 
+- [Pitfalls of transpiling JavaScript code with babel - DEV Community 👩‍💻👨‍💻](https://dev.to/bseber/pitfalls-of-transpiling-javascript-code-with-babel-5c4c) 
 ### November 3, 2019 
 - [javascript - What Does Webpack 4 Expect From A Package With sideEffects: false - Stack Overflow](https://stackoverflow.com/questions/49160752/what-does-webpack-4-expect-from-a-package-with-sideeffects-false/49203452#49203452) 
 - [Diablo IV Announce Cinematic | By Three They Come - YouTube](https://www.youtube.com/watch?v=9bRWIdOMfro) 
