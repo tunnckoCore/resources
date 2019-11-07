@@ -15,6 +15,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### November 8, 2019 
+- [All About Favicons (And Touch Icons)](https://bitsofco.de/all-about-favicons-and-touch-icons/) 
 ### November 7, 2019 
 - [DNS-over-HTTPS Is The Wrong Partial Solution | Hackaday](https://hackaday.com/2019/10/21/dns-over-https-is-the-wrong-partial-solution/) 
 - [Vision Keynote Highlights - Azure Arc & Quantum Project Silicia & Cortex  | Microsoft Ignite 2019 - YouTube](https://www.youtube.com/watch?v=RibuBbifziY) 
