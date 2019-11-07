@@ -14,6 +14,9 @@ I'll will add them to the list once i finish them.
 _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing support and :hearts: or hit :eyes: _(watch)_ for staying tuned. Thanks!
 
 
+
+### November 7, 2019 
+- [DNS-over-HTTPS Is The Wrong Partial Solution | Hackaday](https://hackaday.com/2019/10/21/dns-over-https-is-the-wrong-partial-solution/) 
 ### November 5, 2019 
 - [Auribus teneo lupum - YouTube](https://www.youtube.com/watch?v=Uj4axmNVn8Y) 
 - [20 Latin Phrases You Should Be Using | Mental Floss](https://www.mentalfloss.com/article/57898/20-latin-phrases-you-should-be-using) 
