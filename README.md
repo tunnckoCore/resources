@@ -16,6 +16,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### November 9, 2019 
+- [40 Linux Server Hardening Security Tips [2019 edition] - nixCraft](https://www.cyberciti.biz/tips/linux-security.html) 
 ### November 8, 2019 
 - [All About Favicons (And Touch Icons)](https://bitsofco.de/all-about-favicons-and-touch-icons/) 
 - [What the Heck Are Variable Fonts? (with Jason Pamental @jpamental) — Learn With Jason @jlengstorf  - YouTube](https://www.youtube.com/watch?v=ZDjIFGfrQKw&t=0s) 
