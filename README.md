@@ -20,6 +20,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### November 18, 2019 
 - [The Next CSS Frontier — Classless - Noteworthy - The Journal Blog](https://blog.usejournal.com/the-next-css-frontier-classless-5e66f3f25fdd) 
+- [Predicting the Future of the Web (2020 and 2025) - YouTube](https://www.youtube.com/watch?v=24tQRwIRP_w&t=491s) 
 ### November 9, 2019 
 - [40 Linux Server Hardening Security Tips [2019 edition] - nixCraft](https://www.cyberciti.biz/tips/linux-security.html) 
 ### November 8, 2019 
