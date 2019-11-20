@@ -18,6 +18,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### November 20, 2019 
+- [Leaving Linux for Mac After 15 Years - By Austin Pocus](https://hackernoon.com/leaving-linux-for-mac-after-15-years-hbe627b1) 
 ### November 18, 2019 
 - [The Next CSS Frontier — Classless - Noteworthy - The Journal Blog](https://blog.usejournal.com/the-next-css-frontier-classless-5e66f3f25fdd) 
 - [Predicting the Future of the Web (2020 and 2025) - YouTube](https://www.youtube.com/watch?v=24tQRwIRP_w&t=491s) 
