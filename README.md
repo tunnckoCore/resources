@@ -19,6 +19,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### November 22, 2019 
+- [Announcing core Node.js support for ECMAScript modules](https://medium.com/@nodejs/announcing-core-node-js-support-for-ecmascript-modules-c5d6dc29b663) 
 ### November 20, 2019 
 - [Leaving Linux for Mac After 15 Years - By Austin Pocus](https://hackernoon.com/leaving-linux-for-mac-after-15-years-hbe627b1) 
 - [Advancing the web framework ecosystem (Chrome Dev Summit 2019) - YouTube](https://www.youtube.com/watch?v=QDljY2I1Pfw&t=16m26s) 
