@@ -20,6 +20,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### November 23, 2019 
+- [Faster apps with JSON.parse (Chrome Dev Summit 2019) - YouTube](https://www.youtube.com/watch?v=ff4fgQxPaO0) 
 ### November 22, 2019 
 - [Announcing core Node.js support for ECMAScript modules](https://medium.com/@nodejs/announcing-core-node-js-support-for-ecmascript-modules-c5d6dc29b663) 
 ### November 20, 2019 
