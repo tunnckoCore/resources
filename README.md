@@ -21,6 +21,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### November 26, 2019 
+- [The Top 5 Skills Recruiters Need Today - YouTube](https://www.youtube.com/watch?v=PLNn559ut0w) 
 ### November 23, 2019 
 - [Faster apps with JSON.parse (Chrome Dev Summit 2019) - YouTube](https://www.youtube.com/watch?v=ff4fgQxPaO0) 
 ### November 22, 2019 
