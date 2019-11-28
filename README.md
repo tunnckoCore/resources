@@ -22,6 +22,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### November 28, 2019 
+- [Benefits of transferring TypeScript types to DefinitelyTyped](https://levelup.gitconnected.com/benefits-of-transferring-types-to-definitelytyped-20b45141554) 
 ### November 26, 2019 
 - [The Top 5 Skills Recruiters Need Today - YouTube](https://www.youtube.com/watch?v=PLNn559ut0w) 
 ### November 23, 2019 
