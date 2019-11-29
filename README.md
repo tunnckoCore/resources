@@ -26,6 +26,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### November 29, 2019 
 - [André Staltz on Manyverse, a decentralized social network](https://www.sourcesort.com/interview/andre-staltz-manyverse) 
+- [Мисловните карти на Бюзан – инструмент за бързо запаметяване | Psychology Framar.bg](https://psychology.framar.bg/%D0%BC%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D1%82%D0%B5-%D0%BA%D0%B0%D1%80%D1%82%D0%B8-%D0%BD%D0%B0-%D0%B1%D1%8E%D0%B7%D0%B0%D0%BD-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82-%D0%B7%D0%B0-%D0%B1%D1%8A%D1%80%D0%B7%D0%BE-%D0%B7%D0%B0%D0%BF%D0%B0%D0%BC%D0%B5%D1%82%D1%8F%D0%B2%D0%B0%D0%BD%D0%B5?fbclid=IwAR2RLT7cOTmjYEJWg26w-nnqXKdKQlmoFFAuxT1tkUmzncJTZCXD-iG-O0c) 
 ### November 28, 2019 
 - [Benefits of transferring TypeScript types to DefinitelyTyped](https://levelup.gitconnected.com/benefits-of-transferring-types-to-definitelytyped-20b45141554) 
 ### November 26, 2019 
