@@ -29,6 +29,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### December 6, 2019 
 - [Global Financial Meltdown - One Of The Best Financial Crisis Documentary Films - YouTube](https://www.youtube.com/watch?v=VQzEWeGJLP0&t=2076s) 
 - [New Money - The Greatest Wealth Creation Event in History (2019) - Full Documentary - YouTube](https://www.youtube.com/watch?v=CaELQS5kTso&t=9s) 
+- [The Fed has been injecting hundreds of billions into markets since September's rate crisis. Here's why it might not be enough to calm lending conditions. | Markets Insider](https://markets.businessinsider.com/news/stocks/why-fed-repos-capital-injections-might-not-calm-liquidity-fears-2019-10-1028643549#-sweet-deal-incentives3) 
 ### December 4, 2019 
 - [ВАНГА СРЕЩУ АЙНЩАЙН (Vanga vs Einstein) - YouTube](https://www.youtube.com/watch?v=tL9bJZKuvzg&t=451s) 
 ### November 29, 2019 
