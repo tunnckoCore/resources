@@ -25,6 +25,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### December 6, 2019 
+- [Global Financial Meltdown - One Of The Best Financial Crisis Documentary Films - YouTube](https://www.youtube.com/watch?v=VQzEWeGJLP0&t=2076s) 
 ### December 4, 2019 
 - [ВАНГА СРЕЩУ АЙНЩАЙН (Vanga vs Einstein) - YouTube](https://www.youtube.com/watch?v=tL9bJZKuvzg&t=451s) 
 ### November 29, 2019 
