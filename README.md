@@ -31,6 +31,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [New Money - The Greatest Wealth Creation Event in History (2019) - Full Documentary - YouTube](https://www.youtube.com/watch?v=CaELQS5kTso) 
 - [The Fed has been injecting hundreds of billions into markets since September's rate crisis. Here's why it might not be enough to calm lending conditions. | Markets Insider](https://markets.businessinsider.com/news/stocks/why-fed-repos-capital-injections-might-not-calm-liquidity-fears-2019-10-1028643549#-sweet-deal-incentives3) 
 
+- [Тази сутрин - 06. 12. 2019 г. - bTV Plus](https://btvplus.bg/produkt/predavaniya/21639/tazi-sutrin/tazi-sutrin-06-12-2019-g) 
 ### December 4, 2019 
 - [ВАНГА СРЕЩУ АЙНЩАЙН (Vanga vs Einstein) - YouTube](https://www.youtube.com/watch?v=tL9bJZKuvzg&t=451s) 
 ### November 29, 2019 
