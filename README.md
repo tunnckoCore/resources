@@ -26,6 +26,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### December 8, 2019 
+- [A Vision for a Better Future: The Personal Platform - By Mark Nadal](https://hackernoon.com/a-vision-for-a-better-future-the-personal-platform-o01s33z5) 
 ### December 6, 2019 
 - [Global Financial Meltdown - One Of The Best Financial Crisis Documentary Films - YouTube](https://www.youtube.com/watch?v=VQzEWeGJLP0) 
 - [New Money - The Greatest Wealth Creation Event in History (2019) - Full Documentary - YouTube](https://www.youtube.com/watch?v=CaELQS5kTso) 
