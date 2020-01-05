@@ -29,7 +29,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
-### December 20, 2019 
+### January 5, 2020 
 - [Cloudflare vs CloudFront: How They Work, Plus Which is Best For You](https://wp-rocket.me/blog/cloudflare-vs-cloudfront/) 
 - [Fast Cloudfront log queries using AWS Athena and Serverless](https://medium.com/compass-true-north/fast-cloudfront-log-queries-using-aws-athena-and-serverless-ef117393c5a6) 
 - [Analyze your Amazon CloudFront access logs at scale | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/analyze-your-amazon-cloudfront-access-logs-at-scale/) 
