@@ -35,6 +35,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Analyze your Amazon CloudFront access logs at scale | AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/analyze-your-amazon-cloudfront-access-logs-at-scale/) 
 - [My confusions about TypeScript - DEV Community 👩‍💻👨‍💻](https://dev.to/kenbellows/my-confusions-about-typescript-1odm) 
 - [Thank You, Edward Snowden | Tor Blog](https://blog.torproject.org/thank-you-edward-snowden-tor) 
+- [Is Gary Vaynerchuk 'wrong, wrong, wrong, wrong, wrong' about media?](https://www.campaignlive.co.uk/article/gary-vaynerchuk-wrong-wrong-wrong-wrong-wrong-media/1663992) 
 ### December 18, 2019 
 - [How to become a Developer Advocate: my story and some practical tips](https://www.freecodecamp.org/news/how-to-become-a-developer-advocate-my-story-and-some-practical-tips-bfb27552657e/) 
 - [One year as a Developer Advocate - Vlad Mihalcea at RedHat Hibernate](https://vladmihalcea.com/one-year-as-a-developer-advocate/) 
