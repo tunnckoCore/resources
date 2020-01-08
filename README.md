@@ -30,6 +30,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### January 8, 2020 
+- [Russ on Twitter: "UK Trade talks, a prediction](https://twitter.com/RussInCheshire/status/1208333108472434688) 
 ### January 6, 2020 
 - [The History of @DefinitelyTyped & TypeScript | John Reilly Blog](https://blog.johnnyreilly.com/2019/10/definitely-typed-movie.html) 
 ### January 5, 2020 
