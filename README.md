@@ -34,6 +34,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### January 8, 2020 
 - [Russ on Twitter: "UK Trade talks, a prediction](https://twitter.com/RussInCheshire/status/1208333108472434688) 
 - [javascript - What are the differences between the private keyword and private fields in TypeScript 3.8 (today)? - Stack Overflow](https://stackoverflow.com/questions/59641564/what-are-the-differences-between-the-private-keyword-and-private-fields-in-types) 
+- [Introduction | Architect Personality (INTJ-A / INTJ-T) | 16Personalities.com](https://www.16personalities.com/intj-personality) 
 ### January 6, 2020 
 - [The History of @DefinitelyTyped & TypeScript | John Reilly Blog](https://blog.johnnyreilly.com/2019/10/definitely-typed-movie.html) 
 ### January 5, 2020 
