@@ -32,6 +32,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### January 10, 2020 
+- [Read 365 Books in a Year (or at Least Read Once a Day) | Inc.com](https://www.inc.com/lolly-daskal/how-to-read-365-books-in-a-year-or-at-least-read-every-day.html) 
 ### January 9, 2020 
 - [Design a Flexible Social Card Template for Sharing Content · Learn With Jason](https://www.learnwithjason.dev/blog/design-social-sharing-card/) 
 - [Automatically Generate Social Images for Blog Posts · Learn With Jason](https://www.learnwithjason.dev/blog/auto-generate-social-image/) 
