@@ -38,6 +38,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [New Year’s Resolutions for Every Personality Type | 16Personalities.com](https://www.16personalities.com/articles/new-years-resolutions-for-every-personality-type) 
 - [Architect Personality and Emotions | 16Personalities.com](https://www.16personalities.com/articles/architect-personality-and-emotions) 
 - [Why Should I Care?: An Architect Experiments with Empathy | 16Personalities](https://www.16personalities.com/articles/why-should-i-care-an-architect-experiments-with-empathy) 
+- [Emotional Intelligence and Analysts: Finding What Works | 16Personalities](https://www.16personalities.com/articles/emotional-intelligence-and-analysts-finding-what-works) 
 ### January 8, 2020 
 - [Russ on Twitter: "UK Trade talks, a prediction](https://twitter.com/RussInCheshire/status/1208333108472434688) 
 - [javascript - What are the differences between the private keyword and private fields in TypeScript 3.8 (today)? - Stack Overflow](https://stackoverflow.com/questions/59641564/what-are-the-differences-between-the-private-keyword-and-private-fields-in-types) 
