@@ -36,6 +36,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### January 12, 2020 
 - [Join our online JavaScript book club - DEV Community 👩‍💻👨‍💻](https://dev.to/madisonkanna/join-our-javascript-book-club-l4k) 
+- [An abbreviated history of JavaScript package managers](https://medium.com/javascript-in-plain-english/an-abbreviated-history-of-javascript-package-managers-f9797be7cf0e) 
 ### January 10, 2020 
 - [Read 365 Books in a Year (or at Least Read Once a Day) | Inc.com](https://www.inc.com/lolly-daskal/how-to-read-365-books-in-a-year-or-at-least-read-every-day.html) 
 ### January 9, 2020 
