@@ -35,6 +35,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### January 16, 2020 
+- [JavaScript January - resources and articles](https://www.javascriptjanuary.com/) 
 ### January 13, 2020 
 - [I went to see a movie, and instead I saw the future. (an interesting point of view)](https://m.signalvnoise.com/i-went-to-see-a-movie-and-instead-i-saw-the-future/) 
 ### January 12, 2020 
