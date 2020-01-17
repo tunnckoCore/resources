@@ -41,6 +41,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [BECOMING A MORNING PERSON » + printable guide - @Pick Up Limes - YouTube](https://www.youtube.com/watch?v=yG_4BR08y8o) 
 - [Minimal bullet journal setup » for productivity + mindfulness - @Pick Up Limes - YouTube](https://www.youtube.com/watch?v=ZK5VUuxGYr0) 
 - [BENEFITS OF MINIMALISM » + common minimalism mistake - @Pick Up Limes - YouTube](https://www.youtube.com/watch?v=VYziZLlAMSI) 
+- [The Only Nonfiction Book List You’ll Ever Need - Blinkist Magazine](https://www.blinkist.com/magazine/posts/nonfiction-book-list-blinkist) 
 ### January 16, 2020 
 - [JavaScript January - resources and articles](https://www.javascriptjanuary.com/) 
 ### January 13, 2020 
