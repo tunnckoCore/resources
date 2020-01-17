@@ -36,6 +36,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### January 17, 2020 
+- [BECOMING A MORNING PERSON » + printable guide - YouTube](https://www.youtube.com/watch?v=yG_4BR08y8o) 
 ### January 16, 2020 
 - [JavaScript January - resources and articles](https://www.javascriptjanuary.com/) 
 ### January 13, 2020 
