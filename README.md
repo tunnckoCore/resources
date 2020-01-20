@@ -37,6 +37,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### January 21, 2020 
+- [Barack Obama’s Favorite Nonfiction Books of 2019 - Blinkist Magazine](https://www.blinkist.com/magazine/posts/barack-obamas-favorite-nonfiction-books-2019) 
 ### January 17, 2020 
 - [BECOMING A MORNING PERSON » + printable guide - @Pick Up Limes - YouTube](https://www.youtube.com/watch?v=yG_4BR08y8o) 
 - [Minimal bullet journal setup » for productivity + mindfulness - @Pick Up Limes - YouTube](https://www.youtube.com/watch?v=ZK5VUuxGYr0) 
