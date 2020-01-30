@@ -38,6 +38,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### January 30, 2020 
+- [How to use streaming parsing in JavaScript](https://appspector.com/blog/how-to-use-streaming-data-parsing-in-javascript) 
 ### January 21, 2020 
 - [Barack Obama’s Favorite Nonfiction Books of 2019 - Blinkist Magazine](https://www.blinkist.com/magazine/posts/barack-obamas-favorite-nonfiction-books-2019) 
 - [Transform Your Life in 2020 by Asking More Beautiful Questions](https://www.blinkist.com/magazine/posts/transform-life-2018-asking-beautiful-questions) 
