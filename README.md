@@ -39,6 +39,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### February 4, 2020 
+- [SameSite cookies explained](https://web.dev/samesite-cookies-explained/) 
 ### January 30, 2020 
 - [How to use streaming parsing in JavaScript](https://appspector.com/blog/how-to-use-streaming-data-parsing-in-javascript) 
 - [How JavaScript works: Optimizing for parsing efficiency - LogRocket Blog](https://blog.logrocket.com/how-javascript-works-optimizing-for-parsing-efficiency/) 
