@@ -40,6 +40,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### February 6, 2020 
+- [Understanding Memoization In JavaScript](https://codequs.com/p/H1XlyssUE/understanding-memoization-in-javascript#toc-memoization-libraries) 
 ### February 4, 2020 
 - [SameSite cookies explained](https://web.dev/samesite-cookies-explained/) 
 ### January 30, 2020 
