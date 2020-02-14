@@ -42,6 +42,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### February 15, 2020 
+- [☝️ GraphQL File Uploads with React Hooks, TypeScript & Amazon S3 [Tutorial]](https://blog.apollographql.com/%EF%B8%8F-graphql-file-uploads-with-react-hooks-typescript-amazon-s3-tutorial-ef39d21066a2) 
 ### February 7, 2020 
 - [Events vs Streams vs Observables vs Async Iterators - Stack Overflow](https://stackoverflow.com/questions/39439653/events-vs-streams-vs-observables-vs-async-iterators/47214496#47214496) 
 ### February 6, 2020 
