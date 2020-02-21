@@ -47,6 +47,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### February 21, 2020 
 - [Farmdev: The Art of UI Skeletons](http://farmdev.com/thoughts/108/the-art-of-ui-skeletons/) 
 - [The Global Entrepreneurs Guide to CFC Rules | Tax Secrets](https://globalisationguide.org/complete-guide-to-cfc-rules/) 
+- [Best Countries to Incorporate a Remote Based Company for Digital Nomads](https://remoters.net/best-countries-to-incorporate-a-remote-based-company-for-digital-nomads/) 
 ### February 15, 2020 
 - [☝️ GraphQL File Uploads with React Hooks, TypeScript & Amazon S3 [Tutorial]](https://blog.apollographql.com/%EF%B8%8F-graphql-file-uploads-with-react-hooks-typescript-amazon-s3-tutorial-ef39d21066a2) 
 ### February 7, 2020 
