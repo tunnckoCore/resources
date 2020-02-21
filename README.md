@@ -43,6 +43,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### February 21, 2020 
+- [Farmdev: The Art of UI Skeletons](http://farmdev.com/thoughts/108/the-art-of-ui-skeletons/) 
 ### February 15, 2020 
 - [☝️ GraphQL File Uploads with React Hooks, TypeScript & Amazon S3 [Tutorial]](https://blog.apollographql.com/%EF%B8%8F-graphql-file-uploads-with-react-hooks-typescript-amazon-s3-tutorial-ef39d21066a2) 
 ### February 7, 2020 
