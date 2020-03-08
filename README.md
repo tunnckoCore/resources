@@ -49,6 +49,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### March 8, 2020 
+- [Goodbye North Pole - YouTube](https://www.youtube.com/watch?v=wnexzUxUNX4) 
 ### March 5, 2020 
 - [udomdiff - The Web smallest DOM diffing library - Andrea Giammarchi - Medium](https://medium.com/@WebReflection/the-web-smallest-dom-diffing-library-5b69ac4d1f4d) 
 ### March 2, 2020 
