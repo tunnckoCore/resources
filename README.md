@@ -50,6 +50,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### March 9, 2020 
+- [What the Hell Happened to Shuffling? - VICE](https://www.vice.com/en_uk/article/kb5n4v/what-the-hell-happened-to-shuffling) 
 ### March 8, 2020 
 - [Goodbye North Pole - YouTube](https://www.youtube.com/watch?v=wnexzUxUNX4) 
 - [What Will Happen When Earth's North And South Pole Flip? - YouTube](https://www.youtube.com/watch?v=I6Ggs7nUjxA&t=0s) 
