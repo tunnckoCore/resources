@@ -54,6 +54,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### March 10, 2020 
 - [Изборът да си сам - свобода или бягане от отговорност? - Хубава жена](https://hubavajena.bg/izboryt-da-si-sam-svoboda-ili-byagane-ot-otgovornost/?fbclid=IwAR3HSfGEn0SHXDp6kpc7HKqmdL6_t69pcUwRigXS2_CIOhCmIiRzzQgI1UE) 
+- [7 Signs You Are Emotionally Mature - YouTube](https://www.youtube.com/watch?v=gPCiIGJlm-4&t=309s) 
 ### March 9, 2020 
 - [What the Hell Happened to Shuffling? - VICE](https://www.vice.com/en_uk/article/kb5n4v/what-the-hell-happened-to-shuffling) 
 ### March 8, 2020 
