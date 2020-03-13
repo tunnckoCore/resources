@@ -53,6 +53,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### March 13, 2020 
+- [Technology is Exponential But Humans Are Linear](https://www.interceptinghorizons.com/post/technology-is-exponential-but-humans-are-linear) 
 ### March 12, 2020 
 - [Diving Into Rust For The First Time - YouTube](https://www.youtube.com/watch?v=_jMSrMex6R0&t=0s) 
 ### March 10, 2020 
