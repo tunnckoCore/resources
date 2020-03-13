@@ -58,6 +58,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Technology is Exponential But Humans Are Linear](https://www.interceptinghorizons.com/post/technology-is-exponential-but-humans-are-linear) 
 - [Coronavirus COVID19: The exponential threat! Or Why You Must Act Now - Tomas Pueyo - Medium](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) 
 - [What Would Negative Interest Rates Mean For Consumers And The Economy? - YouTube](https://www.youtube.com/watch?v=FiYTmTHFa9E) 
+- [What Would Negative Interest Rates Mean For Consumers And The Economy? - YouTube](https://www.youtube.com/watch?v=FiYTmTHFa9E) 
 ### March 12, 2020 
 - [Diving Into Rust For The First Time - YouTube](https://www.youtube.com/watch?v=_jMSrMex6R0&t=0s) 
 ### March 10, 2020 
