@@ -54,6 +54,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### March 14, 2020 
+- [Opinion | How Much Worse the Coronavirus Could Get, in Charts - The New York Times](https://www.nytimes.com/interactive/2020/03/13/opinion/coronavirus-trump-response.html) 
 ### March 13, 2020 
 - [Technology is Exponential But Humans Are Linear](https://www.interceptinghorizons.com/post/technology-is-exponential-but-humans-are-linear) 
 - [Coronavirus COVID19: The exponential threat! Or Why You Must Act Now - Tomas Pueyo - Medium](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) 
