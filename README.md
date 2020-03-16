@@ -18,6 +18,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### March 16, 2020 
 - [Том и джери пародия (смях) Vbox7](https://www.vbox7.com/play:5ee8424614) 
 - [Том и Джери - Пародия - Кучешка Къща - Vbox7](https://www.vbox7.com/play:c2032d472e) 
+- [The future of JavaScript as server-side code - DEV Community 👩‍💻👨‍💻](https://dev.to/pyxel/the-future-of-javascript-as-server-side-code-2ndi) 
 ### March 14, 2020 
 - [Opinion | How Much Worse the Coronavirus Could Get, in Charts - The New York Times](https://www.nytimes.com/interactive/2020/03/13/opinion/coronavirus-trump-response.html) 
 ### March 13, 2020 
