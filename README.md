@@ -16,6 +16,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### March 19, 2020 
+- [Part 1: Intro to Web Development with Rust for NodeJS Developers - DEV Community 👩‍💻👨‍💻](https://dev.to/gruberb/intro-to-web-programming-in-rust-for-nodejs-developers-lp) 
 ### March 18, 2020 
 - [@zkat: A System for Sustainable FOSS - DEV Community 👩‍💻👨‍💻](https://dev.to/zkat/a-system-for-sustainable-foss-11k9) 
 - [Open-Source Is the New Black - Towards Data Science](https://towardsdatascience.com/open-source-is-the-new-black-431d7d568e51) 
