@@ -18,6 +18,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### March 18, 2020 
 - [@zkat: A System for Sustainable FOSS - DEV Community 👩‍💻👨‍💻](https://dev.to/zkat/a-system-for-sustainable-foss-11k9) 
+- [Open-Source Is the New Black - Towards Data Science](https://towardsdatascience.com/open-source-is-the-new-black-431d7d568e51) 
 ### March 16, 2020 
 - [Том и джери пародия (смях) Vbox7](https://www.vbox7.com/play:5ee8424614) 
 - [Том и Джери - Пародия - Кучешка Къща - Vbox7](https://www.vbox7.com/play:c2032d472e) 
