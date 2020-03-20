@@ -21,6 +21,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 ### March 20, 2020 
 - [Code caching for JavaScript developers · V8](https://v8.dev/blog/code-caching-for-devs) 
 - [Deep Dive into Worker Threads in Node.js - Deepal’s Blog](https://blog.insiderattack.net/deep-dive-into-worker-threads-in-node-js-e75e10546b11) 
+- [My top 3 tips for working remotely](https://krasimirtsonev.com/blog/article/working-remotely-3-top-advices) 
 ### March 19, 2020 
 - [Part 1: Intro to Web Development with Rust for NodeJS Developers - DEV Community 👩‍💻👨‍💻](https://dev.to/gruberb/intro-to-web-programming-in-rust-for-nodejs-developers-lp) 
 - [iPad Pro — Your next computer is not a computer — Apple - YouTube](https://www.youtube.com/watch?v=09_QxCcBEyU) 
