@@ -23,6 +23,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Deep Dive into Worker Threads in Node.js - Deepal’s Blog](https://blog.insiderattack.net/deep-dive-into-worker-threads-in-node-js-e75e10546b11) 
 - [My top 3 tips for working remotely](https://krasimirtsonev.com/blog/article/working-remotely-3-top-advices) 
 - [Bullet Journal: A Productivity System for Programmers - Simple Programmer](https://simpleprogrammer.com/bullet-journal-productivity-programmers/) 
+- [Getting Started with Bullet Journalling For Web Developers - By](https://hackernoon.com/getting-started-with-bullet-journalling-for-web-developers-4b44455519f4) 
 ### March 19, 2020 
 - [Part 1: Intro to Web Development with Rust for NodeJS Developers - DEV Community 👩‍💻👨‍💻](https://dev.to/gruberb/intro-to-web-programming-in-rust-for-nodejs-developers-lp) 
 - [iPad Pro — Your next computer is not a computer — Apple - YouTube](https://www.youtube.com/watch?v=09_QxCcBEyU) 
