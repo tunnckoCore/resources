@@ -25,6 +25,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [Bullet Journal: A Productivity System for Programmers - Simple Programmer](https://simpleprogrammer.com/bullet-journal-productivity-programmers/) 
 - [Getting Started with Bullet Journalling For Web Developers - By](https://hackernoon.com/getting-started-with-bullet-journalling-for-web-developers-4b44455519f4) 
 - [How I reverse engineered Notion API](https://blog.kowalczyk.info/article/88aee8f43620471aa9dbcad28368174c/how-i-reverse-engineered-notion-api.html) 
+- [Coronavirus: The Hammer and the Dance - Tomas Pueyo - Medium](https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56) 
 ### March 19, 2020 
 - [Part 1: Intro to Web Development with Rust for NodeJS Developers - DEV Community 👩‍💻👨‍💻](https://dev.to/gruberb/intro-to-web-programming-in-rust-for-nodejs-developers-lp) 
 - [iPad Pro — Your next computer is not a computer — Apple - YouTube](https://www.youtube.com/watch?v=09_QxCcBEyU) 
