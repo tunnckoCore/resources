@@ -20,6 +20,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### March 31, 2020 
+- [Build an app with React and GraphQL](https://scrimba.com/g/greactgraphql?utm_source=newsletter&utm_medium=email&utm_campaign=2xreact_mainlist_launch) 
 ### March 25, 2020 
 - [Raves from phenomenal use of the BBC News theme tune](https://twitter.com/sophiasgaler/status/1242419440899231750) 
 - [$250 Trillion in Debt: the World’s Post-Lehman Legacy](https://www.bloomberg.com/graphics/2018-lehman-debt/) 
