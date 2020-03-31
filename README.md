@@ -24,6 +24,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 ### April 1, 2020 
 - [New home for Logux: Pouring love into an OSS documentation website — Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/new-home-for-logux-pouring-love-into-an-oss-documentation-website) 
+- [Mozilla Web Security Observatory](https://observatory.mozilla.org/) 
 ### March 31, 2020 
 - [Build an app with React and GraphQL](https://scrimba.com/g/greactgraphql?utm_source=newsletter&utm_medium=email&utm_campaign=2xreact_mainlist_launch) 
 ### March 25, 2020 
