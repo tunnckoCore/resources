@@ -22,6 +22,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### April 3, 2020 
+- [THE GOVERNMENT WON'T HELP YOU WITH CORONAVIRUS: How To Save Yourself From COVID-19 | Robert Kiyosaki - YouTube](https://www.youtube.com/watch?v=sS65EBayLAE) 
 ### April 1, 2020 
 - [New home for Logux: Pouring love into an OSS documentation website — Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/new-home-for-logux-pouring-love-into-an-oss-documentation-website) 
 - [Mozilla Web Security Observatory](https://observatory.mozilla.org/) 
