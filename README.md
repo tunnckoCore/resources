@@ -31,6 +31,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [A private equity firm now runs .org, the domain for nonprofits](https://mashable.com/article/dot-org-domain-private-equity-acquisition/?europe=true) 
 - [Introducing ETHPlanet - ETHPlanet.org - Medium](https://medium.com/@ETHPlanet/welcome-to-ethplanet-52fa66675c77) 
 - [2010 Rockefeller Foundation Document Envisions Pandemic Police State Scenario – ConspiracyAnalyst.org](https://conspiracyanalyst.org/2014/10/27/2010-rockefeller-foundation-document-envisions-pandemic-police-state-scenario/) 
+- [Need a webcam in Ubuntu? No problem thanks to Android.](https://medium.com/@freeyourdesktopblog/need-a-webcam-in-ubuntu-no-problem-thanks-to-android-5bec45e345cf) 
 ### April 3, 2020 
 - [THE GOVERNMENT WON'T HELP YOU WITH CORONAVIRUS: How To Save Yourself From COVID-19 | Robert Kiyosaki - YouTube](https://www.youtube.com/watch?v=sS65EBayLAE) 
 ### April 1, 2020 
