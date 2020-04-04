@@ -29,6 +29,7 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 - [We Are Not Serious Enough About Software Development](https://medium.com/better-programming/we-are-not-serious-enough-about-software-development-b9e3222f2906) 
 - [Protesters take their '.org' sale criticism offline](https://mashable.com/article/icann-dot-org-sale-protests/?europe=true&utm_source=internal&utm_medium=onsite) 
 - [A private equity firm now runs .org, the domain for nonprofits](https://mashable.com/article/dot-org-domain-private-equity-acquisition/?europe=true) 
+- [Introducing ETHPlanet - ETHPlanet.org - Medium](https://medium.com/@ETHPlanet/welcome-to-ethplanet-52fa66675c77) 
 ### April 3, 2020 
 - [THE GOVERNMENT WON'T HELP YOU WITH CORONAVIRUS: How To Save Yourself From COVID-19 | Robert Kiyosaki - YouTube](https://www.youtube.com/watch?v=sS65EBayLAE) 
 ### April 1, 2020 
