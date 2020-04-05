@@ -24,6 +24,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### April 5, 2020 
+- [Solus Linux + OpenZFS – Tech Blog](http://blog.twbc.net/2019/01/07/solus-linux-openzfs/) 
 ### April 4, 2020 
 - [Should you choose a freelance team over a digital agency? - Silva Web Designs](https://silvawebdesigns.com/should-you-choose-a-freelance-team-over-a-digital-agency/) 
 - [We Are Not Serious Enough About Software Development](https://medium.com/better-programming/we-are-not-serious-enough-about-software-development-b9e3222f2906) 
