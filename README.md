@@ -26,6 +26,9 @@ _Since [October 21, 2017](#october-21-2017)._ Hit :star: (_star_) for showing su
 
 
 
+
+### April 7, 2020 
+- [The Coronavirus Conspiracy: How COVID-19 Will Seize Your Rights & Destroy Our Economy - David Icke - London Real](https://londonreal.tv/the-coronavirus-conspiracy-how-covid-19-will-seize-your-rights-destroy-our-economy-david-icke/) 
 ### April 6, 2020 
 - [How to use Github Desktop with Gitlab - ITNEXT](https://itnext.io/how-to-use-github-desktop-with-gitlab-cd4d2de3d104) 
 ### April 5, 2020 
